@@ -1,0 +1,23 @@
+Package: multiomics
+Title: Analysis of Multiple Molecular Datasets of Different Types
+Version: 1.0.0
+Authors@R: 
+    person(given = "Jamie",
+           family = "Brett",
+           role = c("aut", "cre"),
+           email = "jbrett@stanford.edu",)
+Description: A program that analyzes multiple "omics" datasets, such as
+    RNA-Seq, whole-genome bisulfite sequencing, ATAC-Seq, proteomics, and metabolomics.
+    Dataset types are combined to improve the power of detecting enriched pathways, especially
+    small pathways. Dataset types are also combined to identify changes that are compensatory
+    with regard to direct downstream changes.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+biocViews:
+Imports:
+	igraph,
+	httr,
+	org.Mm.eg.db,
+	AnnotationDbi
+RoxygenNote: 7.1.0

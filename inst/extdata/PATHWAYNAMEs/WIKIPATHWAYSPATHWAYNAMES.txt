@@ -1,0 +1,227 @@
+PATHWAY	NAME
+WP1	Statin Pathway
+WP10	IL-9 Signaling Pathway
+WP103	Cholesterol Biosynthesis
+WP108	Selenium metabolism/Selenoproteins
+WP113	TGF Beta Signaling Pathway
+WP116	Hedgehog Signaling Pathway
+WP1241	Glucuronidation
+WP1242	Non-homologous end joining
+WP1243	EBV LMP1 signaling
+WP1244	Estrogen signaling
+WP1245	Keap1-Nrf2
+WP1246	Hypothetical Network for Drug Addiction
+WP1247	Methylation
+WP1248	Oxidative phosphorylation
+WP1249	EPO Receptor Signaling
+WP1250	Arachidonate Epoxygenase   Epoxide Hydrolase
+WP1251	Metapathway biotransformation
+WP1252	Amino acid conjugation of benzoic acid
+WP1253	Type II interferon signaling (IFNG)
+WP1254	Apoptosis
+WP1256	NLR Proteins
+WP1257	Mismatch repair
+WP1258	Homologous recombination
+WP1259	Retinol metabolism
+WP1261	ErbB signaling pathway
+WP1262	Aflatoxin B1 metabolism
+WP1263	Mitochondrial Gene Expression
+WP1264	Estrogen metabolism
+WP1265	Polyol pathway
+WP1266	SIDS Susceptibility Pathways
+WP1269	Fatty Acid Beta Oxidation
+WP1270	Endochondral Ossification
+WP1271	Toll-like receptor signaling pathway
+WP1272	Selenium Micronutrient Network
+WP1273	Folic Acid Network
+WP1274	Oxidation by Cytochrome P450
+WP1396	Non-odorant GPCRs
+WP1397	Odorant GPCRs
+WP1398	Orphan GPCRs
+WP1496	Oxidative Damage
+WP1498	Dopaminergic Neurogenesis
+WP150	DNA Replication
+WP1500	SHH, FGF8, Stat3
+WP151	IL-5 Signaling Pathway
+WP1526	Regulation of Cardiac Hypertrophy by miR-208
+WP1560	MicroRNAs in Cardiomyocyte Hypertrophy
+WP157	Glycolysis and Gluconeogenesis
+WP1596	Iron Homeostasis
+WP163	Cytoplasmic Ribosomal Proteins
+WP164	Glutathione metabolism
+WP166	Apoptosis Modulation by HSP70
+WP175	Acetylcholine Synthesis
+WP1763	PluriNetWork
+WP1770	One carbon metabolism and related pathways
+WP1771	Kennedy pathway
+WP18	Heme Biosynthesis
+WP189	GPCRs, Class A Rhodopsin-like
+WP190	Cell cycle
+WP193	Signaling of Hepatocyte Growth Factor Receptor
+WP1983	Splicing factor NOVA regulated synaptic proteins
+WP200	Complement Activation, Classical Pathway
+WP201	Ptf1a related regulatory pathway
+WP202	Hypertrophy Model
+WP2067	Heart Development
+WP207	Nucleotide GPCRs
+WP2074	Neural Crest Differentiation
+WP2075	Alzheimers Disease
+WP2076	miRs in Muscle Cell Differentiation
+WP2079	Serotonin Receptor 2 and STAT3 Signaling
+WP2081	SRF and miRs in Smooth Muscle Differentiation and Proliferation
+WP2082	Cell Differentiation - Index
+WP2083	Nicotine Activity on Dopaminergic Neurons
+WP2084	SREBF and miR33 in cholesterol and lipid homeostasis
+WP2085	miRNAs involved in DNA damage response
+WP2140	Serotonin and anxiety-related events
+WP2141	Serotonin and anxiety
+WP2152	BDNF Pathway
+WP216	Striated Muscle Contraction
+WP2170	S1P pathways and spinal cord injury
+WP2185	Purine metabolism
+WP222	Cytokines and Inflammatory Response
+WP2271	Macrophage markers
+WP2292	Chemokine signaling pathway
+WP2309	XPodNet - protein-protein interactions in the podocyte expanded by STRING
+WP2310	PodNet: protein-protein interactions in the podocyte
+WP2316	PPAR signaling pathway
+WP2318	Fatty acid oxidation
+WP232	G Protein Signaling Pathways
+WP234	Peptide GPCRs
+WP2375	miRNAs and TFs in iPS Cell Generation
+WP238	Osteoblast
+WP240	Alanine and aspartate metabolism
+WP2432	Spinal Cord Injury
+WP246	TNF-alpha NF-kB Signaling Pathway
+WP251	MAPK Cascade
+WP252	Androgen Receptor Signaling Pathway
+WP2561	Dantrolene Metabolic Pathway
+WP2573	Primary Focal Segmental Glomerulosclerosis FSGS
+WP258	TGF-beta Receptor Signaling Pathway
+WP2589	Limb Development
+WP2604	Limb and Fin Development
+WP265	Delta-Notch Signaling Pathway
+WP273	Ovarian Infertility Genes
+WP274	B Cell Receptor Signaling Pathway
+WP2841	Focal Adhesion-PI3K-Akt-mTOR-signaling pathway
+WP2852	Gene regulatory network modelling somitogenesis 
+WP2872	White fat cell differentiation
+WP29	Notch Signaling Pathway
+WP2902	p53 signaling
+WP2904	Mir302-367 Promoting Cardiomyocyte Proliferation
+WP2910	Mecp2 and Associated Rett Syndrome
+WP2928	miR-222 in Exercise-Induced Cardiac Growth
+WP295	Electron Transport Chain
+WP297	IL-7 Signaling Pathway
+WP298	G13 Signaling Pathway
+WP300	Histone modifications
+WP307	Translation Factors
+WP310	mRNA processing
+WP317	Glycogen Metabolism
+WP318	Eicosanoid Synthesis
+WP327	GPCRs, Class C Metabotropic glutamate, pheromone
+WP3284	MAPK signaling pathway
+WP33	Fatty Acid Omega Oxidation
+WP336	Fatty Acid Biosynthesis
+WP339	ESC Pluripotency Pathways
+WP3415	Adar1 editing defficiency immune response
+WP350	p38 MAPK Signaling Pathway
+WP353	Small Ligand GPCRs
+WP3586	Glycolysis
+WP3587	TCA Cycle (streamlined)
+WP3588	Fatty Acid Beta Oxidation (streamlined)
+WP3592	ApoE and miR-146 in inflammation and atherosclerosis
+WP3625	TYROBP Causal Network
+WP3626	Microglia Pathogen Phagocytosis Pathway
+WP3632	Lung fibrosis
+WP3638	Parkinsons Disease Pathway
+WP3652	EDA Signalling in Hair Follicle Development
+WP3654	Novel Jun-Dmp1 Pathway
+WP3663	BMP Signaling Pathway in Eyelid Development
+WP3673	 Hfe effect on hepcidin production
+WP3675	Factors and pathways affecting insulin-like growth factor (IGF1)-Akt signaling
+WP37	IL-1 Signaling Pathway
+WP373	IL-3 Signaling Pathway
+WP374	Prostaglandin Synthesis and Regulation
+WP385	Myometrial Relaxation and Contraction Pathways
+WP3855	Dysregulated miRNA Targeting in Insulin/PI3K-AKT Signaling
+WP3857	Wnt Signaling in Kidney Disease
+WP386	Triacylglyceride Synthesis
+WP3864	Robo4 and VEGF Signaling Pathways Crosstalk
+WP387	IL-6 signaling Pathway
+WP396	ACE Inhibitor Pathway
+WP3979	mir-193a and MVP in colon cancer metastasis
+WP3991	miR-127 in mesendoderm differentiation
+WP401	Mitochondrial LC-Fatty Acid Beta-Oxidation
+WP403	Wnt Signaling Pathway
+WP407	Kit Receptor Signaling Pathway
+WP41	GPCRs, Other
+WP412	Oxidative Stress
+WP413	G1 to S cell cycle control
+WP4183	Distal Convoluted Tubule 1 (DCT1) Cell
+WP4226	Mechanism of Neuromodulatory Action of Exogenous Oxytocin (OT) and Antagonist (OTA) by GABAergic Transmission in Brain
+WP426	Urea cycle and metabolism of amino groups
+WP4265	Ethanol metabolism resulting in production of ROS by CYP2E1
+WP431	Nuclear receptors in lipid metabolism and toxicity
+WP4335	Eicosanoid Lipid Synthesis Map
+WP434	TCA Cycle
+WP4344	Sphingolipid Metabolism (general overview)
+WP4345	Glycerolipids and Glycerophospholipids
+WP4346	Cholesterol metabolism (includes both Bloch and Kandutsch-Russell pathways)
+WP4347	Eicosanoid metabolism via Cyclo Oxygenases (COX)
+WP4348	Eicosanoid metabolism via Lipo Oxygenases (LOX)
+WP4349	Eicosanoid metabolism via Cytochrome P450 Mono-Oxygenases (CYP) pathway
+WP435	One Carbon Metabolism
+WP4350	Omega-3/Omega-6 FA synthesis
+WP4351	Omega-9 FA synthesis
+WP4398	PDGFR&alpha; and STMN1 cooperate to exacerbate the cytotoxic effects of vinblastine
+WP441	Matrix Metalloproteinases
+WP4467	Osteoclast
+WP447	Adipogenesis genes
+WP4474	Circulating monocytes and cardiac macrophages in diastolic dysfunction
+WP449	Complement and Coagulation Cascades
+WP4491	Elongation of (very) long chain fatty acids
+WP450	IL-2 Signaling Pathway
+WP454	Osteoclast
+WP456	GPCRs, Class B Secretin-like
+WP458	Inflammatory Response Pathway
+WP460	Blood Clotting Cascade
+WP4627	 Lipids measured in liver metastasis from breast cancer
+WP4690	Sphingolipid Metabolism (integrated pathway)
+WP4749	Immune response in Tg26 glomeruli
+WP475	Irinotecan Pathway
+WP4763	Regulation of Pgc1a expression by a Gsk3b-Tfeb signaling axis in skeletal muscle
+WP480	T Cell Receptor Signaling Pathway
+WP488	Alpha6-Beta4 Integrin Signaling Pathway
+WP493	MAPK signaling pathway
+WP495	Glucocorticoid &amp; Mineralcorticoid Metabolism
+WP509	Nuclear Receptors
+WP512	Id Signaling Pathway
+WP519	Proteasome Degradation
+WP522	Biogenic Amine Synthesis
+WP523	Regulation of Actin Cytoskeleton
+WP535	Neural retinal development
+WP539	Wnt Signaling Pathway NetPath
+WP543	Synthesis and Degradation of Ketone Bodies
+WP544	Exercise-induced Circadian Regulation
+WP55	Steroid Biosynthesis
+WP553	Calcium Regulation in the Cardiac Cell
+WP567	Eukaryotic Transcription Initiation
+WP57	Signal Transduction of S1P Receptor
+WP570	Monoamine GPCRs
+WP571	FAS pathway and Stress induction of HSP regulation
+WP572	EGFR1 Signaling Pathway
+WP578	Leptin Insulin Overlap
+WP6	Integrin-mediated Cell Adhesion
+WP608	miR-1 in cardiac development
+WP63	Pentose Phosphate Pathway
+WP65	Insulin Signaling
+WP662	Amino Acid metabolism
+WP683	Leptin and adiponectin
+WP723	Wnt Signaling Pathway and Pluripotency
+WP730	Glutathione and one carbon metabolism
+WP79	Tryptophan metabolism
+WP85	Focal Adhesion
+WP87	Nucleotide Metabolism
+WP88	Toll Like Receptor signaling
+WP93	IL-4 signaling Pathway

@@ -1,0 +1,1649 @@
+PATHWAY	NAME
+R-MMU-73843	5-Phosphoribose 1-diphosphate biosynthesis
+R-MMU-1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+R-MMU-1369062	ABC transporters in lipid homeostasis
+R-MMU-382556	ABC-family proteins mediated transport
+R-MMU-9033807	ABO blood group biosynthesis
+R-MMU-418592	ADP signalling through P2Y purinoceptor 1
+R-MMU-392170	ADP signalling through P2Y purinoceptor 12
+R-MMU-198323	AKT phosphorylates targets in the cytosol
+R-MMU-198693	AKT phosphorylates targets in the nucleus
+R-MMU-211163	AKT-mediated inactivation of FOXO1A
+R-MMU-163680	AMPK inhibits chREBP transcriptional activation activity
+R-MMU-179409	APC-Cdc20 mediated degradation of Nek2A
+R-MMU-174143	APC/C-mediated degradation of cell cycle proteins
+R-MMU-174048	APC/C:Cdc20 mediated degradation of Cyclin B
+R-MMU-174154	APC/C:Cdc20 mediated degradation of Securin
+R-MMU-176409	APC/C:Cdc20 mediated degradation of mitotic proteins
+R-MMU-174178	APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1
+R-MMU-179419	APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint
+R-MMU-5649702	APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway
+R-MMU-5624958	ARL13B-mediated ciliary trafficking of INPP5E
+R-MMU-170984	ARMS-mediated activation
+R-MMU-381033	ATF6 (ATF6-alpha) activates chaperones
+R-MMU-1296025	ATP sensitive Potassium channels
+R-MMU-450408	AUF1 (hnRNP D0) binds and destabilizes mRNA
+R-MMU-8854518	AURKA Activation by TPX2
+R-MMU-2161541	Abacavir metabolism
+R-MMU-2161517	Abacavir transmembrane transport
+R-MMU-2161522	Abacavir transport and metabolism
+R-MMU-73930	Abasic sugar-phosphate removal via the single-nucleotide replacement pathway
+R-MMU-156582	Acetylation
+R-MMU-264642	Acetylcholine Neurotransmitter Release Cycle
+R-MMU-181431	Acetylcholine binding and downstream events
+R-MMU-399997	Acetylcholine regulates insulin secretion
+R-MMU-1300645	Acrosome Reaction and Sperm:Oocyte Membrane Binding
+R-MMU-2122948	Activated NOTCH1 Transmits Signal to the Nucleus
+R-MMU-9028731	Activated NTRK2 signals through FRS2 and FRS3
+R-MMU-9032500	Activated NTRK2 signals through FYN
+R-MMU-9026527	Activated NTRK2 signals through PLCG1
+R-MMU-9603381	Activated NTRK3 signals through PI3K
+R-MMU-9034793	Activated NTRK3 signals through PLCG1
+R-MMU-5625886	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-MMU-111452	Activation and oligomerization of BAK protein
+R-MMU-165158	Activation of AKT2
+R-MMU-399710	Activation of AMPA receptors
+R-MMU-176814	Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins
+R-MMU-176187	Activation of ATR in response to replication stress
+R-MMU-111447	Activation of BAD and translocation to mitochondria 
+R-MMU-114452	Activation of BH3-only proteins
+R-MMU-111446	Activation of BIM and translocation to mitochondria 
+R-MMU-139910	Activation of BMF and translocation to mitochondria
+R-MMU-174577	Activation of C3 and C5
+R-MMU-451308	Activation of Ca-permeable Kainate Receptor
+R-MMU-1296041	Activation of G protein gated Potassium channels
+R-MMU-991365	Activation of GABAB receptors
+R-MMU-936964	Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon
+R-MMU-1592389	Activation of Matrix Metalloproteinases
+R-MMU-1169091	Activation of NF-kappaB in B cells
+R-MMU-2980767	Activation of NIMA Kinases NEK9, NEK6, NEK7
+R-MMU-442755	Activation of NMDA receptors and postsynaptic events
+R-MMU-111448	Activation of NOXA and translocation to mitochondria
+R-MMU-451307	Activation of Na-permeable kainate receptors
+R-MMU-9619229	Activation of RAC1 downstream of NMDARs
+R-MMU-1169092	Activation of RAS in B cells
+R-MMU-5635838	Activation of SMO
+R-MMU-187015	Activation of TRKA receptors
+R-MMU-451326	Activation of kainate receptors upon glutamate binding
+R-MMU-450341	Activation of the AP-1 family of transcription factors
+R-MMU-8866907	Activation of the TFAP2 (AP-2) family of transcription factors
+R-MMU-72662	Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S
+R-MMU-2485179	Activation of the phototransduction cascade
+R-MMU-68962	Activation of the pre-replicative complex
+R-MMU-75108	Activation, myristolyation of BID and translocation to mitochondria
+R-MMU-114294	Activation, translocation and oligomerization of BAX
+R-MMU-1482798	Acyl chain remodeling of CL
+R-MMU-1482883	Acyl chain remodeling of DAG and TAG
+R-MMU-1482788	Acyl chain remodelling of PC
+R-MMU-1482839	Acyl chain remodelling of PE
+R-MMU-1482925	Acyl chain remodelling of PG
+R-MMU-1482922	Acyl chain remodelling of PI
+R-MMU-1482801	Acyl chain remodelling of PS
+R-MMU-1280218	Adaptive Immune System
+R-MMU-417973	Adenosine P1 receptors
+R-MMU-170660	Adenylate cyclase activating pathway
+R-MMU-170670	Adenylate cyclase inhibitory pathway
+R-MMU-418990	Adherens junctions interactions
+R-MMU-392023	Adrenaline signalling through Alpha-2 adrenergic receptor
+R-MMU-400042	Adrenaline,noradrenaline inhibits insulin secretion
+R-MMU-390696	Adrenoceptors
+R-MMU-879415	Advanced glycosylation endproduct receptor signaling
+R-MMU-5423646	Aflatoxin activation and detoxification
+R-MMU-9646399	Aggrephagy
+R-MMU-351143	Agmatine biosynthesis
+R-MMU-8964540	Alanine metabolism
+R-MMU-1462054	Alpha-defensins
+R-MMU-389599	Alpha-oxidation of phytanate
+R-MMU-9645460	Alpha-protein kinase 1 signaling pathway
+R-MMU-173736	Alternative complement activation
+R-MMU-140179	Amine Oxidase reactions
+R-MMU-375280	Amine ligand-binding receptors
+R-MMU-156587	Amino Acid conjugation
+R-MMU-352230	Amino acid transport across the plasma membrane
+R-MMU-9639288	Amino acids regulate mTORC1
+R-MMU-141444	Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal
+R-MMU-141424	Amplification of signal from the kinetochores
+R-MMU-2214320	Anchoring fibril formation
+R-MMU-5620912	Anchoring of the basal body to the plasma membrane
+R-MMU-193048	Androgen biosynthesis
+R-MMU-2473224	Antagonism of Activin by Follistatin
+R-MMU-983170	Antigen Presentation: Folding, assembly and peptide loading of class I MHC
+R-MMU-983695	Antigen activates B Cell Receptor (BCR) leading to generation of second messengers
+R-MMU-1236975	Antigen processing-Cross presentation
+R-MMU-983168	Antigen processing: Ubiquitination & Proteasome degradation
+R-MMU-6803157	Antimicrobial peptides
+R-MMU-1169410	Antiviral mechanism by IFN-stimulated genes
+R-MMU-109581	Apoptosis
+R-MMU-140342	Apoptosis induced DNA fragmentation
+R-MMU-351906	Apoptotic cleavage of cell adhesion  proteins
+R-MMU-111465	Apoptotic cleavage of cellular proteins
+R-MMU-75153	Apoptotic execution phase
+R-MMU-111471	Apoptotic factor-mediated response
+R-MMU-445717	Aquaporin-mediated transport
+R-MMU-426048	Arachidonate production from DAG
+R-MMU-2142753	Arachidonic acid metabolism
+R-MMU-8937144	Aryl hydrocarbon receptor signalling
+R-MMU-446203	Asparagine N-linked glycosylation
+R-MMU-8963693	Aspartate and asparagine metabolism
+R-MMU-9609736	Assembly and cell surface presentation of NMDA receptors
+R-MMU-8963889	Assembly of active LPL and LIPC lipase complexes
+R-MMU-2022090	Assembly of collagen fibrils and other multimeric structures
+R-MMU-68616	Assembly of the ORC complex at the origin of replication
+R-MMU-68867	Assembly of the pre-replicative complex
+R-MMU-390471	Association of TriC/CCT with target proteins during biosynthesis
+R-MMU-210455	Astrocytic Glutamate-Glutamine Uptake And Metabolism
+R-MMU-4608870	Asymmetric localization of PCP proteins
+R-MMU-162791	Attachment of GPI anchor to uPAR
+R-MMU-3371568	Attenuation phase
+R-MMU-174084	Autodegradation of Cdh1 by Cdh1:APC/C
+R-MMU-349425	Autodegradation of the E3 ubiquitin ligase COP1
+R-MMU-9612973	Autophagy
+R-MMU-422475	Axon guidance
+R-MMU-193634	Axonal growth inhibition (RHOA activation)
+R-MMU-209563	Axonal growth stimulation
+R-MMU-5250924	B-WICH complex positively regulates rRNA expression
+R-MMU-5620922	BBSome-mediated cargo-targeting to cilium
+R-MMU-111453	BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members
+R-MMU-73884	Base Excision Repair
+R-MMU-73929	Base-Excision Repair, AP Site Formation
+R-MMU-210991	Basigin interactions
+R-MMU-1461957	Beta defensins
+R-MMU-77352	Beta oxidation of butanoyl-CoA to acetyl-CoA
+R-MMU-77346	Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA
+R-MMU-77350	Beta oxidation of hexanoyl-CoA to butanoyl-CoA
+R-MMU-77310	Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA
+R-MMU-77285	Beta oxidation of myristoyl-CoA to lauroyl-CoA
+R-MMU-77348	Beta oxidation of octanoyl-CoA to hexanoyl-CoA
+R-MMU-77305	Beta oxidation of palmitoyl-CoA to myristoyl-CoA
+R-MMU-3858494	Beta-catenin independent WNT signaling
+R-MMU-196299	Beta-catenin phosphorylation cascade
+R-MMU-389887	Beta-oxidation of pristanoyl-CoA
+R-MMU-390247	Beta-oxidation of very long chain fatty acids
+R-MMU-425381	Bicarbonate transporters
+R-MMU-194068	Bile acid and bile salt metabolism
+R-MMU-2173782	Binding and Uptake of Ligands by Scavenger Receptors
+R-MMU-141333	Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB
+R-MMU-211859	Biological oxidations
+R-MMU-9018676	Biosynthesis of D-series resolvins
+R-MMU-9018677	Biosynthesis of DHA-derived SPMs
+R-MMU-9026395	Biosynthesis of DHA-derived sulfido conjugates
+R-MMU-9018683	Biosynthesis of DPA-derived SPMs
+R-MMU-9025094	Biosynthesis of DPAn-3 SPMs
+R-MMU-9026403	Biosynthesis of DPAn-3-derived 13-series resolvins
+R-MMU-9026290	Biosynthesis of DPAn-3-derived maresins
+R-MMU-9026286	Biosynthesis of DPAn-3-derived protectins and resolvins
+R-MMU-9025106	Biosynthesis of DPAn-6 SPMs
+R-MMU-9023661	Biosynthesis of E-series 18(R)-resolvins
+R-MMU-9018896	Biosynthesis of E-series 18(S)-resolvins
+R-MMU-9018679	Biosynthesis of EPA-derived SPMs
+R-MMU-9020265	Biosynthesis of aspirin-triggered D-series resolvins
+R-MMU-9027604	Biosynthesis of electrophilic <U+03C9>-3 PUFA oxo-derivatives
+R-MMU-9026762	Biosynthesis of maresin conjugates in tissue regeneration (MCTR)
+R-MMU-9027307	Biosynthesis of maresin-like SPMs
+R-MMU-9018682	Biosynthesis of maresins
+R-MMU-9026766	Biosynthesis of protectin and resolvin conjugates in tissue regeneration (PCTR and RCTR)
+R-MMU-9018681	Biosynthesis of protectins
+R-MMU-9018678	Biosynthesis of specialized proresolving mediators (SPMs)
+R-MMU-446193	Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein
+R-MMU-196780	Biotin transport and metabolism
+R-MMU-9033658	Blood group systems biosynthesis
+R-MMU-70895	Branched-chain amino acid catabolism
+R-MMU-352238	Breakdown of the nuclear lamina
+R-MMU-450385	Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA
+R-MMU-8851680	Butyrophilin (BTN) family interactions
+R-MMU-5621481	C-type lectin receptors (CLRs)
+R-MMU-75102	C6 deamination of adenosine
+R-MMU-5218900	CASP8 activity is inhibited
+R-MMU-5621575	CD209 (DC-SIGN) signaling
+R-MMU-5690714	CD22 mediated BCR regulation
+R-MMU-389356	CD28 co-stimulation
+R-MMU-389357	CD28 dependent PI3K/Akt signaling
+R-MMU-389359	CD28 dependent Vav1 pathway
+R-MMU-68689	CDC6 association with the ORC:origin complex
+R-MMU-69017	CDK-mediated phosphorylation and removal of Cdc6
+R-MMU-68827	CDT1 association with the CDC6:ORC:origin complex
+R-MMU-5607763	CLEC7A (Dectin-1) induces NFAT activation
+R-MMU-5607764	CLEC7A (Dectin-1) signaling
+R-MMU-5660668	CLEC7A/inflammasome pathway
+R-MMU-6811434	COPI-dependent Golgi-to-ER retrograde traffic
+R-MMU-6811436	COPI-independent Golgi-to-ER retrograde traffic
+R-MMU-6807878	COPI-mediated anterograde transport
+R-MMU-204005	COPII-mediated vesicle transport
+R-MMU-140180	COX reactions
+R-MMU-199920	CREB phosphorylation
+R-MMU-442742	CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling
+R-MMU-442720	CREB1 phosphorylation through the activation of Adenylate Cyclase
+R-MMU-442729	CREB1 phosphorylation through the activation of CaMKII/CaMKK/CaMKIV cascasde
+R-MMU-8874211	CREB3 factors activate genes
+R-MMU-399956	CRMPs in Sema3A signaling
+R-MMU-2024101	CS/DS degradation
+R-MMU-389513	CTLA4 inhibitory signaling
+R-MMU-211999	CYP2E1 reactions
+R-MMU-111996	Ca-dependent events
+R-MMU-1296052	Ca2+ activated K+ channels
+R-MMU-4086398	Ca2+ pathway
+R-MMU-111997	CaM pathway
+R-MMU-111932	CaMK IV-mediated phosphorylation of CREB
+R-MMU-2025928	Calcineurin activates NFAT
+R-MMU-419812	Calcitonin-like ligand receptors
+R-MMU-111933	Calmodulin induced events
+R-MMU-901042	Calnexin/calreticulin cycle
+R-MMU-111957	Cam-PDE 1 activation
+R-MMU-72737	Cap-dependent Translation Initiation
+R-MMU-8955332	Carboxyterminal post-translational modifications of tubulin
+R-MMU-5576891	Cardiac conduction
+R-MMU-5694530	Cargo concentration in the ER
+R-MMU-8856825	Cargo recognition for clathrin-mediated endocytosis
+R-MMU-5620920	Cargo trafficking to the periciliary membrane
+R-MMU-200425	Carnitine metabolism
+R-MMU-71262	Carnitine synthesis
+R-MMU-140534	Caspase activation via Death Receptors in the presence of ligand
+R-MMU-418889	Caspase activation via Dependence Receptors in the absence of ligand
+R-MMU-5357769	Caspase activation via extrinsic apoptotic signalling pathway
+R-MMU-264870	Caspase-mediated cleavage of cytoskeletal proteins
+R-MMU-209905	Catecholamine biosynthesis
+R-MMU-426117	Cation-coupled Chloride cotransporters
+R-MMU-174184	Cdc20:Phospho-APC/C mediated degradation of Cyclin A
+R-MMU-1640170	Cell Cycle
+R-MMU-69620	Cell Cycle Checkpoints
+R-MMU-69278	Cell Cycle, Mitotic
+R-MMU-204998	Cell death signalling via NRAGE, NRIF and NADE
+R-MMU-446728	Cell junction organization
+R-MMU-202733	Cell surface interactions at the vascular wall
+R-MMU-1500931	Cell-Cell communication
+R-MMU-421270	Cell-cell junction organization
+R-MMU-446353	Cell-extracellular matrix interactions
+R-MMU-2559583	Cellular Senescence
+R-MMU-189200	Cellular hexose transport
+R-MMU-3371556	Cellular response to heat stress
+R-MMU-1234174	Cellular response to hypoxia
+R-MMU-8953897	Cellular responses to external stimuli
+R-MMU-2262752	Cellular responses to stress
+R-MMU-380287	Centrosome maturation
+R-MMU-163765	ChREBP activates metabolic gene expression
+R-MMU-390466	Chaperonin-mediated protein folding
+R-MMU-380108	Chemokine receptors bind chemokines
+R-MMU-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex
+R-MMU-191273	Cholesterol biosynthesis
+R-MMU-6807047	Cholesterol biosynthesis via desmosterol
+R-MMU-6807062	Cholesterol biosynthesis via lathosterol
+R-MMU-6798163	Choline catabolism
+R-MMU-2022870	Chondroitin sulfate biosynthesis
+R-MMU-1793185	Chondroitin sulfate/dermatan sulfate metabolism
+R-MMU-3247509	Chromatin modifying enzymes
+R-MMU-4839726	Chromatin organization
+R-MMU-73886	Chromosome Maintenance
+R-MMU-8963888	Chylomicron assembly
+R-MMU-8964026	Chylomicron clearance
+R-MMU-8963901	Chylomicron remodeling
+R-MMU-5617833	Cilium Assembly
+R-MMU-71403	Citric acid cycle (TCA cycle)
+R-MMU-373076	Class A/1 (Rhodopsin-like receptors)
+R-MMU-373080	Class B/2 (Secretin family receptors)
+R-MMU-420499	Class C/3 (Metabotropic glutamate/pheromone receptors)
+R-MMU-983169	Class I MHC mediated antigen processing & presentation
+R-MMU-9603798	Class I peroxisomal membrane protein import
+R-MMU-1296053	Classical Kir channels
+R-MMU-173623	Classical antibody-mediated complement activation
+R-MMU-8856828	Clathrin-mediated endocytosis
+R-MMU-110331	Cleavage of the damaged purine
+R-MMU-110329	Cleavage of the damaged pyrimidine 
+R-MMU-196741	Cobalamin (Cbl, vitamin B12) transport and metabolism
+R-MMU-196783	Coenzyme A biosynthesis
+R-MMU-2470946	Cohesin Loading onto Chromatin
+R-MMU-1650814	Collagen biosynthesis and modifying enzymes
+R-MMU-8948216	Collagen chain trimerization
+R-MMU-1442490	Collagen degradation
+R-MMU-1474290	Collagen formation
+R-MMU-140875	Common Pathway of Fibrin Clot Formation
+R-MMU-166658	Complement cascade
+R-MMU-6799198	Complex I biogenesis
+R-MMU-2514853	Condensation of Prometaphase Chromosomes
+R-MMU-2299718	Condensation of Prophase Chromosomes
+R-MMU-177135	Conjugation of benzoate with glycine
+R-MMU-159424	Conjugation of carboxylic acids
+R-MMU-177162	Conjugation of phenylacetate with glutamine
+R-MMU-177128	Conjugation of salicylate with glycine
+R-MMU-176407	Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase
+R-MMU-6814122	Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding
+R-MMU-388841	Costimulation by the CD28 family
+R-MMU-71288	Creatine metabolism
+R-MMU-166786	Creation of C4 and C2 activators
+R-MMU-8949613	Cristae formation
+R-MMU-1236973	Cross-presentation of particulate exogenous antigens (phagosomes)
+R-MMU-1236978	Cross-presentation of soluble exogenous antigens (endosomes)
+R-MMU-2243919	Crosslinking of collagen fibrils
+R-MMU-69273	Cyclin A/B1/B2 associated events during G2/M transition
+R-MMU-69656	Cyclin A:Cdk2-associated events at S phase entry
+R-MMU-69231	Cyclin D associated events in G1
+R-MMU-69202	Cyclin E associated events during G1/S transition 
+R-MMU-1614603	Cysteine formation from homocysteine
+R-MMU-211897	Cytochrome P450 - arranged by substrate type
+R-MMU-111461	Cytochrome c-mediated apoptotic response
+R-MMU-1280215	Cytokine Signaling in Immune system
+R-MMU-1834949	Cytosolic sensors of pathogen-associated DNA 
+R-MMU-156584	Cytosolic sulfonation of small molecules
+R-MMU-379716	Cytosolic tRNA aminoacylation
+R-MMU-1489509	DAG and IP3 signaling
+R-MMU-2172127	DAP12 interactions
+R-MMU-2424491	DAP12 signaling
+R-MMU-180024	DARPP-32 events
+R-MMU-418885	DCC mediated attractive signaling
+R-MMU-168928	DDX58/IFIH1-mediated induction of interferon-alpha/beta
+R-MMU-3134963	DEx/H-box helicases activate type I IFN and inflammatory cytokines production 
+R-MMU-73893	DNA Damage Bypass
+R-MMU-5696394	DNA Damage Recognition in GG-NER
+R-MMU-73942	DNA Damage Reversal
+R-MMU-2559586	DNA Damage/Telomere Stress Induced Senescence
+R-MMU-5693606	DNA Double Strand Break Response
+R-MMU-5693532	DNA Double-Strand Break Repair
+R-MMU-73894	DNA Repair
+R-MMU-69306	DNA Replication
+R-MMU-69002	DNA Replication Pre-Initiation
+R-MMU-68952	DNA replication initiation
+R-MMU-69190	DNA strand elongation
+R-MMU-376172	DSCAM interactions
+R-MMU-3769402	Deactivation of the beta-catenin transactivating complex
+R-MMU-429947	Deadenylation of mRNA
+R-MMU-429914	Deadenylation-dependent mRNA decay
+R-MMU-73887	Death Receptor Signalling
+R-MMU-5607761	Dectin-1 mediated noncanonical NF-kB signaling
+R-MMU-5621480	Dectin-2 family
+R-MMU-1461973	Defensins
+R-MMU-4641257	Degradation of AXIN
+R-MMU-4641258	Degradation of DVL
+R-MMU-916853	Degradation of GABA
+R-MMU-5610780	Degradation of GLI1 by the proteasome
+R-MMU-195253	Degradation of beta-catenin by the destruction complex
+R-MMU-1614558	Degradation of cysteine and homocysteine
+R-MMU-1474228	Degradation of the extracellular matrix
+R-MMU-4419969	Depolymerisation of the Nuclear Lamina
+R-MMU-606279	Deposition of new CENPA-containing nucleosomes at the centromere
+R-MMU-73927	Depurination
+R-MMU-73928	Depyrimidination
+R-MMU-2022923	Dermatan sulfate biosynthesis
+R-MMU-3299685	Detoxification of Reactive Oxygen Species
+R-MMU-5688426	Deubiquitination
+R-MMU-1266738	Developmental Biology
+R-MMU-8935690	Digestion
+R-MMU-8963743	Digestion and absorption
+R-MMU-189085	Digestion of dietary carbohydrate
+R-MMU-192456	Digestion of dietary lipid
+R-MMU-69416	Dimerization of procaspase-8
+R-MMU-4641262	Disassembly of the destruction complex and recruitment of AXIN to the membrane
+R-MMU-114516	Disinhibition of SNARE formation
+R-MMU-110357	Displacement of DNA glycosylase by APEX1
+R-MMU-75205	Dissolution of Fibrin Clot
+R-MMU-212676	Dopamine Neurotransmitter Release Cycle
+R-MMU-379401	Dopamine clearance from the synaptic cleft
+R-MMU-390651	Dopamine receptors
+R-MMU-8863795	Downregulation of ERBB2 signaling
+R-MMU-1358803	Downregulation of ERBB2:ERBB3 signaling
+R-MMU-1253288	Downregulation of ERBB4 signaling
+R-MMU-2173795	Downregulation of SMAD2/3:SMAD4 transcriptional activity
+R-MMU-2173788	Downregulation of TGF-beta receptor signaling
+R-MMU-202424	Downstream TCR signaling
+R-MMU-186763	Downstream signal transduction
+R-MMU-1168372	Downstream signaling events of B Cell Receptor (BCR)
+R-MMU-5654687	Downstream signaling of activated FGFR1
+R-MMU-5654696	Downstream signaling of activated FGFR2
+R-MMU-5654708	Downstream signaling of activated FGFR3
+R-MMU-5654716	Downstream signaling of activated FGFR4
+R-MMU-5696400	Dual Incision in GG-NER
+R-MMU-6782135	Dual incision in TC-NER
+R-MMU-113510	E2F mediated regulation of DNA replication
+R-MMU-8866654	E3 ubiquitin ligases ubiquitinate target proteins
+R-MMU-3000178	ECM proteoglycans
+R-MMU-2179392	EGFR Transactivation by Gastrin
+R-MMU-182971	EGFR downregulation
+R-MMU-212718	EGFR interacts with phospholipase C-gamma
+R-MMU-9648025	EML4 and NUDC in mitotic spindle formation
+R-MMU-2682334	EPH-Ephrin signaling
+R-MMU-3928665	EPH-ephrin mediated repulsion of cells
+R-MMU-3928663	EPHA-mediated growth cone collapse
+R-MMU-3928662	EPHB-mediated forward signaling
+R-MMU-901032	ER Quality Control Compartment (ERQC)
+R-MMU-199977	ER to Golgi Anterograde Transport
+R-MMU-1236974	ER-Phagosome pathway
+R-MMU-8847993	ERBB2 Activates PTK6 Signaling
+R-MMU-6785631	ERBB2 Regulates Cell Motility
+R-MMU-198753	ERK/MAPK targets
+R-MMU-202670	ERKs are inactivated
+R-MMU-8939211	ESR-mediated signaling
+R-MMU-114508	Effects of PIP2 hydrolysis
+R-MMU-391903	Eicosanoid ligand-binding receptors
+R-MMU-211979	Eicosanoids
+R-MMU-1566948	Elastic fibre formation
+R-MMU-112303	Electric Transmission Across Gap Junctions
+R-MMU-2395516	Electron transport from NADPH to Ferredoxin
+R-MMU-139853	Elevation of cytosolic Ca2+ levels
+R-MMU-211976	Endogenous sterols
+R-MMU-917729	Endosomal Sorting Complex Required For Transport (ESCRT)
+R-MMU-1236977	Endosomal/Vacuolar pathway
+R-MMU-380972	Energy dependent regulation of mTOR by LKB1-AMPK
+R-MMU-379398	Enzymatic degradation of Dopamine by monoamine oxidase
+R-MMU-379397	Enzymatic degradation of dopamine by COMT
+R-MMU-3928664	Ephrin signaling
+R-MMU-212165	Epigenetic regulation of gene expression
+R-MMU-1237044	Erythrocytes take up carbon dioxide and release oxygen
+R-MMU-1247673	Erythrocytes take up oxygen and release carbon dioxide
+R-MMU-9027276	Erythropoietin activates Phosphoinositide-3-kinase (PI3K)
+R-MMU-9027284	Erythropoietin activates RAS
+R-MMU-2468052	Establishment of Sister Chromatid Cohesion
+R-MMU-193144	Estrogen biosynthesis
+R-MMU-9018519	Estrogen-dependent gene expression
+R-MMU-9634638	Estrogen-dependent nuclear events downstream of ESR-membrane signaling
+R-MMU-9634635	Estrogen-stimulated signaling through PRKCZ
+R-MMU-71384	Ethanol oxidation
+R-MMU-156842	Eukaryotic Translation Elongation
+R-MMU-72613	Eukaryotic Translation Initiation
+R-MMU-72764	Eukaryotic Translation Termination
+R-MMU-8941413	Events associated with phagocytolytic activity of PMN cells
+R-MMU-9036866	Expression and Processing of Neurotrophins
+R-MMU-180786	Extension of Telomeres
+R-MMU-9009391	Extra-nuclear estrogen signaling
+R-MMU-1474244	Extracellular matrix organization
+R-MMU-140834	Extrinsic Pathway of Fibrin Clot Formation
+R-MMU-8854050	FBXL7 down-regulates AURKA during mitotic entry and in early mitosis
+R-MMU-2871809	FCERI mediated Ca+2 mobilization
+R-MMU-2871796	FCERI mediated MAPK activation
+R-MMU-2871837	FCERI mediated NF-kB activation
+R-MMU-2029481	FCGR activation
+R-MMU-190242	FGFR1 ligand binding and activation
+R-MMU-190370	FGFR1b ligand binding and activation
+R-MMU-190374	FGFR1c and Klotho ligand binding and activation
+R-MMU-190373	FGFR1c ligand binding and activation
+R-MMU-6803529	FGFR2 alternative splicing
+R-MMU-190241	FGFR2 ligand binding and activation
+R-MMU-190377	FGFR2b ligand binding and activation
+R-MMU-190375	FGFR2c ligand binding and activation
+R-MMU-190239	FGFR3 ligand binding and activation
+R-MMU-190371	FGFR3b ligand binding and activation
+R-MMU-190372	FGFR3c ligand binding and activation
+R-MMU-190322	FGFR4 ligand binding and activation
+R-MMU-5658623	FGFRL1 modulation of FGFR1 signaling
+R-MMU-9607240	FLT3 Signaling
+R-MMU-217271	FMO oxidises nucleophiles
+R-MMU-9614085	FOXO-mediated transcription
+R-MMU-9617828	FOXO-mediated transcription of cell cycle genes
+R-MMU-9615017	FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes
+R-MMU-5654693	FRS-mediated FGFR1 signaling
+R-MMU-5654700	FRS-mediated FGFR2 signaling
+R-MMU-5654706	FRS-mediated FGFR3 signaling
+R-MMU-5654712	FRS-mediated FGFR4 signaling
+R-MMU-983231	Factors involved in megakaryocyte development and platelet production
+R-MMU-6783310	Fanconi Anemia Pathway
+R-MMU-75157	FasL/ CD95L signaling
+R-MMU-434316	Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+R-MMU-8978868	Fatty acid metabolism
+R-MMU-211935	Fatty acids
+R-MMU-75105	Fatty acyl-CoA biosynthesis
+R-MMU-2454202	Fc epsilon receptor (FCERI) signaling
+R-MMU-2029480	Fcgamma receptor (FCGR) dependent phagocytosis
+R-MMU-1187000	Fertilization
+R-MMU-1566977	Fibronectin matrix formation
+R-MMU-2855086	Ficolins bind to repetitive carbohydrate structures on the target cell surface
+R-MMU-163210	Formation of ATP by chemiosmotic coupling
+R-MMU-140877	Formation of Fibrin Clot (Clotting Cascade)
+R-MMU-5696395	Formation of Incision Complex in GG-NER
+R-MMU-112382	Formation of RNA Pol II elongation complex 
+R-MMU-2559584	Formation of Senescence-Associated Heterochromatin Foci (SAHF)
+R-MMU-6781823	Formation of TC-NER Pre-Incision Complex
+R-MMU-72689	Formation of a pool of free 40S subunits
+R-MMU-196025	Formation of annular gap junctions
+R-MMU-111458	Formation of apoptosome
+R-MMU-77042	Formation of editosomes by ADAR proteins
+R-MMU-113418	Formation of the Early Elongation Complex
+R-MMU-75094	Formation of the Editosome
+R-MMU-173599	Formation of the active cofactor, UDP-glucuronate
+R-MMU-201722	Formation of the beta-catenin:TCF transactivating complex
+R-MMU-6809371	Formation of the cornified envelope
+R-MMU-72695	Formation of the ternary complex, and subsequently, the 43S complex
+R-MMU-5661270	Formation of xylulose-5-phosphate
+R-MMU-444473	Formyl peptide receptors bind formyl peptides and many other ligands
+R-MMU-444209	Free fatty acid receptors
+R-MMU-400451	Free fatty acids regulate insulin secretion
+R-MMU-170968	Frs2-mediated activation
+R-MMU-5652227	Fructose biosynthesis
+R-MMU-70350	Fructose catabolism
+R-MMU-5652084	Fructose metabolism
+R-MMU-416482	G alpha (12/13) signalling events
+R-MMU-418594	G alpha (i) signalling events
+R-MMU-416476	G alpha (q) signalling events
+R-MMU-418555	G alpha (s) signalling events
+R-MMU-418597	G alpha (z) signalling events
+R-MMU-8964315	G beta:gamma signalling through BTK
+R-MMU-8964616	G beta:gamma signalling through CDC42
+R-MMU-392451	G beta:gamma signalling through PI3Kgamma
+R-MMU-418217	G beta:gamma signalling through PLC beta
+R-MMU-1296059	G protein gated Potassium channels
+R-MMU-202040	G-protein activation
+R-MMU-397795	G-protein beta:gamma signalling
+R-MMU-112040	G-protein mediated events
+R-MMU-1538133	G0 and Early G1
+R-MMU-69236	G1 Phase
+R-MMU-69615	G1/S DNA Damage Checkpoints
+R-MMU-69206	G1/S Transition
+R-MMU-68911	G2 Phase
+R-MMU-69481	G2/M Checkpoints
+R-MMU-69473	G2/M DNA damage checkpoint
+R-MMU-69478	G2/M DNA replication checkpoint
+R-MMU-69275	G2/M Transition
+R-MMU-180292	GAB1 signalosome
+R-MMU-977444	GABA B receptor activation
+R-MMU-977443	GABA receptor activation
+R-MMU-888568	GABA synthesis
+R-MMU-888590	GABA synthesis, release, reuptake and degradation
+R-MMU-6787639	GDP-fucose biosynthesis
+R-MMU-5610785	GLI3 is processed to GLI3R by the proteasome
+R-MMU-430116	GP1b-IX-V activation signalling
+R-MMU-388396	GPCR downstream signalling
+R-MMU-500792	GPCR ligand binding
+R-MMU-114604	GPVI-mediated activation cascade
+R-MMU-179812	GRB2 events in EGFR signaling
+R-MMU-1963640	GRB2 events in ERBB2 signaling
+R-MMU-354194	GRB2:SOS provides linkage to MAPK signaling for Integrins 
+R-MMU-1306955	GRB7 events in ERBB2 signaling
+R-MMU-72706	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-MMU-70370	Galactose catabolism
+R-MMU-163841	Gamma carboxylation, hypusine formation and arylsulfatase activation
+R-MMU-159740	Gamma-carboxylation of protein precursors
+R-MMU-159854	Gamma-carboxylation, transport, and amino-terminal cleavage of proteins
+R-MMU-190861	Gap junction assembly
+R-MMU-190873	Gap junction degradation
+R-MMU-190828	Gap junction trafficking
+R-MMU-157858	Gap junction trafficking and regulation
+R-MMU-5696397	Gap-filling DNA repair synthesis and ligation in GG-NER
+R-MMU-6782210	Gap-filling DNA repair synthesis and ligation in TC-NER
+R-MMU-881907	Gastrin-CREB signalling pathway via PKC and MAPK
+R-MMU-211000	Gene Silencing by RNA
+R-MMU-74160	Gene expression (Transcription)
+R-MMU-202433	Generation of second messenger molecules
+R-MMU-212436	Generic Transcription Pathway
+R-MMU-5696399	Global Genome Nucleotide Excision Repair (GG-NER)
+R-MMU-163359	Glucagon signaling in metabolic regulation
+R-MMU-381676	Glucagon-like Peptide-1 (GLP1) regulates insulin secretion
+R-MMU-420092	Glucagon-type ligand receptors
+R-MMU-194002	Glucocorticoid biosynthesis
+R-MMU-70263	Gluconeogenesis
+R-MMU-70326	Glucose metabolism
+R-MMU-156588	Glucuronidation
+R-MMU-210500	Glutamate Neurotransmitter Release Cycle
+R-MMU-8964539	Glutamate and glutamine metabolism
+R-MMU-399721	Glutamate binding, activation of AMPA receptors and synaptic plasticity
+R-MMU-156590	Glutathione conjugation
+R-MMU-174403	Glutathione synthesis and recycling
+R-MMU-1483206	Glycerophospholipid biosynthesis
+R-MMU-6814848	Glycerophospholipid catabolism
+R-MMU-6783984	Glycine degradation
+R-MMU-70221	Glycogen breakdown (glycogenolysis)
+R-MMU-8982491	Glycogen metabolism
+R-MMU-3322077	Glycogen synthesis
+R-MMU-70171	Glycolysis
+R-MMU-209822	Glycoprotein hormones
+R-MMU-1630316	Glycosaminoglycan metabolism
+R-MMU-1660662	Glycosphingolipid metabolism
+R-MMU-389661	Glyoxylate metabolism and glycine degradation
+R-MMU-432722	Golgi Associated Vesicle Biogenesis
+R-MMU-162658	Golgi Cisternae Pericentriolar Stack Reorganization
+R-MMU-8856688	Golgi-to-ER retrograde transport
+R-MMU-982772	Growth hormone receptor signaling
+R-MMU-3214847	HATs acetylate histones
+R-MMU-1296061	HCN channels
+R-MMU-8963896	HDL assembly
+R-MMU-8964011	HDL clearance
+R-MMU-8964058	HDL remodeling
+R-MMU-3214842	HDMs demethylate histones
+R-MMU-5685942	HDR through Homologous Recombination (HRR)
+R-MMU-5693567	HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)
+R-MMU-5685939	HDR through MMEJ (alt-NHEJ)
+R-MMU-5685938	HDR through Single Strand Annealing (SSA)
+R-MMU-2022928	HS-GAG biosynthesis
+R-MMU-2024096	HS-GAG degradation
+R-MMU-3371511	HSF1 activation
+R-MMU-3371571	HSF1-dependent transactivation
+R-MMU-3371497	HSP90 chaperone cycle for steroid hormone receptors (SHR)
+R-MMU-5610787	Hedgehog 'off' state
+R-MMU-5632684	Hedgehog 'on' state
+R-MMU-5358346	Hedgehog ligand biogenesis
+R-MMU-189451	Heme biosynthesis
+R-MMU-189483	Heme degradation
+R-MMU-109582	Hemostasis
+R-MMU-1638091	Heparan sulfate/heparin (HS-GAG) metabolism
+R-MMU-629597	Highly calcium permeable nicotinic acetylcholine receptors
+R-MMU-629594	Highly calcium permeable postsynaptic nicotinic acetylcholine receptors
+R-MMU-629587	Highly sodium permeable acetylcholine nicotinic receptors
+R-MMU-390650	Histamine receptors
+R-MMU-70921	Histidine catabolism
+R-MMU-5693579	Homologous DNA Pairing and Strand Exchange
+R-MMU-5693538	Homology Directed Repair
+R-MMU-375281	Hormone ligand-binding receptors
+R-MMU-450520	HuR (ELAVL1) binds and stabilizes mRNA
+R-MMU-2142850	Hyaluronan biosynthesis and export
+R-MMU-2142845	Hyaluronan metabolism
+R-MMU-2160916	Hyaluronan uptake and degradation
+R-MMU-1483115	Hydrolysis of LPC
+R-MMU-1483152	Hydrolysis of LPE
+R-MMU-3296197	Hydroxycarboxylic acid-binding receptors
+R-MMU-204626	Hypusine synthesis from eIF5A-lysine
+R-MMU-2428924	IGF1R signaling cascade
+R-MMU-937041	IKK complex recruitment mediated by RIP1
+R-MMU-6788467	IL-6-type cytokine receptor ligand interactions
+R-MMU-937039	IRAK1 recruits IKK complex
+R-MMU-975144	IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation
+R-MMU-937042	IRAK2 mediated activation of TAK1 complex
+R-MMU-975163	IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation
+R-MMU-381070	IRE1alpha activates chaperones
+R-MMU-1606341	IRF3 mediated activation of type 1 IFN
+R-MMU-3270619	IRF3-mediated induction of type I IFN
+R-MMU-74713	IRS activation
+R-MMU-112399	IRS-mediated signalling
+R-MMU-2428928	IRS-related events triggered by IGF1R
+R-MMU-1169408	ISG15 antiviral mechanism
+R-MMU-168256	Immune System
+R-MMU-198933	Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell
+R-MMU-141430	Inactivation of APC/C via direct inhibition of the APC/C complex
+R-MMU-2514859	Inactivation, recovery and regulation of the phototransduction cascade
+R-MMU-400508	Incretin synthesis, secretion, and inactivation
+R-MMU-622312	Inflammasomes
+R-MMU-997272	Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits
+R-MMU-165181	Inhibition of TSC complex formation by PKB
+R-MMU-113501	Inhibition of replication initiation of damaged DNA by RB1/E2F1
+R-MMU-141405	Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components
+R-MMU-166663	Initial triggering of complement
+R-MMU-2995383	Initiation of Nuclear Envelope Reformation
+R-MMU-168249	Innate Immune System
+R-MMU-1483249	Inositol phosphate metabolism
+R-MMU-429593	Inositol transporters
+R-MMU-9609523	Insertion of tail-anchored proteins into the endoplasmic reticulum membrane
+R-MMU-163754	Insulin effects increased synthesis of Xylulose-5-Phosphate
+R-MMU-264876	Insulin processing
+R-MMU-77387	Insulin receptor recycling
+R-MMU-74751	Insulin receptor signalling cascade
+R-MMU-163685	Integration of energy metabolism
+R-MMU-216083	Integrin cell surface interactions
+R-MMU-354192	Integrin signaling
+R-MMU-2534343	Interaction With Cumulus Cells And The Zona Pellucida
+R-MMU-445095	Interaction between L1 and Ankyrins
+R-MMU-8854521	Interaction between PHLDA1 and AURKA
+R-MMU-880009	Interconversion of 2-oxoglutarate and 2-hydroxyglutarate
+R-MMU-499943	Interconversion of nucleotide di- and triphosphates
+R-MMU-351200	Interconversion of polyamines
+R-MMU-913531	Interferon Signaling
+R-MMU-909733	Interferon alpha/beta signaling
+R-MMU-877300	Interferon gamma signaling
+R-MMU-912526	Interleukin receptor SHC signaling
+R-MMU-446652	Interleukin-1 family signaling
+R-MMU-448706	Interleukin-1 processing
+R-MMU-9020702	Interleukin-1 signaling
+R-MMU-6783783	Interleukin-10 signaling
+R-MMU-447115	Interleukin-12 family signaling
+R-MMU-9020591	Interleukin-12 signaling
+R-MMU-8983432	Interleukin-15 signaling
+R-MMU-448424	Interleukin-17 signaling
+R-MMU-451927	Interleukin-2 family signaling
+R-MMU-9020558	Interleukin-2 signaling
+R-MMU-8854691	Interleukin-20 family signaling
+R-MMU-9020958	Interleukin-21 signaling
+R-MMU-9020933	Interleukin-23 signaling
+R-MMU-9020956	Interleukin-27 signaling
+R-MMU-512988	Interleukin-3, Interleukin-5 and GM-CSF signaling
+R-MMU-9014843	Interleukin-33 signaling
+R-MMU-8984722	Interleukin-35 Signalling
+R-MMU-9014826	Interleukin-36 pathway
+R-MMU-9008059	Interleukin-37 signaling
+R-MMU-9007892	Interleukin-38 signaling
+R-MMU-6785807	Interleukin-4 and Interleukin-13 signaling
+R-MMU-6783589	Interleukin-6 family signaling
+R-MMU-1059683	Interleukin-6 signaling
+R-MMU-1266695	Interleukin-7 signaling
+R-MMU-8985947	Interleukin-9 signaling
+R-MMU-8963676	Intestinal absorption
+R-MMU-8981373	Intestinal hexose absorption
+R-MMU-8963678	Intestinal lipid absorption
+R-MMU-6811442	Intra-Golgi and retrograde Golgi-to-ER traffic
+R-MMU-6811438	Intra-Golgi traffic
+R-MMU-434313	Intracellular metabolism of fatty acids regulates insulin secretion
+R-MMU-8981607	Intracellular oxygen transport
+R-MMU-9006925	Intracellular signaling by second messengers
+R-MMU-5620924	Intraflagellar transport
+R-MMU-109606	Intrinsic Pathway for Apoptosis
+R-MMU-140837	Intrinsic Pathway of Fibrin Clot Formation
+R-MMU-8941237	Invadopodia formation
+R-MMU-1296065	Inwardly rectifying K+ channels
+R-MMU-983712	Ion channel transport
+R-MMU-5578775	Ion homeostasis
+R-MMU-6803544	Ion influx/efflux at host-pathogen interface
+R-MMU-936837	Ion transport by P-type ATPases
+R-MMU-451306	Ionotropic activity of kainate receptors
+R-MMU-917937	Iron uptake and transport
+R-MMU-450321	JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1
+R-MMU-5689877	Josephin domain DUBs
+R-MMU-450604	KSRP (KHSRP) binds and destabilizes mRNA
+R-MMU-2022854	Keratan sulfate biosynthesis
+R-MMU-2022857	Keratan sulfate degradation
+R-MMU-1638074	Keratan sulfate/keratin metabolism
+R-MMU-6805567	Keratinization
+R-MMU-74182	Ketone body metabolism
+R-MMU-983189	Kinesins
+R-MMU-156827	L13a-mediated translational silencing of Ceruloplasmin expression
+R-MMU-373760	L1CAM interactions
+R-MMU-8964038	LDL clearance
+R-MMU-8964041	LDL remodeling
+R-MMU-5682910	LGI-ADAM interactions
+R-MMU-3134973	LRR FLII-interacting protein 1 (LRRFIP1) activates type I IFN production
+R-MMU-5653890	Lactose synthesis
+R-MMU-69186	Lagging Strand Synthesis
+R-MMU-3000157	Laminin interactions
+R-MMU-69109	Leading Strand Synthesis
+R-MMU-166662	Lectin pathway of complement activation
+R-MMU-391906	Leukotriene receptors
+R-MMU-9037629	Lewis blood group biosynthesis
+R-MMU-5632681	Ligand-receptor interactions
+R-MMU-2046105	Linoleic acid (LA) metabolism
+R-MMU-8964572	Lipid particle organization
+R-MMU-446343	Localization of the PINCH-ILK-PARVIN complex to focal adhesions
+R-MMU-9620244	Long-term potentiation
+R-MMU-380259	Loss of Nlp from mitotic centrosomes
+R-MMU-380284	Loss of proteins required for interphase microtubule organization from the centrosome
+R-MMU-71064	Lysine catabolism
+R-MMU-8853383	Lysosomal oligosaccharide catabolism
+R-MMU-432720	Lysosome Vesicle Biogenesis
+R-MMU-419408	Lysosphingolipid and LPA receptors
+R-MMU-68886	M Phase
+R-MMU-450294	MAP kinase activation
+R-MMU-5674135	MAP2K and MAPK activation
+R-MMU-5684264	MAP3K8 (TPL2)-dependent MAPK1/3 activation
+R-MMU-5683057	MAPK family signaling cascades
+R-MMU-450282	MAPK targets/ Nuclear events mediated by MAP kinases
+R-MMU-112411	MAPK1 (ERK2) activation
+R-MMU-5684996	MAPK1/MAPK3 signaling
+R-MMU-110056	MAPK3 (ERK1) activation
+R-MMU-5687128	MAPK6/MAPK4 signaling
+R-MMU-2465910	MASTL Facilitates Mitotic Progression
+R-MMU-6806942	MET Receptor Activation
+R-MMU-8851907	MET activates PI3K/AKT signaling
+R-MMU-8874081	MET activates PTK2 signaling
+R-MMU-8865999	MET activates PTPN11
+R-MMU-8875555	MET activates RAP1 and RAC1
+R-MMU-8851805	MET activates RAS signaling
+R-MMU-8875791	MET activates STAT3
+R-MMU-8875513	MET interacts with TNS proteins
+R-MMU-8875878	MET promotes cell motility
+R-MMU-8875656	MET receptor recycling
+R-MMU-2132295	MHC class II antigen presentation
+R-MMU-1632852	Macroautophagy
+R-MMU-6791226	Major pathway of rRNA processing in the nucleolus and cytosol
+R-MMU-5662702	Melanin biosynthesis
+R-MMU-199991	Membrane Trafficking
+R-MMU-1430728	Metabolism
+R-MMU-2022377	Metabolism of Angiotensinogen to Angiotensins
+R-MMU-8953854	Metabolism of RNA
+R-MMU-209776	Metabolism of amine-derived hormones
+R-MMU-71291	Metabolism of amino acids and derivatives
+R-MMU-71387	Metabolism of carbohydrates
+R-MMU-8978934	Metabolism of cofactors
+R-MMU-6806667	Metabolism of fat-soluble vitamins
+R-MMU-196757	Metabolism of folate and pterines
+R-MMU-5263617	Metabolism of ingested MeSeO2H into MeSeH
+R-MMU-2408508	Metabolism of ingested SeMet, Sec, MeSec into H2Se
+R-MMU-556833	Metabolism of lipids
+R-MMU-202131	Metabolism of nitric oxide: eNOS activation and regulation
+R-MMU-194441	Metabolism of non-coding RNA
+R-MMU-15869	Metabolism of nucleotides
+R-MMU-351202	Metabolism of polyamines
+R-MMU-189445	Metabolism of porphyrins
+R-MMU-392499	Metabolism of proteins
+R-MMU-380612	Metabolism of serotonin
+R-MMU-196071	Metabolism of steroid hormones
+R-MMU-8957322	Metabolism of steroids
+R-MMU-6806664	Metabolism of vitamin K
+R-MMU-196854	Metabolism of vitamins and cofactors
+R-MMU-196849	Metabolism of water-soluble vitamins and cofactors
+R-MMU-425410	Metal ion SLC transporters
+R-MMU-6799990	Metal sequestration by antimicrobial proteins
+R-MMU-5689901	Metalloprotease DUBs
+R-MMU-5661231	Metallothioneins bind metals
+R-MMU-1237112	Methionine salvage pathway
+R-MMU-156581	Methylation
+R-MMU-203927	MicroRNA (miRNA) biogenesis
+R-MMU-190840	Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
+R-MMU-193993	Mineralocorticoid biosynthesis
+R-MMU-211958	Miscellaneous substrates
+R-MMU-5223345	Miscellaneous transport and binding events
+R-MMU-5358508	Mismatch Repair
+R-MMU-5358606	Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)
+R-MMU-5358565	Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)
+R-MMU-1369007	Mitochondrial ABC transporters
+R-MMU-77289	Mitochondrial Fatty Acid Beta-Oxidation
+R-MMU-166187	Mitochondrial Uncoupling Proteins
+R-MMU-1592230	Mitochondrial biogenesis
+R-MMU-8949215	Mitochondrial calcium ion transport
+R-MMU-1362409	Mitochondrial iron-sulfur cluster biogenesis
+R-MMU-1268020	Mitochondrial protein import
+R-MMU-379726	Mitochondrial tRNA aminoacylation
+R-MMU-163282	Mitochondrial transcription initiation
+R-MMU-163316	Mitochondrial transcription termination
+R-MMU-5368287	Mitochondrial translation
+R-MMU-5389840	Mitochondrial translation elongation
+R-MMU-5419276	Mitochondrial translation termination
+R-MMU-5205647	Mitophagy
+R-MMU-68882	Mitotic Anaphase
+R-MMU-453279	Mitotic G1 phase and G1/S transition
+R-MMU-453274	Mitotic G2-G2/M phases
+R-MMU-2555396	Mitotic Metaphase and Anaphase
+R-MMU-68881	Mitotic Metaphase/Anaphase Transition
+R-MMU-68877	Mitotic Prometaphase
+R-MMU-68875	Mitotic Prophase
+R-MMU-69618	Mitotic Spindle Checkpoint
+R-MMU-68884	Mitotic Telophase/Cytokinesis
+R-MMU-2129379	Molecules associated with elastic fibres
+R-MMU-947581	Molybdenum cofactor biosynthesis
+R-MMU-427601	Multifunctional anion exchangers
+R-MMU-390648	Muscarinic acetylcholine receptors
+R-MMU-397014	Muscle contraction
+R-MMU-975871	MyD88 cascade initiated on plasma membrane
+R-MMU-975155	MyD88 dependent cascade initiated on endosome
+R-MMU-166166	MyD88-independent TLR4 cascade 
+R-MMU-166058	MyD88:MAL(TIRAP) cascade initiated on plasma membrane
+R-MMU-525793	Myogenesis
+R-MMU-975577	N-Glycan antennae elongation
+R-MMU-975576	N-glycan antennae elongation in the medial/trans-Golgi
+R-MMU-964739	N-glycan trimming and elongation in the cis-Golgi
+R-MMU-532668	N-glycan trimming in the ER and Calnexin/Calreticulin cycle
+R-MMU-205025	NADE modulates death signalling
+R-MMU-389542	NADPH regeneration
+R-MMU-375165	NCAM signaling for neurite out-growth
+R-MMU-419037	NCAM1 interactions
+R-MMU-209560	NF-kB is activated and signals survival
+R-MMU-205017	NFG and proNGF binds to p75NTR
+R-MMU-167060	NGF processing
+R-MMU-5676590	NIK-->noncanonical NF-kB signaling
+R-MMU-168638	NOD1/2 Signaling Pathway
+R-MMU-203754	NOSIP mediated eNOS trafficking
+R-MMU-203641	NOSTRIN mediated eNOS trafficking
+R-MMU-2122947	NOTCH1 Intracellular Domain Regulates Transcription
+R-MMU-9013507	NOTCH3 Activation and Transmission of Signal to the Nucleus
+R-MMU-9013700	NOTCH4 Activation and Transmission of Signal to the Nucleus
+R-MMU-9623433	NR1H2 & NR1H3 regulate gene expression to control bile acid homeostasis
+R-MMU-9024446	NR1H2 and NR1H3-mediated signaling
+R-MMU-9029569	NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux
+R-MMU-193648	NRAGE signals death through JNK
+R-MMU-205043	NRIF signals cell death from the nucleus
+R-MMU-9034013	NTF3 activates NTRK3 signaling
+R-MMU-9032759	NTRK2 activates RAC1
+R-MMU-442660	Na+/Cl- dependent neurotransmitter transporters
+R-MMU-420597	Nectin/Necl  trans heterodimerization
+R-MMU-8951664	Neddylation
+R-MMU-5250941	Negative epigenetic regulation of rRNA expression
+R-MMU-5674499	Negative feedback regulation of MAPK pathway
+R-MMU-5654726	Negative regulation of FGFR1 signaling
+R-MMU-5654727	Negative regulation of FGFR2 signaling
+R-MMU-5654732	Negative regulation of FGFR3 signaling
+R-MMU-5654733	Negative regulation of FGFR4 signaling
+R-MMU-5675221	Negative regulation of MAPK pathway
+R-MMU-6807004	Negative regulation of MET activity
+R-MMU-9604323	Negative regulation of NOTCH4 signaling
+R-MMU-3772470	Negative regulation of TCF-dependent signaling by WNT ligand antagonists
+R-MMU-8866904	Negative regulation of activity of TFAP2 (AP-2) family transcription factors
+R-MMU-199418	Negative regulation of the PI3K/AKT network
+R-MMU-936440	Negative regulators of DDX58/IFIH1 signaling
+R-MMU-373753	Nephrin family interactions
+R-MMU-373752	Netrin-1 signaling
+R-MMU-6794361	Neurexins and neuroligins
+R-MMU-447043	Neurofascin interactions
+R-MMU-112316	Neuronal System
+R-MMU-194306	Neurophilin interactions with VEGF and VEGFR
+R-MMU-112311	Neurotransmitter clearance
+R-MMU-112314	Neurotransmitter receptors and postsynaptic signal transmission
+R-MMU-112310	Neurotransmitter release cycle
+R-MMU-112313	Neurotransmitter uptake and metabolism In glial cells
+R-MMU-6798695	Neutrophil degranulation
+R-MMU-197264	Nicotinamide salvaging
+R-MMU-196807	Nicotinate metabolism
+R-MMU-392154	Nitric oxide stimulates guanylate cyclase
+R-MMU-427413	NoRC negatively regulates rRNA expression
+R-MMU-3000171	Non-integrin membrane-ECM interactions
+R-MMU-9017802	Noncanonical activation of NOTCH3
+R-MMU-5693571	Nonhomologous End-Joining (NHEJ)
+R-MMU-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-MMU-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-MMU-927802	Nonsense-Mediated Decay (NMD)
+R-MMU-181430	Norepinephrine Neurotransmitter Release Cycle
+R-MMU-350054	Notch-HLH transcription pathway
+R-MMU-2980766	Nuclear Envelope Breakdown
+R-MMU-2995410	Nuclear Envelope Reassembly
+R-MMU-198725	Nuclear Events (kinase and transcription factor activation)
+R-MMU-3301854	Nuclear Pore Complex (NPC) Disassembly
+R-MMU-383280	Nuclear Receptor transcription pathway
+R-MMU-1251985	Nuclear signaling by ERBB4
+R-MMU-8956320	Nucleobase biosynthesis
+R-MMU-8956319	Nucleobase catabolism
+R-MMU-774815	Nucleosome assembly
+R-MMU-5696398	Nucleotide Excision Repair
+R-MMU-8956321	Nucleotide salvage
+R-MMU-168643	Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways
+R-MMU-418038	Nucleotide-like (purinergic) receptors
+R-MMU-5173214	O-glycosylation of TSR domain-containing proteins
+R-MMU-5173105	O-linked glycosylation
+R-MMU-913709	O-linked glycosylation of mucins
+R-MMU-1480926	O2/CO2 exchange in erythrocytes
+R-MMU-8983711	OAS antiviral response
+R-MMU-381753	Olfactory Signaling Pathway
+R-MMU-190704	Oligomerization of connexins into connexons
+R-MMU-2559585	Oncogene Induced Senescence
+R-MMU-111885	Opioid Signalling
+R-MMU-419771	Opsins
+R-MMU-68949	Orc1 removal from chromatin
+R-MMU-389397	Orexin and neuropeptides FF and QRFP bind to their respective receptors
+R-MMU-1852241	Organelle biogenesis and maintenance
+R-MMU-561048	Organic anion transport
+R-MMU-428643	Organic anion transporters
+R-MMU-549127	Organic cation transport
+R-MMU-549132	Organic cation/anion/zwitterion transport
+R-MMU-449836	Other interleukin signaling
+R-MMU-416700	Other semaphorin interactions
+R-MMU-5689896	Ovarian tumor domain proteases
+R-MMU-2559580	Oxidative Stress Induced Senescence
+R-MMU-1234176	Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha
+R-MMU-417957	P2Y receptors
+R-MMU-141334	PAOs oxidise polyamines to amines
+R-MMU-5651801	PCNA-Dependent Long Patch Base Excision Repair
+R-MMU-4086400	PCP/CE pathway
+R-MMU-389948	PD-1 signaling
+R-MMU-165160	PDE3B signalling
+R-MMU-210990	PECAM1 interactions
+R-MMU-381042	PERK regulates gene expression
+R-MMU-1483255	PI Metabolism
+R-MMU-1483196	PI and PC transport between ER and Golgi membranes
+R-MMU-5654689	PI-3K cascade:FGFR1
+R-MMU-5654695	PI-3K cascade:FGFR2
+R-MMU-5654710	PI-3K cascade:FGFR3
+R-MMU-5654720	PI-3K cascade:FGFR4
+R-MMU-109704	PI3K Cascade
+R-MMU-1963642	PI3K events in ERBB2 signaling
+R-MMU-1250342	PI3K events in ERBB4 signaling
+R-MMU-198203	PI3K/AKT activation
+R-MMU-6811555	PI5P Regulates TP53 Acetylation
+R-MMU-6811558	PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling
+R-MMU-1257604	PIP3 activates AKT signaling
+R-MMU-163615	PKA activation
+R-MMU-164378	PKA activation in glucagon signalling
+R-MMU-111931	PKA-mediated phosphorylation of CREB
+R-MMU-163358	PKA-mediated phosphorylation of key metabolic factors
+R-MMU-109703	PKB-mediated events
+R-MMU-3214841	PKMTs methylate histone lysines
+R-MMU-112043	PLC beta mediated events
+R-MMU-110362	POLB-Dependent Long Patch Base Excision Repair
+R-MMU-212300	PRC2 methylates histones and DNA
+R-MMU-6807070	PTEN Regulation
+R-MMU-8849474	PTK6 Activates STAT3
+R-MMU-8849472	PTK6 Down-Regulation
+R-MMU-8849470	PTK6 Regulates Cell Cycle
+R-MMU-8849468	PTK6 Regulates Proteins Involved in RNA Processing
+R-MMU-8849471	PTK6 Regulates RHO GTPases, RAS GTPase and MAP kinases
+R-MMU-8849469	PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1
+R-MMU-8857538	PTK6 promotes HIF1A stabilization
+R-MMU-171306	Packaging Of Telomere Ends
+R-MMU-432047	Passive transport by Aquaporins
+R-MMU-71336	Pentose phosphate pathway
+R-MMU-156902	Peptide chain elongation
+R-MMU-209952	Peptide hormone biosynthesis
+R-MMU-2980736	Peptide hormone metabolism
+R-MMU-375276	Peptide ligand-binding receptors
+R-MMU-390918	Peroxisomal lipid metabolism
+R-MMU-9033241	Peroxisomal protein import
+R-MMU-5576892	Phase 0 - rapid depolarisation
+R-MMU-5576894	Phase 1 - inactivation of fast Na+ channels
+R-MMU-5576893	Phase 2 - plateau phase
+R-MMU-5576890	Phase 3 - rapid repolarisation
+R-MMU-5576886	Phase 4 - resting membrane potential
+R-MMU-211945	Phase I - Functionalization of compounds
+R-MMU-156580	Phase II - Conjugation of compounds
+R-MMU-8963691	Phenylalanine and tyrosine metabolism
+R-MMU-8964208	Phenylalanine metabolism
+R-MMU-8850843	Phosphate bond hydrolysis by NTPDase proteins
+R-MMU-2393930	Phosphate bond hydrolysis by NUDT proteins
+R-MMU-5654219	Phospholipase C-mediated cascade: FGFR1
+R-MMU-5654221	Phospholipase C-mediated cascade; FGFR2
+R-MMU-5654227	Phospholipase C-mediated cascade; FGFR3
+R-MMU-5654228	Phospholipase C-mediated cascade; FGFR4
+R-MMU-1483257	Phospholipid metabolism
+R-MMU-202427	Phosphorylation of CD3 and TCR zeta chains
+R-MMU-176417	Phosphorylation of Emi1
+R-MMU-69200	Phosphorylation of proteins involved in G1/S transition by active Cyclin E:Cdk2 complexes
+R-MMU-176412	Phosphorylation of the APC/C
+R-MMU-5578768	Physiological factors
+R-MMU-5205685	Pink/Parkin Mediated Mitophagy
+R-MMU-8963898	Plasma lipoprotein assembly
+R-MMU-174824	Plasma lipoprotein assembly, remodeling, and clearance
+R-MMU-8964043	Plasma lipoprotein clearance
+R-MMU-8963899	Plasma lipoprotein remodeling
+R-MMU-75896	Plasmalogen biosynthesis
+R-MMU-75892	Platelet Adhesion to exposed collagen
+R-MMU-76009	Platelet Aggregation (Plug Formation)
+R-MMU-76002	Platelet activation, signaling and aggregation
+R-MMU-418360	Platelet calcium homeostasis
+R-MMU-114608	Platelet degranulation 
+R-MMU-418346	Platelet homeostasis
+R-MMU-432142	Platelet sensitization by LDL
+R-MMU-156711	Polo-like kinase mediated events
+R-MMU-69091	Polymerase switching
+R-MMU-174411	Polymerase switching on the C-strand of the telomere
+R-MMU-5250913	Positive epigenetic regulation of rRNA expression
+R-MMU-438064	Post NMDA receptor activation events
+R-MMU-426496	Post-transcriptional silencing by small RNAs
+R-MMU-163125	Post-translational modification: synthesis of GPI-anchored proteins
+R-MMU-597592	Post-translational protein modification
+R-MMU-8957275	Post-translational protein phosphorylation
+R-MMU-622327	Postsynaptic nicotinic acetylcholine receptors
+R-MMU-1296071	Potassium Channels
+R-MMU-1296067	Potassium transport channels
+R-MMU-1912422	Pre-NOTCH Expression and Processing
+R-MMU-1912420	Pre-NOTCH Processing in Golgi
+R-MMU-1912408	Pre-NOTCH Transcription and Translation
+R-MMU-196108	Pregnenolone biosynthesis
+R-MMU-112308	Presynaptic depolarization and calcium channel opening
+R-MMU-500657	Presynaptic function of Kainate receptors
+R-MMU-622323	Presynaptic nicotinic acetylcholine receptors
+R-MMU-5693616	Presynaptic phase of homologous DNA pairing and strand exchange
+R-MMU-3215018	Processing and activation of SUMO
+R-MMU-72203	Processing of Capped Intron-Containing Pre-mRNA
+R-MMU-75067	Processing of Capped Intronless Pre-mRNA
+R-MMU-5693607	Processing of DNA double-strand break ends
+R-MMU-77595	Processing of Intronless Pre-mRNAs
+R-MMU-8949664	Processing of SMDT1
+R-MMU-174414	Processive synthesis on the C-strand of the telomere
+R-MMU-69183	Processive synthesis on the lagging strand
+R-MMU-5357801	Programmed Cell Death
+R-MMU-964827	Progressive trimming of alpha-1,2-linked mannose residues from Man9/8/7GlcNAc2 to produce Man5GlcNAc2
+R-MMU-1170546	Prolactin receptor signaling
+R-MMU-70688	Proline catabolism
+R-MMU-169893	Prolonged ERK activation events
+R-MMU-71032	Propionyl-CoA catabolism
+R-MMU-392851	Prostacyclin signalling through prostacyclin receptor
+R-MMU-391908	Prostanoid ligand receptors
+R-MMU-391251	Protein folding
+R-MMU-9609507	Protein localization
+R-MMU-8876725	Protein methylation
+R-MMU-5676934	Protein repair
+R-MMU-8852135	Protein ubiquitination
+R-MMU-6794362	Protein-protein interactions at synapses
+R-MMU-433692	Proton-coupled monocarboxylate transport
+R-MMU-428559	Proton-coupled neutral amino acid transporters
+R-MMU-427975	Proton/oligopeptide cotransporters
+R-MMU-74259	Purine catabolism
+R-MMU-73817	Purine ribonucleoside monophosphate biosynthesis
+R-MMU-74217	Purine salvage
+R-MMU-500753	Pyrimidine biosynthesis
+R-MMU-73621	Pyrimidine catabolism
+R-MMU-73614	Pyrimidine salvage
+R-MMU-71737	Pyrophosphate hydrolysis
+R-MMU-70268	Pyruvate metabolism
+R-MMU-71406	Pyruvate metabolism and Citric Acid (TCA) cycle
+R-MMU-5365859	RA biosynthesis pathway
+R-MMU-8876198	RAB GEFs exchange GTP for GDP on RABs
+R-MMU-8873719	RAB geranylgeranylation
+R-MMU-5673000	RAF activation
+R-MMU-112409	RAF-independent MAPK1/3 activation
+R-MMU-5673001	RAF/MAP kinase cascade
+R-MMU-8853659	RET signaling
+R-MMU-195258	RHO GTPase Effectors
+R-MMU-5663220	RHO GTPases Activate Formins
+R-MMU-5668599	RHO GTPases Activate NADPH Oxidases
+R-MMU-5627117	RHO GTPases Activate ROCKs
+R-MMU-5666185	RHO GTPases Activate Rhotekin and Rhophilins
+R-MMU-5663213	RHO GTPases Activate WASPs and WAVEs
+R-MMU-5625900	RHO GTPases activate CIT
+R-MMU-5626467	RHO GTPases activate IQGAPs
+R-MMU-5625970	RHO GTPases activate KTN1
+R-MMU-5627123	RHO GTPases activate PAKs
+R-MMU-5625740	RHO GTPases activate PKNs
+R-MMU-5627083	RHO GTPases regulate CFTR trafficking
+R-MMU-1810476	RIP-mediated NFkB activation via ZBP1
+R-MMU-5213460	RIPK1-mediated regulated necrosis
+R-MMU-3214858	RMTs methylate histone arginines
+R-MMU-77075	RNA Pol II CTD phosphorylation and interaction with CE
+R-MMU-73854	RNA Polymerase I Promoter Clearance
+R-MMU-73772	RNA Polymerase I Promoter Escape
+R-MMU-73728	RNA Polymerase I Promoter Opening
+R-MMU-73864	RNA Polymerase I Transcription
+R-MMU-73762	RNA Polymerase I Transcription Initiation
+R-MMU-73863	RNA Polymerase I Transcription Termination
+R-MMU-674695	RNA Polymerase II Pre-transcription Events
+R-MMU-73776	RNA Polymerase II Promoter Escape
+R-MMU-73857	RNA Polymerase II Transcription
+R-MMU-75955	RNA Polymerase II Transcription Elongation
+R-MMU-75953	RNA Polymerase II Transcription Initiation
+R-MMU-76042	RNA Polymerase II Transcription Initiation And Promoter Clearance
+R-MMU-73779	RNA Polymerase II Transcription Pre-Initiation And Promoter Opening
+R-MMU-73856	RNA Polymerase II Transcription Termination
+R-MMU-74158	RNA Polymerase III Transcription
+R-MMU-76046	RNA Polymerase III Transcription Initiation
+R-MMU-76061	RNA Polymerase III Transcription Initiation From Type 1 Promoter
+R-MMU-76066	RNA Polymerase III Transcription Initiation From Type 2 Promoter
+R-MMU-76071	RNA Polymerase III Transcription Initiation From Type 3 Promoter
+R-MMU-6807505	RNA polymerase II transcribes snRNA genes
+R-MMU-1222556	ROS and RNS production in phagocytes
+R-MMU-444257	RSK activation
+R-MMU-8877330	RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)
+R-MMU-8939243	RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known
+R-MMU-8931987	RUNX1 regulates estrogen receptor mediated transcription
+R-MMU-8936459	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-MMU-8939245	RUNX1 regulates transcription of genes involved in BCR signaling
+R-MMU-8939236	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-MMU-8939242	RUNX1 regulates transcription of genes involved in differentiation of keratinocytes
+R-MMU-8939246	RUNX1 regulates transcription of genes involved in differentiation of myeloid cells
+R-MMU-8939247	RUNX1 regulates transcription of genes involved in interleukin signaling
+R-MMU-8941326	RUNX2 regulates bone development
+R-MMU-8940973	RUNX2 regulates osteoblast differentiation
+R-MMU-8941855	RUNX3 regulates CDKN1A transcription
+R-MMU-8941856	RUNX3 regulates NOTCH signaling
+R-MMU-8951430	RUNX3 regulates WNT signaling
+R-MMU-8951671	RUNX3 regulates YAP1-mediated transcription
+R-MMU-8951936	RUNX3 regulates p14-ARF
+R-MMU-9007101	Rab regulation of trafficking
+R-MMU-392517	Rap1 signalling
+R-MMU-975578	Reactions specific to the complex N-glycan synthesis pathway
+R-MMU-975574	Reactions specific to the hybrid N-glycan synthesis pathway
+R-MMU-8934903	Receptor Mediated Mitophagy
+R-MMU-388844	Receptor-type tyrosine-protein phosphatases
+R-MMU-110330	Recognition and association of DNA glycosylase with site containing an affected purine
+R-MMU-110328	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-MMU-110314	Recognition of DNA damage by PCNA-containing replication complex
+R-MMU-5693565	Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks
+R-MMU-380320	Recruitment of NuMA to mitotic centrosomes
+R-MMU-380270	Recruitment of mitotic centrosome proteins and complexes
+R-MMU-159418	Recycling of bile acids and salts
+R-MMU-72731	Recycling of eIF2:GDP
+R-MMU-437239	Recycling pathway of L1
+R-MMU-418359	Reduction of cytosolic Ca++ levels
+R-MMU-8866376	Reelin signalling pathway
+R-MMU-5218859	Regulated Necrosis
+R-MMU-193692	Regulated proteolysis of p75NTR
+R-MMU-3371378	Regulation by c-FLIP
+R-MMU-176408	Regulation of APC/C activators between G1/S and early anaphase
+R-MMU-169911	Regulation of Apoptosis
+R-MMU-977606	Regulation of Complement cascade
+R-MMU-9617629	Regulation of FOXO transcriptional activity by acetylation
+R-MMU-4641263	Regulation of FZD by ubiquitination
+R-MMU-170822	Regulation of Glucokinase by Glucokinase Regulatory Protein
+R-MMU-3371453	Regulation of HSF1-mediated heat shock response
+R-MMU-912694	Regulation of IFNA signaling
+R-MMU-877312	Regulation of IFNG signaling
+R-MMU-381426	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)
+R-MMU-1433559	Regulation of KIT signaling
+R-MMU-9022692	Regulation of MECP2 expression and activity
+R-MMU-2565942	Regulation of PLK1 Activity at G2/M Transition
+R-MMU-8943724	Regulation of PTEN gene transcription
+R-MMU-8948747	Regulation of PTEN localization
+R-MMU-8948751	Regulation of PTEN stability and activity
+R-MMU-5658442	Regulation of RAS by GAPs
+R-MMU-8934593	Regulation of RUNX1 Expression and Activity
+R-MMU-8939902	Regulation of RUNX2 expression and activity
+R-MMU-8941858	Regulation of RUNX3 expression and activity
+R-MMU-5686938	Regulation of TLR by endogenous ligand
+R-MMU-5357905	Regulation of TNFR1 signaling
+R-MMU-5633007	Regulation of TP53 Activity
+R-MMU-6804758	Regulation of TP53 Activity through Acetylation
+R-MMU-6804759	Regulation of TP53 Activity through Association with Co-factors
+R-MMU-6804760	Regulation of TP53 Activity through Methylation
+R-MMU-6804756	Regulation of TP53 Activity through Phosphorylation
+R-MMU-6804757	Regulation of TP53 Degradation
+R-MMU-6804754	Regulation of TP53 Expression
+R-MMU-6806003	Regulation of TP53 Expression and Degradation
+R-MMU-2029482	Regulation of actin dynamics for phagocytic cup formation
+R-MMU-186712	Regulation of beta-cell development
+R-MMU-1655829	Regulation of cholesterol biosynthesis by SREBP (SREBF)
+R-MMU-446388	Regulation of cytoskeletal remodeling and cell spreading by IPP complex components
+R-MMU-9010553	Regulation of expression of SLITs and ROBOs
+R-MMU-191650	Regulation of gap junction activity
+R-MMU-1234158	Regulation of gene expression by Hypoxia-inducible Factor
+R-MMU-210745	Regulation of gene expression in beta cells
+R-MMU-9634600	Regulation of glycolysis by fructose 2,6-bisphosphate metabolism
+R-MMU-3134975	Regulation of innate immune responses to cytosolic DNA
+R-MMU-422356	Regulation of insulin secretion
+R-MMU-400206	Regulation of lipid metabolism by PPARalpha
+R-MMU-9614399	Regulation of localization of FOXO transcription factors
+R-MMU-450531	Regulation of mRNA stability by proteins that bind AU-rich elements
+R-MMU-453276	Regulation of mitotic cell cycle
+R-MMU-5675482	Regulation of necroptotic cell death
+R-MMU-350562	Regulation of ornithine decarboxylase (ODC)
+R-MMU-204174	Regulation of pyruvate dehydrogenase (PDH) complex
+R-MMU-912631	Regulation of signaling by CBL
+R-MMU-9627069	Regulation of the apoptosome activity
+R-MMU-350864	Regulation of thyroid hormone activity
+R-MMU-444821	Relaxin receptors
+R-MMU-5362798	Release of Hh-Np from the secreting cell
+R-MMU-111457	Release of apoptotic factors from the mitochondria
+R-MMU-159782	Removal of aminoterminal propeptides from gamma-carboxylated proteins
+R-MMU-69166	Removal of the Flap Intermediate
+R-MMU-174437	Removal of the Flap Intermediate from the C-strand
+R-MMU-4641265	Repression of WNT target genes
+R-MMU-1474165	Reproduction
+R-MMU-110373	Resolution of AP sites via the multiple-nucleotide patch replacement pathway
+R-MMU-110381	Resolution of AP sites via the single-nucleotide replacement pathway
+R-MMU-73933	Resolution of Abasic Sites (AP sites)
+R-MMU-5693537	Resolution of D-Loop Structures
+R-MMU-5693568	Resolution of D-loop Structures through Holliday Junction Intermediates
+R-MMU-5693554	Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)
+R-MMU-2500257	Resolution of Sister Chromatid Cohesion
+R-MMU-611105	Respiratory electron transport
+R-MMU-163200	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.
+R-MMU-76005	Response to elevated platelet cytosolic Ca2+
+R-MMU-5660526	Response to metal ions
+R-MMU-975634	Retinoid metabolism and transport
+R-MMU-177504	Retrograde neurotrophin signalling
+R-MMU-6811440	Retrograde transport at the Trans-Golgi-Network
+R-MMU-888593	Reuptake of GABA
+R-MMU-73943	Reversal of alkylation damage by DNA dioxygenases
+R-MMU-1475029	Reversible hydration of carbon dioxide
+R-MMU-444411	Rhesus glycoproteins mediate ammonium transport.
+R-MMU-194840	Rho GTPase cycle
+R-MMU-72702	Ribosomal scanning and start codon recognition
+R-MMU-428890	Role of ABL in ROBO-SLIT signaling
+R-MMU-2730905	Role of LAT2/NTAL/LAB on calcium mobilization
+R-MMU-2029485	Role of phospholipids in phagocytosis
+R-MMU-69242	S Phase
+R-MMU-187577	SCF(Skp2)-mediated degradation of p27/p21
+R-MMU-373756	SDK interactions
+R-MMU-399955	SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion
+R-MMU-5654688	SHC-mediated cascade:FGFR1
+R-MMU-5654699	SHC-mediated cascade:FGFR2
+R-MMU-5654704	SHC-mediated cascade:FGFR3
+R-MMU-5654719	SHC-mediated cascade:FGFR4
+R-MMU-2428933	SHC-related events triggered by IGF1R
+R-MMU-180336	SHC1 events in EGFR signaling
+R-MMU-1250196	SHC1 events in ERBB2 signaling
+R-MMU-1250347	SHC1 events in ERBB4 signaling
+R-MMU-427359	SIRT1 negatively regulates rRNA expression
+R-MMU-77588	SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs
+R-MMU-111367	SLBP independent Processing of Histone Pre-mRNAs
+R-MMU-425407	SLC-mediated transmembrane transport
+R-MMU-8985586	SLIT2:ROBO1 increases RHOA activity
+R-MMU-111463	SMAC (DIABLO) binds to IAPs 
+R-MMU-111464	SMAC(DIABLO)-mediated dissociation of IAP:caspase complexes 
+R-MMU-111469	SMAC, XIAP-regulated apoptotic response
+R-MMU-2173796	SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
+R-MMU-112412	SOS-mediated signalling
+R-MMU-1799339	SRP-dependent cotranslational protein targeting to membrane
+R-MMU-3249367	STAT6-mediated induction of chemokines
+R-MMU-1834941	STING mediated induction of host immune responses
+R-MMU-3108232	SUMO E3 ligases SUMOylate target proteins
+R-MMU-3065676	SUMO is conjugated to E1 (UBA2:SAE1)
+R-MMU-3065679	SUMO is proteolytically processed
+R-MMU-3065678	SUMO is transferred from E1 to E2 (UBE2I, UBC9)
+R-MMU-2990846	SUMOylation
+R-MMU-3108214	SUMOylation of DNA damage response and repair proteins
+R-MMU-4655427	SUMOylation of DNA methylation proteins
+R-MMU-4615885	SUMOylation of DNA replication proteins
+R-MMU-4570464	SUMOylation of RNA binding proteins
+R-MMU-4085377	SUMOylation of SUMOylation proteins
+R-MMU-4551638	SUMOylation of chromatin organization proteins
+R-MMU-4755510	SUMOylation of immune response proteins
+R-MMU-4090294	SUMOylation of intracellular receptors
+R-MMU-3899300	SUMOylation of transcription cofactors
+R-MMU-3232118	SUMOylation of transcription factors
+R-MMU-3232142	SUMOylation of ubiquitinylation proteins
+R-MMU-3000480	Scavenging by Class A Receptors
+R-MMU-3000471	Scavenging by Class B Receptors
+R-MMU-3000497	Scavenging by Class H Receptors
+R-MMU-2168880	Scavenging of heme from plasma
+R-MMU-9663891	Selective autophagy
+R-MMU-2408522	Selenoamino acid metabolism
+R-MMU-2408557	Selenocysteine synthesis
+R-MMU-399954	Sema3A PAK dependent Axon repulsion
+R-MMU-400685	Sema4D in semaphorin signaling
+R-MMU-416572	Sema4D induced cell migration and growth-cone collapse
+R-MMU-416550	Sema4D mediated inhibition of cell attachment and migration
+R-MMU-373755	Semaphorin interactions
+R-MMU-2559582	Senescence-Associated Secretory Phenotype (SASP)
+R-MMU-5693548	Sensing of DNA Double Strand Breaks
+R-MMU-2467813	Separation of Sister Chromatids
+R-MMU-977347	Serine biosynthesis
+R-MMU-181429	Serotonin Neurotransmitter Release Cycle
+R-MMU-209931	Serotonin and melatonin biosynthesis
+R-MMU-380615	Serotonin clearance from the synaptic cleft
+R-MMU-390666	Serotonin receptors
+R-MMU-4085001	Sialic acid metabolism
+R-MMU-162582	Signal Transduction
+R-MMU-392518	Signal amplification
+R-MMU-74749	Signal attenuation
+R-MMU-391160	Signal regulatory protein family interactions
+R-MMU-445144	Signal transduction by L1
+R-MMU-1502540	Signaling by Activin
+R-MMU-201451	Signaling by BMP
+R-MMU-177929	Signaling by EGFR
+R-MMU-1227986	Signaling by ERBB2
+R-MMU-1236394	Signaling by ERBB4
+R-MMU-9006335	Signaling by Erythropoietin
+R-MMU-190236	Signaling by FGFR
+R-MMU-5654736	Signaling by FGFR1
+R-MMU-5654738	Signaling by FGFR2
+R-MMU-5654741	Signaling by FGFR3
+R-MMU-5654743	Signaling by FGFR4
+R-MMU-372790	Signaling by GPCR
+R-MMU-5358351	Signaling by Hedgehog
+R-MMU-2028269	Signaling by Hippo
+R-MMU-74752	Signaling by Insulin receptor
+R-MMU-449147	Signaling by Interleukins
+R-MMU-2586552	Signaling by Leptin
+R-MMU-6806834	Signaling by MET
+R-MMU-8852405	Signaling by MST1
+R-MMU-1181150	Signaling by NODAL
+R-MMU-157118	Signaling by NOTCH
+R-MMU-1980143	Signaling by NOTCH1
+R-MMU-9012852	Signaling by NOTCH3
+R-MMU-9013694	Signaling by NOTCH4
+R-MMU-187037	Signaling by NTRK1 (TRKA)
+R-MMU-9006115	Signaling by NTRK2 (TRKB)
+R-MMU-9034015	Signaling by NTRK3 (TRKC)
+R-MMU-166520	Signaling by NTRKs
+R-MMU-9006927	Signaling by Non-Receptor Tyrosine Kinases
+R-MMU-9006931	Signaling by Nuclear Receptors
+R-MMU-186797	Signaling by PDGF
+R-MMU-8848021	Signaling by PTK6
+R-MMU-376176	Signaling by ROBO receptors
+R-MMU-9006934	Signaling by Receptor Tyrosine Kinases
+R-MMU-5362517	Signaling by Retinoic Acid
+R-MMU-194315	Signaling by Rho GTPases
+R-MMU-1433557	Signaling by SCF-KIT
+R-MMU-170834	Signaling by TGF-beta Receptor Complex
+R-MMU-9006936	Signaling by TGF-beta family members
+R-MMU-2404192	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+R-MMU-194138	Signaling by VEGF
+R-MMU-195721	Signaling by WNT
+R-MMU-983705	Signaling by the B Cell Receptor (BCR)
+R-MMU-198765	Signalling to ERK5
+R-MMU-187687	Signalling to ERKs
+R-MMU-167044	Signalling to RAS
+R-MMU-426486	Small interfering RNA (siRNA) biogenesis
+R-MMU-445355	Smooth Muscle Contraction
+R-MMU-427652	Sodium-coupled phosphate cotransporters
+R-MMU-433137	Sodium-coupled sulphate, di- and tri-carboxylate transporters
+R-MMU-425561	Sodium/Calcium exchangers
+R-MMU-425986	Sodium/Proton exchangers
+R-MMU-1300642	Sperm Motility And Taxes
+R-MMU-1660661	Sphingolipid de novo biosynthesis
+R-MMU-428157	Sphingolipid metabolism
+R-MMU-1295596	Spry regulation of FGF signaling
+R-MMU-69541	Stabilization of p53
+R-MMU-211994	Sterols are 12-hydroxylated by CYP8B1
+R-MMU-2672351	Stimuli-sensing channels
+R-MMU-390522	Striated Muscle Contraction
+R-MMU-1614517	Sulfide oxidation to sulfate
+R-MMU-1614635	Sulfur amino acid metabolism
+R-MMU-5683826	Surfactant metabolism
+R-MMU-69052	Switching of origins to a post-replicative state
+R-MMU-8849932	Synaptic adhesion-like molecules
+R-MMU-3000170	Syndecan interactions
+R-MMU-2142816	Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE)
+R-MMU-2142712	Synthesis of 12-eicosatetraenoic acid derivatives
+R-MMU-2142770	Synthesis of 15-eicosatetraenoic acid derivatives
+R-MMU-2142688	Synthesis of 5-eicosatetraenoic acids
+R-MMU-1483076	Synthesis of CL
+R-MMU-69239	Synthesis of DNA
+R-MMU-446199	Synthesis of Dolichyl-phosphate
+R-MMU-446205	Synthesis of GDP-mannose
+R-MMU-2142696	Synthesis of Hepoxilins (HX) and Trioxilins (TrX)
+R-MMU-1855183	Synthesis of IP2, IP, and Ins in the cytosol
+R-MMU-1855204	Synthesis of IP3 and IP4 in the cytosol
+R-MMU-1855231	Synthesis of IPs in the ER lumen
+R-MMU-1855191	Synthesis of IPs in the nucleus
+R-MMU-77111	Synthesis of Ketone Bodies
+R-MMU-2142691	Synthesis of Leukotrienes (LT) and Eoxins (EX)
+R-MMU-2142700	Synthesis of Lipoxins (LX)
+R-MMU-1483166	Synthesis of PA
+R-MMU-1483191	Synthesis of PC
+R-MMU-1483213	Synthesis of PE
+R-MMU-1483148	Synthesis of PG
+R-MMU-1483226	Synthesis of PI
+R-MMU-1483248	Synthesis of PIPs at the ER membrane
+R-MMU-1660514	Synthesis of PIPs at the Golgi membrane
+R-MMU-1660516	Synthesis of PIPs at the early endosome membrane
+R-MMU-1660517	Synthesis of PIPs at the late endosome membrane
+R-MMU-1660499	Synthesis of PIPs at the plasma membrane
+R-MMU-8847453	Synthesis of PIPs in the nucleus
+R-MMU-1483101	Synthesis of PS
+R-MMU-2162123	Synthesis of Prostaglandins (PG) and Thromboxanes (TX)
+R-MMU-446210	Synthesis of UDP-N-acetyl-glucosamine
+R-MMU-8866652	Synthesis of active ubiquitin: roles of E1 and E2 enzymes
+R-MMU-192105	Synthesis of bile acids and bile salts
+R-MMU-193775	Synthesis of bile acids and bile salts via 24-hydroxycholesterol
+R-MMU-193807	Synthesis of bile acids and bile salts via 27-hydroxycholesterol
+R-MMU-193368	Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol
+R-MMU-5358493	Synthesis of diphthamide-EEF2
+R-MMU-162699	Synthesis of dolichyl-phosphate mannose
+R-MMU-480985	Synthesis of dolichyl-phosphate-glucose
+R-MMU-2142670	Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)
+R-MMU-162710	Synthesis of glycosylphosphatidylinositol (GPI)
+R-MMU-1855167	Synthesis of pyrophosphates in the cytosol
+R-MMU-446219	Synthesis of substrates in N-glycan biosythesis
+R-MMU-75876	Synthesis of very long-chain fatty acyl-CoAs
+R-MMU-422085	Synthesis, secretion, and deacylation of Ghrelin
+R-MMU-381771	Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)
+R-MMU-400511	Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)
+R-MMU-445989	TAK1 activates NFkB by phosphorylation and activation of IKKs complex
+R-MMU-8854214	TBC/RABGAPs
+R-MMU-201681	TCF dependent signaling in response to WNT
+R-MMU-202403	TCR signaling
+R-MMU-5221030	TET1,2,3 and TDG demethylate DNA
+R-MMU-8866911	TFAP2 (AP-2) family regulates transcription of cell cycle factors
+R-MMU-8866910	TFAP2 (AP-2) family regulates transcription of growth factors and their receptors
+R-MMU-8869496	TFAP2A acts as a transcriptional repressor during retinoic acid induced cell differentiation
+R-MMU-2173789	TGF-beta receptor signaling activates SMADs
+R-MMU-2173791	TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)
+R-MMU-9013973	TICAM1-dependent activation of IRF3/IRF7
+R-MMU-5676594	TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway
+R-MMU-75893	TNF signaling
+R-MMU-5357956	TNFR1-induced NFkappaB signaling pathway
+R-MMU-5357786	TNFR1-induced proapoptotic signaling
+R-MMU-5626978	TNFR1-mediated ceramide production
+R-MMU-5668541	TNFR2 non-canonical NF-kB pathway
+R-MMU-5669034	TNFs bind their physiological receptors
+R-MMU-5628897	TP53 Regulates Metabolic Genes
+R-MMU-6803207	TP53 Regulates Transcription of Caspase Activators and Caspases
+R-MMU-6791312	TP53 Regulates Transcription of Cell Cycle Genes
+R-MMU-5633008	TP53 Regulates Transcription of Cell Death Genes
+R-MMU-6796648	TP53 Regulates Transcription of DNA Repair Genes
+R-MMU-6803211	TP53 Regulates Transcription of Death Receptors and Ligands
+R-MMU-6803204	TP53 Regulates Transcription of Genes Involved in Cytochrome C Release
+R-MMU-6804116	TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest
+R-MMU-6804114	TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest
+R-MMU-6804115	TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain
+R-MMU-6803205	TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain
+R-MMU-918233	TRAF3-dependent IRF activation pathway
+R-MMU-933541	TRAF6 mediated IRF7 activation
+R-MMU-975110	TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling
+R-MMU-933542	TRAF6 mediated NF-kB activation
+R-MMU-975138	TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation
+R-MMU-937072	TRAF6-mediated induction of TAK1 complex within TLR4 complex
+R-MMU-75158	TRAIL  signaling
+R-MMU-937061	TRIF(TICAM1)-mediated TLR4 signaling 
+R-MMU-2562578	TRIF-mediated programmed cell death
+R-MMU-187042	TRKA activation by NGF
+R-MMU-3295583	TRP channels
+R-MMU-1299503	TWIK related potassium channel (TREK)
+R-MMU-1299361	TWIK-related alkaline pH activated K+ channel (TALK)
+R-MMU-1299344	TWIK-related spinal cord K+ channel (TRESK)
+R-MMU-1299316	TWIK-releated acid-sensitive K+ channel (TASK)
+R-MMU-9033500	TYSND1 cleaves peroxisomal proteins
+R-MMU-380095	Tachykinin receptors bind tachykinins
+R-MMU-1299308	Tandem of pore domain in a weak inwardly rectifying K+ channels (TWIK)
+R-MMU-1299287	Tandem pore domain halothane-inhibited K+ channel (THIK)
+R-MMU-1296346	Tandem pore domain potassium channels
+R-MMU-174417	Telomere C-strand (Lagging Strand) Synthesis
+R-MMU-174430	Telomere C-strand synthesis initiation
+R-MMU-171319	Telomere Extension By Telomerase
+R-MMU-157579	Telomere Maintenance
+R-MMU-166665	Terminal pathway of complement
+R-MMU-977068	Termination of O-glycan biosynthesis
+R-MMU-5656169	Termination of translesion DNA synthesis
+R-MMU-1474151	Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation
+R-MMU-844615	The AIM2 inflammasome
+R-MMU-844455	The NLRP1 inflammasome
+R-MMU-844456	The NLRP3 inflammasome
+R-MMU-1663150	The activation of arylsulfatases
+R-MMU-2453902	The canonical retinoid cycle in rods (twilight vision)
+R-MMU-1428517	The citric acid (TCA) cycle and respiratory electron transport
+R-MMU-167826	The fatty acid cycling model
+R-MMU-2514856	The phototransduction cascade
+R-MMU-167827	The proton buffering model
+R-MMU-2187335	The retinoid cycle in cones (daylight vision)
+R-MMU-8852276	The role of GTSE1 in G2/M progression after G2 checkpoint
+R-MMU-8849175	Threonine catabolism
+R-MMU-456926	Thrombin signalling through proteinase activated receptors (PARs)
+R-MMU-428930	Thromboxane signalling through TP receptor
+R-MMU-209968	Thyroxine biosynthesis
+R-MMU-210993	Tie2 Signaling
+R-MMU-420029	Tight junction interactions
+R-MMU-168142	Toll Like Receptor 10 (TLR10) Cascade
+R-MMU-181438	Toll Like Receptor 2 (TLR2) Cascade
+R-MMU-168164	Toll Like Receptor 3 (TLR3) Cascade
+R-MMU-166016	Toll Like Receptor 4 (TLR4) Cascade
+R-MMU-168176	Toll Like Receptor 5 (TLR5) Cascade
+R-MMU-168181	Toll Like Receptor 7/8 (TLR7/8) Cascade
+R-MMU-168138	Toll Like Receptor 9 (TLR9) Cascade
+R-MMU-168179	Toll Like Receptor TLR1:TLR2 Cascade
+R-MMU-168188	Toll Like Receptor TLR6:TLR2 Cascade
+R-MMU-168898	Toll-like Receptor Cascades
+R-MMU-1679131	Trafficking and processing of endosomal TLR
+R-MMU-399719	Trafficking of AMPA receptors
+R-MMU-416993	Trafficking of GluR2-containing AMPA receptors
+R-MMU-5624138	Trafficking of myristoylated proteins to the cilium
+R-MMU-75944	Transcription from mitochondrial promoters
+R-MMU-6781827	Transcription-Coupled Nucleotide Excision Repair (TC-NER)
+R-MMU-69895	Transcriptional  activation of  cell cycle inhibitor p21 
+R-MMU-8953750	Transcriptional Regulation by E2F6
+R-MMU-8986944	Transcriptional Regulation by MECP2
+R-MMU-3700989	Transcriptional Regulation by TP53
+R-MMU-8853884	Transcriptional Regulation by VENTX
+R-MMU-2151201	Transcriptional activation of mitochondrial biogenesis
+R-MMU-69560	Transcriptional activation of p53 responsive genes  
+R-MMU-2173793	Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer
+R-MMU-8878171	Transcriptional regulation by RUNX1
+R-MMU-8878166	Transcriptional regulation by RUNX2
+R-MMU-8878159	Transcriptional regulation by RUNX3
+R-MMU-5578749	Transcriptional regulation by small RNAs
+R-MMU-8864260	Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors
+R-MMU-9616222	Transcriptional regulation of granulopoiesis
+R-MMU-381340	Transcriptional regulation of white adipocyte differentiation
+R-MMU-166020	Transfer of LPS from LBP carrier to CD14
+R-MMU-917977	Transferrin endocytosis and recycling
+R-MMU-72766	Translation
+R-MMU-72649	Translation initiation complex formation
+R-MMU-110320	Translesion Synthesis by POLH
+R-MMU-5656121	Translesion synthesis by POLI
+R-MMU-5655862	Translesion synthesis by POLK
+R-MMU-110312	Translesion synthesis by REV1
+R-MMU-110313	Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template
+R-MMU-202430	Translocation of ZAP-70 to Immunological synapse
+R-MMU-112315	Transmission across Chemical Synapses
+R-MMU-112307	Transmission across Electrical Synapses 
+R-MMU-174362	Transport and synthesis of PAPS
+R-MMU-72202	Transport of Mature Transcript to Cytoplasm
+R-MMU-159231	Transport of Mature mRNA Derived from an Intronless Transcript
+R-MMU-159236	Transport of Mature mRNA derived from an Intron-Containing Transcript
+R-MMU-159234	Transport of Mature mRNAs Derived from Intronless Transcripts
+R-MMU-425366	Transport of bile salts and organic acids, metal ions and amine compounds
+R-MMU-190872	Transport of connexons to the plasma membrane
+R-MMU-804914	Transport of fatty acids
+R-MMU-159763	Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi apparatus
+R-MMU-432030	Transport of glycerol from adipocytes to the liver by Aquaporins
+R-MMU-425393	Transport of inorganic cations/anions and amino acids/oligopeptides
+R-MMU-83936	Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane
+R-MMU-727802	Transport of nucleotide sugars
+R-MMU-879518	Transport of organic anions
+R-MMU-382551	Transport of small molecules
+R-MMU-159230	Transport of the SLBP Dependant Mature mRNA
+R-MMU-159227	Transport of the SLBP independent Mature mRNA
+R-MMU-425397	Transport of vitamins, nucleosides, and related molecules
+R-MMU-948021	Transport to the Golgi and subsequent modification
+R-MMU-75109	Triglyceride biosynthesis
+R-MMU-163560	Triglyceride catabolism
+R-MMU-8979227	Triglyceride metabolism
+R-MMU-450513	Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA
+R-MMU-71240	Tryptophan catabolism
+R-MMU-446107	Type I hemidesmosome assembly
+R-MMU-427589	Type II Na+/Pi cotransporters
+R-MMU-8963684	Tyrosine catabolism
+R-MMU-5689603	UCH proteinases
+R-MMU-5689880	Ub-specific processing proteases
+R-MMU-2142789	Ubiquinol biosynthesis
+R-MMU-69601	Ubiquitin Mediated Degradation of Phosphorylated Cdc25A
+R-MMU-75815	Ubiquitin-dependent degradation of Cyclin D
+R-MMU-438066	Unblocking of NMDA receptors, glutamate binding and activation
+R-MMU-381119	Unfolded Protein Response (UPR)
+R-MMU-176974	Unwinding of DNA
+R-MMU-70635	Urea cycle
+R-MMU-77108	Utilization of Ketone Bodies
+R-MMU-195399	VEGF binds to VEGFR leading to receptor dimerization
+R-MMU-194313	VEGF ligand-receptor interactions
+R-MMU-4420097	VEGFA-VEGFR2 Pathway
+R-MMU-5218921	VEGFR2 mediated cell proliferation
+R-MMU-5218920	VEGFR2 mediated vascular permeability
+R-MMU-8866423	VLDL assembly
+R-MMU-8964046	VLDL clearance
+R-MMU-8866427	VLDLR internalisation and degradation
+R-MMU-432040	Vasopressin regulates renal water homeostasis via Aquaporins
+R-MMU-388479	Vasopressin-like receptors
+R-MMU-5653656	Vesicle-mediated transport
+R-MMU-2187338	Visual phototransduction
+R-MMU-196819	Vitamin B1 (thiamin) metabolism
+R-MMU-196843	Vitamin B2 (riboflavin) metabolism
+R-MMU-199220	Vitamin B5 (pantothenate) metabolism
+R-MMU-196836	Vitamin C (ascorbate) metabolism
+R-MMU-196791	Vitamin D (calciferol) metabolism
+R-MMU-8877627	Vitamin E
+R-MMU-211916	Vitamins
+R-MMU-964975	Vitamins B6 activation to pyridoxal phosphate
+R-MMU-1296072	Voltage gated Potassium channels
+R-MMU-5620916	VxPx cargo-targeting to cilium
+R-MMU-3238698	WNT ligand biogenesis and trafficking
+R-MMU-201688	WNT mediated activation of DVL
+R-MMU-5140745	WNT5A-dependent internalization of FZD2, FZD5 and ROR2
+R-MMU-5099900	WNT5A-dependent internalization of FZD4
+R-MMU-8848584	Wax and plasmalogen biosynthesis
+R-MMU-9640463	Wax biosynthesis
+R-MMU-211981	Xenobiotics
+R-MMU-2032785	YAP1- and WWTR1 (TAZ)-stimulated gene expression
+R-MMU-1606322	ZBP1(DAI) mediated induction of type I IFNs
+R-MMU-435368	Zinc efflux and compartmentalization by the SLC30 family
+R-MMU-442380	Zinc influx into cells by the SLC39 gene family
+R-MMU-435354	Zinc transporters
+R-MMU-450302	activated TAK1 mediates p38 MAPK activation
+R-MMU-2046104	alpha-linolenic (omega3) and linoleic (omega6) acid metabolism
+R-MMU-2046106	alpha-linolenic acid (ALA) metabolism
+R-MMU-1307965	betaKlotho-mediated ligand binding
+R-MMU-418457	cGMP effects
+R-MMU-203615	eNOS activation
+R-MMU-72187	mRNA 3'-end processing
+R-MMU-72086	mRNA Capping
+R-MMU-75072	mRNA Editing
+R-MMU-75064	mRNA Editing: A to I Conversion
+R-MMU-72200	mRNA Editing: C to U Conversion
+R-MMU-72172	mRNA Splicing
+R-MMU-72163	mRNA Splicing - Major Pathway
+R-MMU-72165	mRNA Splicing - Minor Pathway
+R-MMU-429958	mRNA decay by 3' to 5' exoribonuclease
+R-MMU-430039	mRNA decay by 5' to 3' exoribonuclease
+R-MMU-165159	mTOR signalling
+R-MMU-166208	mTORC1-mediated signalling
+R-MMU-77286	mitochondrial fatty acid beta-oxidation of saturated fatty acids
+R-MMU-77288	mitochondrial fatty acid beta-oxidation of unsaturated fatty acids
+R-MMU-372708	p130Cas linkage to MAPK signaling for integrins
+R-MMU-171007	p38MAPK events
+R-MMU-69563	p53-Dependent G1 DNA Damage Response
+R-MMU-69580	p53-Dependent G1/S DNA damage checkpoint
+R-MMU-69610	p53-Independent DNA Damage Response
+R-MMU-69613	p53-Independent G1/S DNA damage checkpoint
+R-MMU-193704	p75 NTR receptor-mediated signalling
+R-MMU-209543	p75NTR recruits signalling complexes
+R-MMU-193697	p75NTR regulates axonogenesis
+R-MMU-193639	p75NTR signals via NF-kB
+R-MMU-111995	phospho-PLA2 pathway
+R-MMU-72312	rRNA processing
+R-MMU-8868773	rRNA processing in the nucleus and cytosol
+R-MMU-191859	snRNP Assembly
+R-MMU-379724	tRNA Aminoacylation
+R-MMU-199992	trans-Golgi Network Vesicle Budding

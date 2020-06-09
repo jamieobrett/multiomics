@@ -1,0 +1,2995 @@
+PATHWAY	NAME	NGENES	NCOMPOUNDS	TYPE
+map00010	Glycolysis / Gluconeogenesis	66	31	KEGGPATHWAY
+map00020	Citrate cycle (TCA cycle)	32	20	KEGGPATHWAY
+map00030	Pentose phosphate pathway	32	35	KEGGPATHWAY
+map00040	Pentose and glucuronate interconversions	34	55	KEGGPATHWAY
+map00051	Fructose and mannose metabolism	35	54	KEGGPATHWAY
+map00052	Galactose metabolism	32	46	KEGGPATHWAY
+map00053	Ascorbate and aldarate metabolism	27	49	KEGGPATHWAY
+map00061	Fatty acid biosynthesis	19	58	KEGGPATHWAY
+map00062	Fatty acid elongation	29	40	KEGGPATHWAY
+map00071	Fatty acid degradation	50	50	KEGGPATHWAY
+map00072	Synthesis and degradation of ketone bodies	11	6	KEGGPATHWAY
+map00073	Cutin, suberine and wax biosynthesis	0	27	KEGGPATHWAY
+map00100	Steroid biosynthesis	20	58	KEGGPATHWAY
+map00120	Primary bile acid biosynthesis	16	47	KEGGPATHWAY
+map00121	Secondary bile acid biosynthesis	0	36	KEGGPATHWAY
+map00130	Ubiquinone and other terpenoid-quinone biosynthesis	11	92	KEGGPATHWAY
+map00140	Steroid hormone biosynthesis	89	99	KEGGPATHWAY
+map00190	Oxidative phosphorylation	133	16	KEGGPATHWAY
+map00195	Photosynthesis	0	11	KEGGPATHWAY
+map00220	Arginine biosynthesis	19	23	KEGGPATHWAY
+map00230	Purine metabolism	136	95	KEGGPATHWAY
+map00232	Caffeine metabolism	6	22	KEGGPATHWAY
+map00240	Pyrimidine metabolism	58	65	KEGGPATHWAY
+map00250	Alanine, aspartate and glutamate metabolism	38	28	KEGGPATHWAY
+map00253	Tetracycline biosynthesis	0	21	KEGGPATHWAY
+map00254	Aflatoxin biosynthesis	0	27	KEGGPATHWAY
+map00260	Glycine, serine and threonine metabolism	40	50	KEGGPATHWAY
+map00261	Monobactam biosynthesis	0	39	KEGGPATHWAY
+map00270	Cysteine and methionine metabolism	52	63	KEGGPATHWAY
+map00280	Valine, leucine and isoleucine degradation	56	42	KEGGPATHWAY
+map00281	Geraniol degradation	0	21	KEGGPATHWAY
+map00290	Valine, leucine and isoleucine biosynthesis	4	23	KEGGPATHWAY
+map00300	Lysine biosynthesis	0	35	KEGGPATHWAY
+map00310	Lysine degradation	61	54	KEGGPATHWAY
+map00311	Penicillin and cephalosporin biosynthesis	0	18	KEGGPATHWAY
+map00330	Arginine and proline metabolism	50	78	KEGGPATHWAY
+map00331	Clavulanic acid biosynthesis	0	10	KEGGPATHWAY
+map00332	Carbapenem biosynthesis	0	32	KEGGPATHWAY
+map00333	Prodigiosin biosynthesis	0	18	KEGGPATHWAY
+map00340	Histidine metabolism	24	47	KEGGPATHWAY
+map00350	Tyrosine metabolism	40	78	KEGGPATHWAY
+map00360	Phenylalanine metabolism	23	60	KEGGPATHWAY
+map00361	Chlorocyclohexane and chlorobenzene degradation	0	83	KEGGPATHWAY
+map00362	Benzoate degradation	0	72	KEGGPATHWAY
+map00363	Bisphenol degradation	0	25	KEGGPATHWAY
+map00364	Fluorobenzoate degradation	0	32	KEGGPATHWAY
+map00365	Furfural degradation	0	10	KEGGPATHWAY
+map00380	Tryptophan metabolism	48	82	KEGGPATHWAY
+map00400	Phenylalanine, tyrosine and tryptophan biosynthesis	8	35	KEGGPATHWAY
+map00401	Novobiocin biosynthesis	0	32	KEGGPATHWAY
+map00402	Benzoxazinoid biosynthesis	0	9	KEGGPATHWAY
+map00403	Indole diterpene alkaloid biosynthesis	0	33	KEGGPATHWAY
+map00404	Staurosporine biosynthesis	0	48	KEGGPATHWAY
+map00405	Phenazine biosynthesis	0	31	KEGGPATHWAY
+map00410	beta-Alanine metabolism	32	32	KEGGPATHWAY
+map00430	Taurine and hypotaurine metabolism	11	22	KEGGPATHWAY
+map00440	Phosphonate and phosphinate metabolism	6	57	KEGGPATHWAY
+map00450	Selenocompound metabolism	17	27	KEGGPATHWAY
+map00460	Cyanoamino acid metabolism	0	45	KEGGPATHWAY
+map00471	D-Glutamine and D-glutamate metabolism	4	13	KEGGPATHWAY
+map00472	D-Arginine and D-ornithine metabolism	1	11	KEGGPATHWAY
+map00473	D-Alanine metabolism	0	6	KEGGPATHWAY
+map00480	Glutathione metabolism	65	38	KEGGPATHWAY
+map00500	Starch and sucrose metabolism	33	37	KEGGPATHWAY
+map00510	N-Glycan biosynthesis	50	8	KEGGPATHWAY
+map00511	Other glycan degradation	18	0	KEGGPATHWAY
+map00512	Mucin type O-glycan biosynthesis	28	1	KEGGPATHWAY
+map00513	Various types of N-glycan biosynthesis	40	0	KEGGPATHWAY
+map00514	Other types of O-glycan biosynthesis	43	0	KEGGPATHWAY
+map00515	Mannose type O-glycan biosynthesis	23	4	KEGGPATHWAY
+map00520	Amino sugar and nucleotide sugar metabolism	49	108	KEGGPATHWAY
+map00521	Streptomycin biosynthesis	0	24	KEGGPATHWAY
+map00522	Biosynthesis of 12-, 14- and 16-membered macrolides	0	79	KEGGPATHWAY
+map00523	Polyketide sugar unit biosynthesis	0	58	KEGGPATHWAY
+map00524	Neomycin, kanamycin and gentamicin biosynthesis	5	81	KEGGPATHWAY
+map00525	Acarbose and validamycin biosynthesis	0	36	KEGGPATHWAY
+map00531	Glycosaminoglycan degradation	21	4	KEGGPATHWAY
+map00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	20	5	KEGGPATHWAY
+map00533	Glycosaminoglycan biosynthesis - keratan sulfate	14	0	KEGGPATHWAY
+map00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin	24	3	KEGGPATHWAY
+map00540	Lipopolysaccharide biosynthesis	0	54	KEGGPATHWAY
+map00550	Peptidoglycan biosynthesis	0	25	KEGGPATHWAY
+map00561	Glycerolipid metabolism	61	38	KEGGPATHWAY
+map00562	Inositol phosphate metabolism	73	47	KEGGPATHWAY
+map00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	25	3	KEGGPATHWAY
+map00564	Glycerophospholipid metabolism	97	52	KEGGPATHWAY
+map00565	Ether lipid metabolism	47	25	KEGGPATHWAY
+map00571	Lipoarabinomannan (LAM) biosynthesis	0	2	KEGGPATHWAY
+map00572	Arabinogalactan biosynthesis - Mycobacterium	0	5	KEGGPATHWAY
+map00590	Arachidonic acid metabolism	89	75	KEGGPATHWAY
+map00591	Linoleic acid metabolism	50	28	KEGGPATHWAY
+map00592	alpha-Linolenic acid metabolism	25	44	KEGGPATHWAY
+map00600	Sphingolipid metabolism	48	25	KEGGPATHWAY
+map00601	Glycosphingolipid biosynthesis - lacto and neolacto series	27	0	KEGGPATHWAY
+map00603	Glycosphingolipid biosynthesis - globo and isoglobo series	16	0	KEGGPATHWAY
+map00604	Glycosphingolipid biosynthesis - ganglio series	15	0	KEGGPATHWAY
+map00620	Pyruvate metabolism	38	31	KEGGPATHWAY
+map00621	Dioxin degradation	0	66	KEGGPATHWAY
+map00622	Xylene degradation	0	38	KEGGPATHWAY
+map00623	Toluene degradation	0	47	KEGGPATHWAY
+map00624	Polycyclic aromatic hydrocarbon degradation	0	107	KEGGPATHWAY
+map00625	Chloroalkane and chloroalkene degradation	0	43	KEGGPATHWAY
+map00626	Naphthalene degradation	0	60	KEGGPATHWAY
+map00627	Aminobenzoate degradation	0	86	KEGGPATHWAY
+map00630	Glyoxylate and dicarboxylate metabolism	31	62	KEGGPATHWAY
+map00633	Nitrotoluene degradation	0	27	KEGGPATHWAY
+map00640	Propanoate metabolism	33	48	KEGGPATHWAY
+map00642	Ethylbenzene degradation	0	14	KEGGPATHWAY
+map00643	Styrene degradation	0	24	KEGGPATHWAY
+map00650	Butanoate metabolism	27	42	KEGGPATHWAY
+map00660	C5-Branched dibasic acid metabolism	0	34	KEGGPATHWAY
+map00670	One carbon pool by folate	19	9	KEGGPATHWAY
+map00680	Methane metabolism	0	86	KEGGPATHWAY
+map00710	Carbon fixation in photosynthetic organisms	0	23	KEGGPATHWAY
+map00720	Carbon fixation pathways in prokaryotes	0	44	KEGGPATHWAY
+map00730	Thiamine metabolism	15	31	KEGGPATHWAY
+map00740	Riboflavin metabolism	8	20	KEGGPATHWAY
+map00750	Vitamin B6 metabolism	9	28	KEGGPATHWAY
+map00760	Nicotinate and nicotinamide metabolism	43	55	KEGGPATHWAY
+map00770	Pantothenate and CoA biosynthesis	18	28	KEGGPATHWAY
+map00780	Biotin metabolism	3	28	KEGGPATHWAY
+map00785	Lipoic acid metabolism	4	13	KEGGPATHWAY
+map00790	Folate biosynthesis	26	57	KEGGPATHWAY
+map00791	Atrazine degradation	0	23	KEGGPATHWAY
+map00830	Retinol metabolism	91	25	KEGGPATHWAY
+map00860	Porphyrin and chlorophyll metabolism	41	142	KEGGPATHWAY
+map00900	Terpenoid backbone biosynthesis	23	45	KEGGPATHWAY
+map00901	Indole alkaloid biosynthesis	0	70	KEGGPATHWAY
+map00902	Monoterpenoid biosynthesis	0	58	KEGGPATHWAY
+map00903	Limonene and pinene degradation	0	64	KEGGPATHWAY
+map00904	Diterpenoid biosynthesis	0	121	KEGGPATHWAY
+map00905	Brassinosteroid biosynthesis	0	29	KEGGPATHWAY
+map00906	Carotenoid biosynthesis	0	115	KEGGPATHWAY
+map00908	Zeatin biosynthesis	0	39	KEGGPATHWAY
+map00909	Sesquiterpenoid and triterpenoid biosynthesis	0	88	KEGGPATHWAY
+map00910	Nitrogen metabolism	17	19	KEGGPATHWAY
+map00920	Sulfur metabolism	11	33	KEGGPATHWAY
+map00930	Caprolactam degradation	0	26	KEGGPATHWAY
+map00940	Phenylpropanoid biosynthesis	0	68	KEGGPATHWAY
+map00941	Flavonoid biosynthesis	0	74	KEGGPATHWAY
+map00942	Anthocyanin biosynthesis	0	66	KEGGPATHWAY
+map00943	Isoflavonoid biosynthesis	0	64	KEGGPATHWAY
+map00944	Flavone and flavonol biosynthesis	0	51	KEGGPATHWAY
+map00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis	0	25	KEGGPATHWAY
+map00950	Isoquinoline alkaloid biosynthesis	0	122	KEGGPATHWAY
+map00960	Tropane, piperidine and pyridine alkaloid biosynthesis	0	68	KEGGPATHWAY
+map00965	Betalain biosynthesis	0	24	KEGGPATHWAY
+map00966	Glucosinolate biosynthesis	0	77	KEGGPATHWAY
+map00970	Aminoacyl-tRNA biosynthesis	66	52	KEGGPATHWAY
+map00980	Metabolism of xenobiotics by cytochrome P450	67	121	KEGGPATHWAY
+map00981	Insect hormone biosynthesis	0	25	KEGGPATHWAY
+map00982	Drug metabolism - cytochrome P450	69	87	KEGGPATHWAY
+map00983	Drug metabolism - other enzymes	88	52	KEGGPATHWAY
+map00984	Steroid degradation	0	18	KEGGPATHWAY
+map00997	Biosynthesis of various secondary metabolites - part 3	0	52	KEGGPATHWAY
+map00998	Biosynthesis of various secondary metabolites - part 2	0	73	KEGGPATHWAY
+map00999	Biosynthesis of various secondary metabolites - part 1	0	46	KEGGPATHWAY
+map01040	Biosynthesis of unsaturated fatty acids	32	74	KEGGPATHWAY
+map01051	Biosynthesis of ansamycins	0	32	KEGGPATHWAY
+map01052	Type I polyketide structures	0	25	KEGGPATHWAY
+map01053	Biosynthesis of siderophore group nonribosomal peptides	0	13	KEGGPATHWAY
+map01054	Nonribosomal peptide structures	0	14	KEGGPATHWAY
+map01055	Biosynthesis of vancomycin group antibiotics	0	19	KEGGPATHWAY
+map01056	Biosynthesis of type II polyketide backbone	0	24	KEGGPATHWAY
+map01057	Biosynthesis of type II polyketide products	0	135	KEGGPATHWAY
+map01058	Acridone alkaloid biosynthesis	0	7	KEGGPATHWAY
+map01059	Biosynthesis of enediyne antibiotics	0	63	KEGGPATHWAY
+map01060	Biosynthesis of plant secondary metabolites	0	141	KEGGPATHWAY
+map01061	Biosynthesis of phenylpropanoids	0	103	KEGGPATHWAY
+map01062	Biosynthesis of terpenoids and steroids	0	98	KEGGPATHWAY
+map01063	Biosynthesis of alkaloids derived from shikimate pathway	0	143	KEGGPATHWAY
+map01064	Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid	0	67	KEGGPATHWAY
+map01065	Biosynthesis of alkaloids derived from histidine and purine	0	35	KEGGPATHWAY
+map01066	Biosynthesis of alkaloids derived from terpenoid and polyketide	0	48	KEGGPATHWAY
+map01070	Biosynthesis of plant hormones	0	68	KEGGPATHWAY
+map01100	Metabolic pathways	1549	2701	KEGGPATHWAY
+map01110	Biosynthesis of secondary metabolites	0	1237	KEGGPATHWAY
+map01120	Microbial metabolism in diverse environments	0	997	KEGGPATHWAY
+map01130	Biosynthesis of antibiotics	0	1029	KEGGPATHWAY
+map01200	Carbon metabolism	120	114	KEGGPATHWAY
+map01210	2-Oxocarboxylic acid metabolism	19	134	KEGGPATHWAY
+map01212	Fatty acid metabolism	61	122	KEGGPATHWAY
+map01220	Degradation of aromatic compounds	0	263	KEGGPATHWAY
+map01230	Biosynthesis of amino acids	77	128	KEGGPATHWAY
+map01501	beta-Lactam resistance	0	3	KEGGPATHWAY
+map01502	Vancomycin resistance	0	24	KEGGPATHWAY
+map01503	Cationic antimicrobial peptide (CAMP) resistance	0	13	KEGGPATHWAY
+map01521	EGFR tyrosine kinase inhibitor resistance	79	2	KEGGPATHWAY
+map01522	Endocrine resistance	93	5	KEGGPATHWAY
+map01523	Antifolate resistance	30	17	KEGGPATHWAY
+map01524	Platinum drug resistance	78	0	KEGGPATHWAY
+map02010	ABC transporters	48	137	KEGGPATHWAY
+map02020	Two-component system	0	53	KEGGPATHWAY
+map02024	Quorum sensing	0	55	KEGGPATHWAY
+map02025	Biofilm formation - Pseudomonas aeruginosa	0	8	KEGGPATHWAY
+map02026	Biofilm formation - Escherichia coli	0	6	KEGGPATHWAY
+map02030	Bacterial chemotaxis	0	6	KEGGPATHWAY
+map02060	Phosphotransferase system (PTS)	0	56	KEGGPATHWAY
+map03008	Ribosome biogenesis in eukaryotes	116	0	KEGGPATHWAY
+map03010	Ribosome	174	0	KEGGPATHWAY
+map03013	RNA transport	166	3	KEGGPATHWAY
+map03015	mRNA surveillance pathway	95	0	KEGGPATHWAY
+map03018	RNA degradation	82	0	KEGGPATHWAY
+map03020	RNA polymerase	30	0	KEGGPATHWAY
+map03022	Basal transcription factors	44	0	KEGGPATHWAY
+map03030	DNA replication	35	0	KEGGPATHWAY
+map03040	Spliceosome	132	0	KEGGPATHWAY
+map03050	Proteasome	46	0	KEGGPATHWAY
+map03060	Protein export	28	0	KEGGPATHWAY
+map03070	Bacterial secretion system	0	1	KEGGPATHWAY
+map03320	PPAR signaling pathway	87	5	KEGGPATHWAY
+map03410	Base excision repair	34	0	KEGGPATHWAY
+map03420	Nucleotide excision repair	43	0	KEGGPATHWAY
+map03430	Mismatch repair	22	0	KEGGPATHWAY
+map03440	Homologous recombination	41	0	KEGGPATHWAY
+map03450	Non-homologous end-joining	13	0	KEGGPATHWAY
+map03460	Fanconi anemia pathway	51	0	KEGGPATHWAY
+map04010	MAPK signaling pathway	294	5	KEGGPATHWAY
+map04012	ErbB signaling pathway	84	4	KEGGPATHWAY
+map04014	Ras signaling pathway	232	7	KEGGPATHWAY
+map04015	Rap1 signaling pathway	214	5	KEGGPATHWAY
+map04020	Calcium signaling pathway	192	10	KEGGPATHWAY
+map04022	cGMP-PKG signaling pathway	173	10	KEGGPATHWAY
+map04024	cAMP signaling pathway	215	25	KEGGPATHWAY
+map04060	Cytokine-cytokine receptor interaction	296	0	KEGGPATHWAY
+map04061	Viral protein interaction with cytokine and cytokine receptor	103	0	KEGGPATHWAY
+map04062	Chemokine signaling pathway	198	5	KEGGPATHWAY
+map04064	NF-kappa B signaling pathway	110	3	KEGGPATHWAY
+map04066	HIF-1 signaling pathway	112	15	KEGGPATHWAY
+map04068	FoxO signaling pathway	131	5	KEGGPATHWAY
+map04070	Phosphatidylinositol signaling system	98	29	KEGGPATHWAY
+map04071	Sphingolipid signaling pathway	124	15	KEGGPATHWAY
+map04072	Phospholipase D signaling pathway	148	11	KEGGPATHWAY
+map04075	Plant hormone signal transduction	0	12	KEGGPATHWAY
+map04080	Neuroactive ligand-receptor interaction	350	52	KEGGPATHWAY
+map04110	Cell cycle	123	0	KEGGPATHWAY
+map04111	Cell cycle - yeast	0	2	KEGGPATHWAY
+map04112	Cell cycle - Caulobacter	0	1	KEGGPATHWAY
+map04113	Meiosis - yeast	0	3	KEGGPATHWAY
+map04114	Oocyte meiosis	119	4	KEGGPATHWAY
+map04115	p53 signaling pathway	71	0	KEGGPATHWAY
+map04120	Ubiquitin mediated proteolysis	138	0	KEGGPATHWAY
+map04122	Sulfur relay system	8	11	KEGGPATHWAY
+map04130	SNARE interactions in vesicular transport	33	0	KEGGPATHWAY
+map04136	Autophagy - other	32	3	KEGGPATHWAY
+map04137	Mitophagy - animal	63	0	KEGGPATHWAY
+map04138	Autophagy - yeast	0	3	KEGGPATHWAY
+map04140	Autophagy - animal	138	6	KEGGPATHWAY
+map04141	Protein processing in endoplasmic reticulum	164	1	KEGGPATHWAY
+map04142	Lysosome	124	4	KEGGPATHWAY
+map04144	Endocytosis	269	6	KEGGPATHWAY
+map04145	Phagosome	180	1	KEGGPATHWAY
+map04146	Peroxisome	84	0	KEGGPATHWAY
+map04150	mTOR signaling pathway	154	4	KEGGPATHWAY
+map04151	PI3K-Akt signaling pathway	355	4	KEGGPATHWAY
+map04152	AMPK signaling pathway	126	22	KEGGPATHWAY
+map04210	Apoptosis	136	4	KEGGPATHWAY
+map04211	Longevity regulating pathway	90	8	KEGGPATHWAY
+map04212	Longevity regulating pathway - worm	0	10	KEGGPATHWAY
+map04213	Longevity regulating pathway - multiple species	62	2	KEGGPATHWAY
+map04214	Apoptosis - fly	0	1	KEGGPATHWAY
+map04215	Apoptosis - multiple species	32	0	KEGGPATHWAY
+map04216	Ferroptosis	41	29	KEGGPATHWAY
+map04217	Necroptosis	176	10	KEGGPATHWAY
+map04218	Cellular senescence	185	5	KEGGPATHWAY
+map04260	Cardiac muscle contraction	86	4	KEGGPATHWAY
+map04261	Adrenergic signaling in cardiomyocytes	152	10	KEGGPATHWAY
+map04270	Vascular smooth muscle contraction	140	16	KEGGPATHWAY
+map04310	Wnt signaling pathway	162	1	KEGGPATHWAY
+map04330	Notch signaling pathway	54	0	KEGGPATHWAY
+map04340	Hedgehog signaling pathway	47	1	KEGGPATHWAY
+map04350	TGF-beta signaling pathway	95	0	KEGGPATHWAY
+map04360	Axon guidance	180	1	KEGGPATHWAY
+map04361	Axon regeneration	0	7	KEGGPATHWAY
+map04370	VEGF signaling pathway	58	6	KEGGPATHWAY
+map04371	Apelin signaling pathway	137	9	KEGGPATHWAY
+map04380	Osteoclast differentiation	128	3	KEGGPATHWAY
+map04390	Hippo signaling pathway	154	0	KEGGPATHWAY
+map04392	Hippo signaling pathway - multiple species	26	0	KEGGPATHWAY
+map04510	Focal adhesion	199	2	KEGGPATHWAY
+map04512	ECM-receptor interaction	88	0	KEGGPATHWAY
+map04514	Cell adhesion molecules (CAMs)	171	0	KEGGPATHWAY
+map04520	Adherens junction	71	0	KEGGPATHWAY
+map04530	Tight junction	166	1	KEGGPATHWAY
+map04540	Gap junction	86	11	KEGGPATHWAY
+map04550	Signaling pathways regulating pluripotency of stem cells	138	0	KEGGPATHWAY
+map04610	Complement and coagulation cascades	93	1	KEGGPATHWAY
+map04611	Platelet activation	125	14	KEGGPATHWAY
+map04612	Antigen processing and presentation	91	0	KEGGPATHWAY
+map04614	Renin-angiotensin system	36	11	KEGGPATHWAY
+map04620	Toll-like receptor signaling pathway	99	0	KEGGPATHWAY
+map04621	NOD-like receptor signaling pathway	210	6	KEGGPATHWAY
+map04622	RIG-I-like receptor signaling pathway	68	0	KEGGPATHWAY
+map04623	Cytosolic DNA-sensing pathway	64	1	KEGGPATHWAY
+map04624	Toll and Imd signaling pathway	0	1	KEGGPATHWAY
+map04625	C-type lectin receptor signaling pathway	112	11	KEGGPATHWAY
+map04626	Plant-pathogen interaction	0	5	KEGGPATHWAY
+map04630	JAK-STAT signaling pathway	165	0	KEGGPATHWAY
+map04640	Hematopoietic cell lineage	95	0	KEGGPATHWAY
+map04650	Natural killer cell mediated cytotoxicity	117	4	KEGGPATHWAY
+map04657	IL-17 signaling pathway	91	0	KEGGPATHWAY
+map04658	Th1 and Th2 cell differentiation	87	3	KEGGPATHWAY
+map04659	Th17 cell differentiation	102	4	KEGGPATHWAY
+map04660	T cell receptor signaling pathway	103	4	KEGGPATHWAY
+map04662	B cell receptor signaling pathway	82	4	KEGGPATHWAY
+map04664	Fc epsilon RI signaling pathway	67	11	KEGGPATHWAY
+map04666	Fc gamma R-mediated phagocytosis	90	8	KEGGPATHWAY
+map04668	TNF signaling pathway	113	0	KEGGPATHWAY
+map04670	Leukocyte transendothelial migration	115	4	KEGGPATHWAY
+map04672	Intestinal immune network for IgA production	42	2	KEGGPATHWAY
+map04710	Circadian rhythm	30	2	KEGGPATHWAY
+map04713	Circadian entrainment	98	9	KEGGPATHWAY
+map04714	Thermogenesis	230	23	KEGGPATHWAY
+map04720	Long-term potentiation	67	7	KEGGPATHWAY
+map04721	Synaptic vesicle cycle	76	12	KEGGPATHWAY
+map04722	Neurotrophin signaling pathway	121	5	KEGGPATHWAY
+map04723	Retrograde endocannabinoid signaling	148	19	KEGGPATHWAY
+map04724	Glutamatergic synapse	113	8	KEGGPATHWAY
+map04725	Cholinergic synapse	112	12	KEGGPATHWAY
+map04726	Serotonergic synapse	131	42	KEGGPATHWAY
+map04727	GABAergic synapse	89	9	KEGGPATHWAY
+map04728	Dopaminergic synapse	134	12	KEGGPATHWAY
+map04730	Long-term depression	61	9	KEGGPATHWAY
+map04740	Olfactory transduction	1133	8	KEGGPATHWAY
+map04742	Taste transduction	88	32	KEGGPATHWAY
+map04744	Phototransduction	27	8	KEGGPATHWAY
+map04745	Phototransduction - fly	0	11	KEGGPATHWAY
+map04750	Inflammatory mediator regulation of TRP channels	127	35	KEGGPATHWAY
+map04810	Regulation of actin cytoskeleton	216	5	KEGGPATHWAY
+map04910	Insulin signaling pathway	139	4	KEGGPATHWAY
+map04911	Insulin secretion	86	12	KEGGPATHWAY
+map04912	GnRH signaling pathway	90	6	KEGGPATHWAY
+map04913	Ovarian steroidogenesis	57	24	KEGGPATHWAY
+map04914	Progesterone-mediated oocyte maturation	90	4	KEGGPATHWAY
+map04915	Estrogen signaling pathway	134	8	KEGGPATHWAY
+map04916	Melanogenesis	100	6	KEGGPATHWAY
+map04917	Prolactin signaling pathway	72	11	KEGGPATHWAY
+map04918	Thyroid hormone synthesis	73	21	KEGGPATHWAY
+map04919	Thyroid hormone signaling pathway	118	11	KEGGPATHWAY
+map04920	Adipocytokine signaling pathway	71	7	KEGGPATHWAY
+map04921	Oxytocin signaling pathway	153	12	KEGGPATHWAY
+map04922	Glucagon signaling pathway	104	26	KEGGPATHWAY
+map04923	Regulation of lipolysis in adipocytes	56	14	KEGGPATHWAY
+map04924	Renin secretion	76	17	KEGGPATHWAY
+map04925	Aldosterone synthesis and secretion	101	22	KEGGPATHWAY
+map04926	Relaxin signaling pathway	129	6	KEGGPATHWAY
+map04927	Cortisol synthesis and secretion	69	12	KEGGPATHWAY
+map04928	Parathyroid hormone synthesis, secretion and action	107	10	KEGGPATHWAY
+map04929	GnRH secretion	63	9	KEGGPATHWAY
+map04930	Type II diabetes mellitus	48	6	KEGGPATHWAY
+map04931	Insulin resistance	110	19	KEGGPATHWAY
+map04932	Non-alcoholic fatty liver disease (NAFLD)	150	2	KEGGPATHWAY
+map04933	AGE-RAGE signaling pathway in diabetic complications	101	9	KEGGPATHWAY
+map04934	Cushing syndrome	159	13	KEGGPATHWAY
+map04935	Growth hormone synthesis, secretion and action	116	4	KEGGPATHWAY
+map04940	Type I diabetes mellitus	70	3	KEGGPATHWAY
+map04950	Maturity onset diabetes of the young	27	0	KEGGPATHWAY
+map04960	Aldosterone-regulated sodium reabsorption	38	8	KEGGPATHWAY
+map04961	Endocrine and other factor-regulated calcium reabsorption	60	8	KEGGPATHWAY
+map04962	Vasopressin-regulated water reabsorption	43	2	KEGGPATHWAY
+map04964	Proximal tubule bicarbonate reclamation	22	17	KEGGPATHWAY
+map04966	Collecting duct acid secretion	27	8	KEGGPATHWAY
+map04970	Salivary secretion	78	17	KEGGPATHWAY
+map04971	Gastric acid secretion	74	14	KEGGPATHWAY
+map04972	Pancreatic secretion	108	15	KEGGPATHWAY
+map04973	Carbohydrate digestion and absorption	46	27	KEGGPATHWAY
+map04974	Protein digestion and absorption	94	47	KEGGPATHWAY
+map04975	Fat digestion and absorption	40	13	KEGGPATHWAY
+map04976	Bile secretion	72	97	KEGGPATHWAY
+map04977	Vitamin digestion and absorption	24	39	KEGGPATHWAY
+map04978	Mineral absorption	52	29	KEGGPATHWAY
+map04979	Cholesterol metabolism	49	10	KEGGPATHWAY
+map05010	Alzheimer disease	173	7	KEGGPATHWAY
+map05012	Parkinson disease	142	15	KEGGPATHWAY
+map05014	Amyotrophic lateral sclerosis (ALS)	58	10	KEGGPATHWAY
+map05016	Huntington disease	199	3	KEGGPATHWAY
+map05020	Prion diseases	34	3	KEGGPATHWAY
+map05030	Cocaine addiction	48	7	KEGGPATHWAY
+map05031	Amphetamine addiction	69	9	KEGGPATHWAY
+map05032	Morphine addiction	91	8	KEGGPATHWAY
+map05033	Nicotine addiction	40	7	KEGGPATHWAY
+map05034	Alcoholism	201	10	KEGGPATHWAY
+map05100	Bacterial invasion of epithelial cells	73	0	KEGGPATHWAY
+map05110	Vibrio cholerae infection	0	9	KEGGPATHWAY
+map05111	Biofilm formation - Vibrio cholerae	0	8	KEGGPATHWAY
+map05120	Epithelial cell signaling in Helicobacter pylori infection	0	5	KEGGPATHWAY
+map05130	Pathogenic Escherichia coli infection	0	3	KEGGPATHWAY
+map05131	Shigellosis	0	16	KEGGPATHWAY
+map05132	Salmonella infection	75	4	KEGGPATHWAY
+map05133	Pertussis	76	10	KEGGPATHWAY
+map05134	Legionellosis	60	2	KEGGPATHWAY
+map05135	Yersinia infection	121	5	KEGGPATHWAY
+map05140	Leishmaniasis	69	6	KEGGPATHWAY
+map05142	Chagas disease (American trypanosomiasis)	102	6	KEGGPATHWAY
+map05143	African trypanosomiasis	38	8	KEGGPATHWAY
+map05144	Malaria	56	2	KEGGPATHWAY
+map05145	Toxoplasmosis	108	3	KEGGPATHWAY
+map05146	Amoebiasis	107	13	KEGGPATHWAY
+map05150	Staphylococcus aureus infection	122	2	KEGGPATHWAY
+map05152	Tuberculosis	178	9	KEGGPATHWAY
+map05160	Hepatitis C	160	2	KEGGPATHWAY
+map05161	Hepatitis B	162	1	KEGGPATHWAY
+map05162	Measles	144	1	KEGGPATHWAY
+map05163	Human cytomegalovirus infection	255	6	KEGGPATHWAY
+map05164	Influenza A	166	3	KEGGPATHWAY
+map05165	Human papillomavirus infection	361	3	KEGGPATHWAY
+map05166	Human T-cell leukemia virus 1 infection	246	5	KEGGPATHWAY
+map05167	Kaposi sarcoma-associated herpesvirus infection	216	5	KEGGPATHWAY
+map05168	Herpes simplex virus 1 infection	436	3	KEGGPATHWAY
+map05169	Epstein-Barr virus infection	229	3	KEGGPATHWAY
+map05170	Human immunodeficiency virus 1 infection	238	5	KEGGPATHWAY
+map05200	Pathways in cancer	539	31	KEGGPATHWAY
+map05202	Transcriptional misregulation in cancer	183	0	KEGGPATHWAY
+map05203	Viral carcinogenesis	231	0	KEGGPATHWAY
+map05204	Chemical carcinogenesis	95	99	KEGGPATHWAY
+map05205	Proteoglycans in cancer	205	4	KEGGPATHWAY
+map05206	MicroRNAs in cancer	303	0	KEGGPATHWAY
+map05210	Colorectal cancer	88	1	KEGGPATHWAY
+map05211	Renal cell carcinoma	68	3	KEGGPATHWAY
+map05212	Pancreatic cancer	76	2	KEGGPATHWAY
+map05213	Endometrial cancer	58	1	KEGGPATHWAY
+map05214	Glioma	74	4	KEGGPATHWAY
+map05215	Prostate cancer	99	11	KEGGPATHWAY
+map05216	Thyroid cancer	37	0	KEGGPATHWAY
+map05217	Basal cell carcinoma	63	1	KEGGPATHWAY
+map05218	Melanoma	72	1	KEGGPATHWAY
+map05219	Bladder cancer	41	0	KEGGPATHWAY
+map05220	Chronic myeloid leukemia	76	1	KEGGPATHWAY
+map05221	Acute myeloid leukemia	70	1	KEGGPATHWAY
+map05222	Small cell lung cancer	92	3	KEGGPATHWAY
+map05223	Non-small cell lung cancer	66	6	KEGGPATHWAY
+map05224	Breast cancer	147	3	KEGGPATHWAY
+map05225	Hepatocellular carcinoma	172	14	KEGGPATHWAY
+map05226	Gastric cancer	150	4	KEGGPATHWAY
+map05230	Central carbon metabolism in cancer	67	37	KEGGPATHWAY
+map05231	Choline metabolism in cancer	98	11	KEGGPATHWAY
+map05235	PD-L1 expression and PD-1 checkpoint pathway in cancer	88	4	KEGGPATHWAY
+map05310	Asthma	24	5	KEGGPATHWAY
+map05320	Autoimmune thyroid disease	78	3	KEGGPATHWAY
+map05321	Inflammatory bowel disease (IBD)	60	0	KEGGPATHWAY
+map05322	Systemic lupus erythematosus	142	3	KEGGPATHWAY
+map05323	Rheumatoid arthritis	86	3	KEGGPATHWAY
+map05330	Allograft rejection	63	1	KEGGPATHWAY
+map05332	Graft-versus-host disease	65	2	KEGGPATHWAY
+map05340	Primary immunodeficiency	36	0	KEGGPATHWAY
+map05410	Hypertrophic cardiomyopathy (HCM)	91	3	KEGGPATHWAY
+map05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC)	77	2	KEGGPATHWAY
+map05414	Dilated cardiomyopathy (DCM)	94	3	KEGGPATHWAY
+map05416	Viral myocarditis	88	0	KEGGPATHWAY
+map05418	Fluid shear stress and atherosclerosis	144	8	KEGGPATHWAY
+map07011	Penicillins	0	2	KEGGPATHWAY
+map07012	Cephalosporins - parenteral agents	0	4	KEGGPATHWAY
+map07013	Cephalosporins - oral agents	0	1	KEGGPATHWAY
+map07014	Quinolones	0	1	KEGGPATHWAY
+map07015	Local analgesics	0	7	KEGGPATHWAY
+map07016	Sulfonamide derivatives - sulfa drugs	0	2	KEGGPATHWAY
+map07023	Rifamycins	0	2	KEGGPATHWAY
+map07024	HMG-CoA reductase inhibitors	0	3	KEGGPATHWAY
+map07026	Antifungal agents	0	3	KEGGPATHWAY
+map07030	Anxiolytics	0	1	KEGGPATHWAY
+map07032	Hypnotics	0	1	KEGGPATHWAY
+map07033	Anticonvulsants	0	4	KEGGPATHWAY
+map07034	Eicosanoids	0	7	KEGGPATHWAY
+map07035	Prostaglandins	0	2	KEGGPATHWAY
+map07037	Antiarrhythmic drugs	0	3	KEGGPATHWAY
+map07039	Opioid analgesics	0	3	KEGGPATHWAY
+map07040	Antineoplastics - alkylating agents	0	3	KEGGPATHWAY
+map07042	Antineoplastics - agents from natural products	0	1	KEGGPATHWAY
+map07053	Anti-HIV agents	0	1	KEGGPATHWAY
+map07055	Sulfonamide derivatives - overview	0	1	KEGGPATHWAY
+map07110	Benzoic acid family	0	2	KEGGPATHWAY
+map07112	1,2-Diphenyl substitution family	0	2	KEGGPATHWAY
+map07114	Naphthalene family	0	5	KEGGPATHWAY
+map07117	Benzodiazepine family	0	6	KEGGPATHWAY
+map07211	Serotonin receptor agonists/antagonists	0	1	KEGGPATHWAY
+map07212	Histamine H1 receptor antagonists	0	1	KEGGPATHWAY
+map07214	beta-Adrenergic receptor agonists/antagonists	0	1	KEGGPATHWAY
+map07216	Catecholamine transferase inhibitors	0	5	KEGGPATHWAY
+map07217	Renin-angiotensin system inhibitors	0	2	KEGGPATHWAY
+map07218	HIV protease inhibitors	0	5	KEGGPATHWAY
+map07220	Cholinergic and anticholinergic drugs	0	2	KEGGPATHWAY
+map07221	Nicotinic cholinergic receptor antagonists	0	5	KEGGPATHWAY
+map07222	Peroxisome proliferator-activated receptor (PPAR) agonists	0	2	KEGGPATHWAY
+map07224	Opioid receptor agonists/antagonists	0	5	KEGGPATHWAY
+map07225	Glucocorticoid and mineralocorticoid receptor agonists/antagonists	0	4	KEGGPATHWAY
+map07226	Progesterone, androgen and estrogen receptor agonists/antagonists	0	5	KEGGPATHWAY
+map07227	Histamine H2/H3 receptor agonists/antagonists	0	10	KEGGPATHWAY
+map07229	Angiotensin receptor and endothelin receptor antagonists	0	4	KEGGPATHWAY
+map07230	GABA-A receptor agonists/antagonists	0	3	KEGGPATHWAY
+map07232	Potassium channel blocking and opening drugs	0	6	KEGGPATHWAY
+map07235	N-Metyl-D-aspartic acid receptor antagonists	0	2	KEGGPATHWAY
+M00001	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	27	11	KEGGMODULE
+M00002	Glycolysis, core module involving three-carbon compounds	13	7	KEGGMODULE
+M00003	Gluconeogenesis, oxaloacetate => fructose-6P	19	9	KEGGMODULE
+M00004	Pentose phosphate pathway (Pentose phosphate cycle)	12	11	KEGGMODULE
+M00005	PRPP biosynthesis, ribose 5P => PRPP	4	2	KEGGMODULE
+M00006	Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P	5	4	KEGGMODULE
+M00007	Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P	6	7	KEGGMODULE
+M00008	Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate	3	6	KEGGMODULE
+M00009	Citrate cycle (TCA cycle, Krebs cycle)	24	12	KEGGMODULE
+M00010	Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate	10	5	KEGGMODULE
+M00011	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	14	9	KEGGMODULE
+M00012	Glyoxylate cycle	6	7	KEGGMODULE
+M00013	Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA	8	6	KEGGMODULE
+M00014	Glucuronate pathway (uronate pathway)	26	11	KEGGMODULE
+M00015	Proline biosynthesis, glutamate => proline	4	5	KEGGMODULE
+M00016	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine	0	10	KEGGMODULE
+M00017	Methionine biosynthesis, apartate => homoserine => methionine	1	8	KEGGMODULE
+M00018	Threonine biosynthesis, aspartate => homoserine => threonine	0	6	KEGGMODULE
+M00019	Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine	2	12	KEGGMODULE
+M00020	Serine biosynthesis, glycerate-3P => serine	3	4	KEGGMODULE
+M00021	Cysteine biosynthesis, serine => cysteine	0	4	KEGGMODULE
+M00022	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	0	9	KEGGMODULE
+M00023	Tryptophan biosynthesis, chorismate => tryptophan	0	6	KEGGMODULE
+M00024	Phenylalanine biosynthesis, chorismate => phenylalanine	0	4	KEGGMODULE
+M00025	Tyrosine biosynthesis, chorismate => tyrosine	1	4	KEGGMODULE
+M00026	Histidine biosynthesis, PRPP => histidine	0	11	KEGGMODULE
+M00027	GABA (gamma-Aminobutyrate) shunt	4	4	KEGGMODULE
+M00028	Ornithine biosynthesis, glutamate => ornithine	1	6	KEGGMODULE
+M00029	Urea cycle	6	9	KEGGMODULE
+M00030	Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine	0	12	KEGGMODULE
+M00031	Lysine biosynthesis, mediated by LysW, 2-aminoadipate => lysine	0	6	KEGGMODULE
+M00032	Lysine degradation, lysine => saccharopine => acetoacetyl-CoA	11	9	KEGGMODULE
+M00033	Ectoine biosynthesis, aspartate => ectoine	0	6	KEGGMODULE
+M00034	Methionine salvage pathway	12	11	KEGGMODULE
+M00035	Methionine degradation	11	6	KEGGMODULE
+M00036	Leucine degradation, leucine => acetoacetate + acetyl-CoA	13	10	KEGGMODULE
+M00037	Melatonin biosynthesis, tryptophan => serotonin => melatonin	5	5	KEGGMODULE
+M00038	Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate	9	8	KEGGMODULE
+M00039	Monolignol biosynthesis, phenylalanine/tyrosine => monolignol	0	16	KEGGMODULE
+M00040	Tyrosine biosynthesis, prephanate => pretyrosine => tyrosine	0	3	KEGGMODULE
+M00042	Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline	5	5	KEGGMODULE
+M00043	Thyroid hormone biosynthesis, tyrosine => triiodothyronine/thyroxine	1	4	KEGGMODULE
+M00044	Tyrosine degradation, tyrosine => homogentisate	9	7	KEGGMODULE
+M00045	Histidine degradation, histidine => N-formiminoglutamate => glutamate	4	6	KEGGMODULE
+M00046	Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate	3	8	KEGGMODULE
+M00047	Creatine pathway	6	5	KEGGMODULE
+M00048	Inosine monophosphate biosynthesis, PRPP + glutamine => IMP	9	13	KEGGMODULE
+M00049	Adenine ribonucleotide biosynthesis, IMP => ADP,ATP	20	5	KEGGMODULE
+M00050	Guanine ribonucleotide biosynthesis IMP => GDP,GTP	13	5	KEGGMODULE
+M00051	Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP	3	8	KEGGMODULE
+M00052	Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP	11	5	KEGGMODULE
+M00053	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP	19	9	KEGGMODULE
+M00055	N-glycan precursor biosynthesis	15	2	KEGGMODULE
+M00056	O-glycan biosynthesis, mucin type core	24	1	KEGGMODULE
+M00057	Glycosaminoglycan biosynthesis, linkage tetrasaccharide	5	1	KEGGMODULE
+M00058	Glycosaminoglycan biosynthesis, chondroitin sulfate backbone	6	0	KEGGMODULE
+M00059	Glycosaminoglycan biosynthesis, heparan sulfate backbone	11	0	KEGGMODULE
+M00060	KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type	0	11	KEGGMODULE
+M00061	D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P	0	7	KEGGMODULE
+M00063	CMP-KDO biosynthesis	0	5	KEGGMODULE
+M00064	ADP-L-glycero-D-manno-heptose biosynthesis	0	6	KEGGMODULE
+M00065	GPI-anchor biosynthesis, core oligosaccharide	16	1	KEGGMODULE
+M00066	Lactosylceramide biosynthesis	2	3	KEGGMODULE
+M00067	Sulfoglycolipids biosynthesis, ceramide/1-alkyl-2-acylglycerol => sulfatide/seminolipid	2	6	KEGGMODULE
+M00068	Glycosphingolipid biosynthesis, globo-series, LacCer => Gb4Cer	2	0	KEGGMODULE
+M00069	Glycosphingolipid biosynthesis, ganglio series, LacCer => GT3	3	0	KEGGMODULE
+M00070	Glycosphingolipid biosynthesis, lacto-series, LacCer => Lc4Cer	5	0	KEGGMODULE
+M00071	Glycosphingolipid biosynthesis, neolacto-series, LacCer => nLc4Cer	6	0	KEGGMODULE
+M00072	N-glycosylation by oligosaccharyltransferase	7	2	KEGGMODULE
+M00073	N-glycan precursor trimming	6	0	KEGGMODULE
+M00074	N-glycan biosynthesis, high-mannose type	5	0	KEGGMODULE
+M00075	N-glycan biosynthesis, complex type	16	0	KEGGMODULE
+M00076	Dermatan sulfate degradation	11	1	KEGGMODULE
+M00077	Chondroitin sulfate degradation	10	1	KEGGMODULE
+M00078	Heparan sulfate degradation	9	1	KEGGMODULE
+M00079	Keratan sulfate degradation	5	1	KEGGMODULE
+M00081	Pectin degradation	0	4	KEGGMODULE
+M00082	Fatty acid biosynthesis, initiation	3	5	KEGGMODULE
+M00083	Fatty acid biosynthesis, elongation	2	30	KEGGMODULE
+M00085	Fatty acid elongation in mitochondria	6	30	KEGGMODULE
+M00086	beta-Oxidation, acyl-CoA synthesis	8	2	KEGGMODULE
+M00087	beta-Oxidation	13	29	KEGGMODULE
+M00088	Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone	8	6	KEGGMODULE
+M00089	Triacylglycerol biosynthesis	22	7	KEGGMODULE
+M00090	Phosphatidylcholine (PC) biosynthesis, choline => PC	6	4	KEGGMODULE
+M00091	Phosphatidylcholine (PC) biosynthesis, PE => PC	1	4	KEGGMODULE
+M00092	Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE	7	4	KEGGMODULE
+M00093	Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE	3	4	KEGGMODULE
+M00094	Ceramide biosynthesis	13	6	KEGGMODULE
+M00095	C5 isoprenoid biosynthesis, mevalonate pathway	11	8	KEGGMODULE
+M00096	C5 isoprenoid biosynthesis, non-mevalonate pathway	3	10	KEGGMODULE
+M00097	beta-Carotene biosynthesis, GGAP => beta-carotene	0	11	KEGGMODULE
+M00098	Acylglycerol degradation	10	4	KEGGMODULE
+M00099	Sphingosine biosynthesis	17	6	KEGGMODULE
+M00100	Sphingosine degradation	3	3	KEGGMODULE
+M00101	Cholesterol biosynthesis, squalene 2,3-epoxide => cholesterol	10	14	KEGGMODULE
+M00102	Ergocalciferol biosynthesis	1	7	KEGGMODULE
+M00103	Cholecalciferol biosynthesis	2	4	KEGGMODULE
+M00104	Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate	11	28	KEGGMODULE
+M00106	Conjugated bile acid biosynthesis, cholate => taurocholate/glycocholate	2	4	KEGGMODULE
+M00107	Steroid hormone biosynthesis, cholesterol => prognenolone => progesterone	7	6	KEGGMODULE
+M00108	C21-Steroid hormone biosynthesis, progesterone => corticosterone/aldosterone	4	5	KEGGMODULE
+M00109	C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone	6	5	KEGGMODULE
+M00110	C19/C18-Steroid hormone biosynthesis, pregnenolone => androstenedione => estrone	8	7	KEGGMODULE
+M00112	Tocopherol/tocotorienol biosynthesis	0	15	KEGGMODULE
+M00113	Jasmonic acid biosynthesis	4	17	KEGGMODULE
+M00114	Ascorbate biosynthesis, plants, glucose-6P => ascorbate	6	10	KEGGMODULE
+M00115	NAD biosynthesis, aspartate => NAD	5	6	KEGGMODULE
+M00116	Menaquinone biosynthesis, chorismate => menaquinol	0	11	KEGGMODULE
+M00117	Ubiquinone biosynthesis, prokaryotes, chorismate => ubiquinone	0	10	KEGGMODULE
+M00118	Glutathione biosynthesis, glutamate => glutathione	3	3	KEGGMODULE
+M00119	Pantothenate biosynthesis, valine/L-aspartate => pantothenate	2	7	KEGGMODULE
+M00120	Coenzyme A biosynthesis, pantothenate => CoA	7	6	KEGGMODULE
+M00121	Heme biosynthesis, plants and bacteria, glutamate => heme	9	11	KEGGMODULE
+M00122	Cobalamin biosynthesis, cobinamide => cobalamin	1	10	KEGGMODULE
+M00123	Biotin biosynthesis, pimeloyl-ACP/CoA => biotin	0	6	KEGGMODULE
+M00124	Pyridoxal biosynthesis, erythrose-4P => pyridoxal-5P	2	8	KEGGMODULE
+M00125	Riboflavin biosynthesis, GTP => riboflavin/FMN/FAD	2	11	KEGGMODULE
+M00126	Tetrahydrofolate biosynthesis, GTP => THF	6	12	KEGGMODULE
+M00127	Thiamine biosynthesis, AIR => thiamine-P/thiamine-2P	0	7	KEGGMODULE
+M00128	Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate => ubiquinone	6	9	KEGGMODULE
+M00129	Ascorbate biosynthesis, animals, glucose-1P => ascorbate	25	9	KEGGMODULE
+M00130	Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4	22	5	KEGGMODULE
+M00131	Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol	9	5	KEGGMODULE
+M00132	Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate	3	4	KEGGMODULE
+M00133	Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine	5	6	KEGGMODULE
+M00134	Polyamine biosynthesis, arginine => ornithine => putrescine	4	3	KEGGMODULE
+M00135	GABA biosynthesis, eukaryotes, putrescine => GABA	9	5	KEGGMODULE
+M00136	GABA biosynthesis, prokaryotes, putrescine => GABA	0	5	KEGGMODULE
+M00137	Flavanone biosynthesis, phenylalanine => naringenin	0	6	KEGGMODULE
+M00138	Flavonoid biosynthesis, naringenin => pelargonidin	0	4	KEGGMODULE
+M00140	C1-unit interconversion, prokaryotes	2	4	KEGGMODULE
+M00141	C1-unit interconversion, eukaryotes	6	4	KEGGMODULE
+M00142	NADH:ubiquinone oxidoreductase, mitochondria	7	4	KEGGMODULE
+M00143	NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria	11	0	KEGGMODULE
+M00144	NADH:quinone oxidoreductase, prokaryotes	0	4	KEGGMODULE
+M00145	NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria	0	4	KEGGMODULE
+M00146	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	15	0	KEGGMODULE
+M00147	NADH dehydrogenase (ubiquinone) 1 beta subcomplex	14	0	KEGGMODULE
+M00148	Succinate dehydrogenase (ubiquinone)	4	4	KEGGMODULE
+M00149	Succinate dehydrogenase, prokaryotes	0	4	KEGGMODULE
+M00150	Fumarate reductase, prokaryotes	0	4	KEGGMODULE
+M00151	Cytochrome bc1 complex respiratory unit	3	5	KEGGMODULE
+M00152	Cytochrome bc1 complex	10	5	KEGGMODULE
+M00154	Cytochrome c oxidase	25	0	KEGGMODULE
+M00158	F-type ATPase, eukaryotes	17	0	KEGGMODULE
+M00160	V-type ATPase, eukaryotes	24	0	KEGGMODULE
+M00165	Reductive pentose phosphate cycle (Calvin cycle)	20	12	KEGGMODULE
+M00166	Reductive pentose phosphate cycle, ribulose-5P => glyceraldehyde-3P	3	6	KEGGMODULE
+M00167	Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P	17	8	KEGGMODULE
+M00168	CAM (Crassulacean acid metabolism), dark	2	4	KEGGMODULE
+M00169	CAM (Crassulacean acid metabolism), light	2	4	KEGGMODULE
+M00170	C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type	2	4	KEGGMODULE
+M00171	C4-dicarboxylic acid cycle, NAD - malic enzyme type	6	7	KEGGMODULE
+M00172	C4-dicarboxylic acid cycle, NADP - malic enzyme type	2	5	KEGGMODULE
+M00173	Reductive citrate cycle (Arnon-Buchanan cycle)	6	13	KEGGMODULE
+M00174	Methane oxidation, methanotroph, methane => formaldehyde	0	3	KEGGMODULE
+M00175	Nitrogen fixation, nitrogen => ammonia	0	2	KEGGMODULE
+M00176	Assimilatory sulfate reduction, sulfate => H2S	2	5	KEGGMODULE
+M00307	Pyruvate oxidation, pyruvate => acetyl-CoA	6	2	KEGGMODULE
+M00308	Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P	3	7	KEGGMODULE
+M00309	Non-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate	0	7	KEGGMODULE
+M00338	Cysteine biosynthesis, homocysteine + serine => cysteine	2	4	KEGGMODULE
+M00344	Formaldehyde assimilation, xylulose monophosphate pathway	3	5	KEGGMODULE
+M00345	Formaldehyde assimilation, ribulose monophosphate pathway	3	8	KEGGMODULE
+M00346	Formaldehyde assimilation, serine pathway	9	10	KEGGMODULE
+M00356	Methanogenesis, methanol => methane	0	5	KEGGMODULE
+M00357	Methanogenesis, acetate => methane	2	9	KEGGMODULE
+M00358	Coenzyme M biosynthesis	0	6	KEGGMODULE
+M00364	C10-C20 isoprenoid biosynthesis, bacteria	0	5	KEGGMODULE
+M00365	C10-C20 isoprenoid biosynthesis, archaea	0	5	KEGGMODULE
+M00366	C10-C20 isoprenoid biosynthesis, plants	0	5	KEGGMODULE
+M00367	C10-C20 isoprenoid biosynthesis, non-plant eukaryotes	0	5	KEGGMODULE
+M00368	Ethylene biosynthesis, methionine => ethylene	3	4	KEGGMODULE
+M00369	Cyanogenic glycoside biosynthesis, tyrosine => dhurrin	0	6	KEGGMODULE
+M00370	Glucosinolate biosynthesis, tryptophan => glucobrassicin	0	6	KEGGMODULE
+M00371	Castasterone biosynthesis, campesterol => castasterone	0	9	KEGGMODULE
+M00372	Abscisic acid biosynthesis, beta-carotene => abscisic acid	0	11	KEGGMODULE
+M00373	Ethylmalonyl pathway	6	16	KEGGMODULE
+M00374	Dicarboxylate-hydroxybutyrate cycle	2	14	KEGGMODULE
+M00375	Hydroxypropionate-hydroxybutylate cycle	3	16	KEGGMODULE
+M00376	3-Hydroxypropionate bi-cycle	3	20	KEGGMODULE
+M00377	Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)	1	9	KEGGMODULE
+M00378	F420 biosynthesis	0	8	KEGGMODULE
+M00415	Fatty acid elongation in endoplasmic reticulum	13	0	KEGGMODULE
+M00416	Cytochrome aa3-600 menaquinol oxidase	0	4	KEGGMODULE
+M00418	Toluene degradation, anaerobic, toluene => benzoyl-CoA	0	7	KEGGMODULE
+M00419	Cymene degradation, p-cymene => p-cumate	0	4	KEGGMODULE
+M00422	Acetyl-CoA pathway, CO2 => acetyl-CoA	0	3	KEGGMODULE
+M00432	Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate	0	5	KEGGMODULE
+M00433	Lysine biosynthesis, 2-oxoglutarate => 2-oxoadipate	0	6	KEGGMODULE
+M00525	Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine	0	10	KEGGMODULE
+M00526	Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine	0	8	KEGGMODULE
+M00527	Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine	0	8	KEGGMODULE
+M00528	Nitrification, ammonia => nitrite	0	3	KEGGMODULE
+M00529	Denitrification, nitrate => nitrogen	0	5	KEGGMODULE
+M00530	Dissimilatory nitrate reduction, nitrate => ammonia	0	3	KEGGMODULE
+M00531	Assimilatory nitrate reduction, nitrate => ammonia	0	3	KEGGMODULE
+M00532	Photorespiration	11	14	KEGGMODULE
+M00533	Homoprotocatechuate degradation, homoprotocatechuate => 2-oxohept-3-enedioate	0	6	KEGGMODULE
+M00534	Naphthalene degradation, naphthalene => salicylate	0	7	KEGGMODULE
+M00535	Isoleucine biosynthesis, pyruvate => 2-oxobutanoate	0	5	KEGGMODULE
+M00537	Xylene degradation, xylene => methylbenzoate	0	12	KEGGMODULE
+M00538	Toluene degradation, toluene => benzoate	0	4	KEGGMODULE
+M00539	Cumate degradation, p-cumate => 2-oxopent-4-enoate + 2-methylpropanoate	0	7	KEGGMODULE
+M00540	Benzoate degradation, cyclohexanecarboxylic acid =>pimeloyl-CoA	0	6	KEGGMODULE
+M00541	Benzoyl-CoA degradation, benzoyl-CoA => 3-hydroxypimeloyl-CoA	0	5	KEGGMODULE
+M00543	Biphenyl degradation, biphenyl => 2-oxopent-4-enoate + benzoate	0	11	KEGGMODULE
+M00544	Carbazole degradation, carbazole => 2-oxopent-4-enoate + anthranilate	0	5	KEGGMODULE
+M00545	Trans-cinnamate degradation, trans-cinnamate => acetyl-CoA	0	9	KEGGMODULE
+M00546	Purine degradation, xanthine => urea	5	7	KEGGMODULE
+M00547	Benzene/toluene degradation, benzene => catechol / toluene => 3-methylcatechol	0	6	KEGGMODULE
+M00548	Benzene degradation, benzene => catechol	0	3	KEGGMODULE
+M00549	Nucleotide sugar biosynthesis, glucose => UDP-glucose	7	4	KEGGMODULE
+M00550	Ascorbate degradation, ascorbate => D-xylulose-5P	0	6	KEGGMODULE
+M00551	Benzoate degradation, benzoate => catechol / methylbenzoate => methylcatechol	0	11	KEGGMODULE
+M00552	D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P	3	6	KEGGMODULE
+M00554	Nucleotide sugar biosynthesis, galactose => UDP-galactose	2	3	KEGGMODULE
+M00555	Betaine biosynthesis, choline => betaine	2	3	KEGGMODULE
+M00563	Methanogenesis, methylamine/dimethylamine/trimethylamine => methane	0	7	KEGGMODULE
+M00565	Trehalose biosynthesis, D-glucose 1P => trehalose	1	7	KEGGMODULE
+M00567	Methanogenesis, CO2 => methane	0	11	KEGGMODULE
+M00568	Catechol ortho-cleavage, catechol => 3-oxoadipate	0	5	KEGGMODULE
+M00569	Catechol meta-cleavage, catechol => acetyl-CoA / 4-methylcatechol => propanoyl-CoA	0	17	KEGGMODULE
+M00570	Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	4	7	KEGGMODULE
+M00572	Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP	1	11	KEGGMODULE
+M00573	Biotin biosynthesis, BioI pathway, long-chain-acyl-ACP => pimeloyl-ACP => biotin	0	6	KEGGMODULE
+M00577	Biotin biosynthesis, BioW pathway, pimelate => pimeloyl-CoA => biotin	0	6	KEGGMODULE
+M00579	Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	0	3	KEGGMODULE
+M00580	Pentose phosphate pathway, archaea, fructose 6P => ribose 5P	1	4	KEGGMODULE
+M00595	Thiosulfate oxidation by SOX complex, thiosulfate => sulfate	0	2	KEGGMODULE
+M00596	Dissimilatory sulfate reduction, sulfate => H2S	0	4	KEGGMODULE
+M00608	2-Oxocarboxylic acid chain extension, 2-oxoglutarate => 2-oxoadipate => 2-oxopimelate => 2-oxosuberate	0	14	KEGGMODULE
+M00609	Cysteine biosynthesis, methionine => cysteine	3	7	KEGGMODULE
+M00620	Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate	0	8	KEGGMODULE
+M00622	Nicotinate degradation, nicotinate => fumarate	0	7	KEGGMODULE
+M00623	Phthalate degradation, phthalate => protocatechuate	0	4	KEGGMODULE
+M00624	Terephthalate degradation, terephthalate => 3,4-dihydroxybenzoate	0	3	KEGGMODULE
+M00630	D-Galacturonate degradation (fungi), D-galacturonate => glycerol	0	5	KEGGMODULE
+M00631	D-Galacturonate degradation (bacteria), D-galacturonate => pyruvate + D-glyceraldehyde 3P	0	7	KEGGMODULE
+M00632	Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P	4	6	KEGGMODULE
+M00633	Semi-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate-3P	0	9	KEGGMODULE
+M00636	Phthalate degradation, phthalate => protocatechuate	0	4	KEGGMODULE
+M00637	Anthranilate degradation, anthranilate => catechol	0	2	KEGGMODULE
+M00638	Salicylate degradation, salicylate => gentisate	0	2	KEGGMODULE
+M00661	Paspaline biosynthesis, geranylgeranyl-PP + indoleglycerol phosphate => paspaline	0	7	KEGGMODULE
+M00672	Penicillin biosynthesis, aminoadipate + cycteine + valine => penicillin	0	6	KEGGMODULE
+M00673	Cephamycin C biosynthesis, aminoadipate + cycteine + valine => cephamycin C	0	11	KEGGMODULE
+M00674	Clavaminate biosynthesis, arginine + glyceraldehyde-3P => clavaminate	0	8	KEGGMODULE
+M00675	Carbapenem-3-carboxylate biosynthesis, pyrroline-5-carboxylate + malonyl-CoA => carbapenem-3-carboxylate	0	5	KEGGMODULE
+M00736	Nocardicin A biosynthesis, L-pHPG + arginine + serine => nocardicin A	0	9	KEGGMODULE
+M00740	Methylaspartate cycle	7	15	KEGGMODULE
+M00741	Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA	4	4	KEGGMODULE
+M00761	Undecaprenylphosphate alpha-L-Ara4N biosynthesis, UDP-GlcA => undecaprenyl phosphate alpha-L-Ara4N	0	6	KEGGMODULE
+M00763	Ornithine biosynthesis, mediated by LysW, glutamate => ornithine	0	6	KEGGMODULE
+M00773	Tylosin biosynthesis, methylmalonyl-CoA + malonyl-CoA => tylactone => tylosin	0	10	KEGGMODULE
+M00774	Erythromycin biosynthesis, propanoyl-CoA + methylmalonyl-CoA => deoxyerythronolide B => erythromycin A/B	0	9	KEGGMODULE
+M00775	Oleandomycin biosynthesis, malonyl-CoA + methylmalonyl-CoA => 8,8a-deoxyoleandolide => oleandomycin	0	7	KEGGMODULE
+M00776	Pikromycin/methymycin biosynthesis, methylmalonyl-CoA + malonyl-CoA => narbonolide/10-deoxymethynolide => pikromycin/methymycin	0	8	KEGGMODULE
+M00777	Avermectin biosynthesis, 2-methylbutanoyl-CoA/isobutyryl-CoA => 6,8a-Seco-6,8a-deoxy-5-oxoavermectin 1a/1b aglycone => avermectin A1a/B1a/A1b/B1b	0	18	KEGGMODULE
+M00778	Type II polyketide backbone biosynthesis, acyl-CoA + malonyl-CoA => polyketide	0	19	KEGGMODULE
+M00779	Dihydrokalafungin biosynthesis, octaketide => dihydrokalafungin	0	6	KEGGMODULE
+M00780	Tetracycline/oxytetracycline biosynthesis, pretetramide => tetracycline/oxytetracycline	0	10	KEGGMODULE
+M00781	Nogalavinone/aklavinone biosynthesis, deoxynogalonate/deoxyaklanonate => nogalavinone/aklavinone	0	10	KEGGMODULE
+M00782	Mithramycin biosynthesis, 4-demethylpremithramycinone => mithramycin	0	10	KEGGMODULE
+M00783	Tetracenomycin C/8-demethyltetracenomycin C biosynthesis, tetracenomycin F2 => tetracenomycin C/8-demethyltetracenomycin C	0	9	KEGGMODULE
+M00784	Elloramycin biosynthesis, 8-demethyltetracenomycin C => elloramycin A	0	6	KEGGMODULE
+M00785	Cycloserine biosynthesis, arginine/serine => cycloserine	0	9	KEGGMODULE
+M00786	Fumitremorgin alkaloid biosynthesis, tryptophan + proline => fumitremorgin C/A	0	11	KEGGMODULE
+M00787	Bacilysin biosynthesis, prephenate => bacilysin	0	8	KEGGMODULE
+M00788	Terpentecin biosynthesis, GGAP => terpentecin	0	4	KEGGMODULE
+M00789	Rebeccamycin biosynthesis, tryptophan => rebeccamycin	0	7	KEGGMODULE
+M00790	Pyrrolnitrin biosynthesis, tryptophan => pyrrolnitrin	0	5	KEGGMODULE
+M00793	dTDP-L-rhamnose biosynthesis	1	5	KEGGMODULE
+M00794	dTDP-6-deoxy-D-allose biosynthesis	0	3	KEGGMODULE
+M00795	dTDP-beta-L-noviose biosynthesis	0	4	KEGGMODULE
+M00796	dTDP-D-mycaminose biosynthesis	0	4	KEGGMODULE
+M00797	dTDP-D-desosamine biosynthesis	0	5	KEGGMODULE
+M00798	dTDP-L-mycarose biosynthesis	0	6	KEGGMODULE
+M00799	dTDP-L-oleandrose biosynthesis	0	6	KEGGMODULE
+M00800	dTDP-L-megosamine biosynthesis	0	6	KEGGMODULE
+M00801	dTDP-L-olivose biosynthesis	0	5	KEGGMODULE
+M00802	dTDP-D-forosamine biosynthesis	0	6	KEGGMODULE
+M00803	dTDP-D-angolosamine biosynthesis	0	5	KEGGMODULE
+M00804	Complete nitrification, comammox, ammonia => nitrite => nitrate	0	4	KEGGMODULE
+M00805	Staurosporine biosynthesis, tryptophan => staurosporine	0	8	KEGGMODULE
+M00808	Violacein biosynthesis, tryptophan => violacein	0	6	KEGGMODULE
+M00810	Nicotine degradation, pyridine pathway, nicotine => 2,6-dihydroxypyridine/succinate semialdehyde	0	9	KEGGMODULE
+M00811	Nicotine degradation, pyrrolidine pathway, nicotine => succinate semialdehyde	0	8	KEGGMODULE
+M00814	Acarbose biosynthesis, sedoheptulopyranose-7P => acarbose	0	12	KEGGMODULE
+M00815	Validamycin A biosynthesis, sedoheptulopyranose-7P => validamycin A	0	11	KEGGMODULE
+M00819	Pentalenolactone biosynthesis, farnesyl-PP => pentalenolactone	0	9	KEGGMODULE
+M00823	Chlortetracycline biosynthesis, pretetramide => chlortetracycline	0	9	KEGGMODULE
+M00826	C-1027 benzoxazolinate moiety biosynthesis, chorismate => benzoxazolinyl-CoA	0	7	KEGGMODULE
+M00827	C-1027 beta-amino acid moiety biosynthesis, tyrosine => 3-chloro-4,5-dihydroxy-beta-phenylalanyl-PCP	0	5	KEGGMODULE
+M00828	Maduropeptin beta-hydroxy acid moiety biosynthesis, tyrosine => 3-(4-hydroxyphenyl)-3-oxopropanoyl-PCP	0	4	KEGGMODULE
+M00829	3,6-Dimethylsalicylyl-CoA biosynthesis, malonyl-CoA => 6-methylsalicylate => 3,6-dimethylsalicylyl-CoA	0	4	KEGGMODULE
+M00830	Neocarzinostatin naphthoate moiety biosynthesis, malonyl-CoA => 2-hydroxy-5-methyl-1-naphthoate => 2-hydroxy-7-methoxy-5-methyl-1-naphthoyl-CoA	0	5	KEGGMODULE
+M00831	Kedarcidin 2-hydroxynaphthoate moiety biosynthesis, malonyl-CoA => 3,6,8-trihydroxy-2-naphthoate => 3-hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoyl-CoA	0	5	KEGGMODULE
+M00832	Kedarcidin 2-aza-3-chloro-beta-tyrosine moiety biosynthesis, azatyrosine => 2-aza-3-chloro-beta-tyrosyl-PCP	0	4	KEGGMODULE
+M00833	Calicheamicin biosynthesis, calicheamicinone => calicheamicin	0	13	KEGGMODULE
+M00834	Calicheamicin orsellinate moiety biosynthesis, malonyl-CoA => orsellinate-ACP => 5-iodo-2,3-dimethoxyorsellinate-ACP	0	6	KEGGMODULE
+M00835	Pyocyanine biosynthesis, chorismate => pyocyanine	0	12	KEGGMODULE
+M00836	Coenzyme F430 biosynthesis, sirohydrochlorin => coenzyme F430	0	5	KEGGMODULE
+M00837	Prodigiosin biosynthesis, L-proline => prodigiosin	0	12	KEGGMODULE
+M00838	Undecylprodigiosin biosynthesis, L-proline => undecylprodigiosin	0	12	KEGGMODULE
+M00840	Tetrahydrofolate biosynthesis, mediated by ribA and trpF, GTP => THF	1	9	KEGGMODULE
+M00841	Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF	1	10	KEGGMODULE
+M00842	Tetrahydrobiopterin biosynthesis, GTP => BH4	3	7	KEGGMODULE
+M00843	L-threo-Tetrahydrobiopterin biosynthesis, GTP => L-threo-BH4	2	7	KEGGMODULE
+M00844	Arginine biosynthesis, ornithine => arginine	3	7	KEGGMODULE
+M00845	Arginine biosynthesis, glutamate => acetylcitrulline => arginine	2	12	KEGGMODULE
+M00846	Siroheme biosynthesis, glutamate => siroheme	5	10	KEGGMODULE
+M00847	Heme biosynthesis, archaea, siroheme => heme	0	4	KEGGMODULE
+M00848	Aurachin biosynthesis, anthranilate => aurachin A	0	9	KEGGMODULE
+M00849	C5 isoprenoid biosynthesis, mevalonate pathway, archaea	9	10	KEGGMODULE
+M00854	Glycogen biosynthesis, glucose-1P => glycogen/starch	5	5	KEGGMODULE
+M00855	Glycogen degradation, glycogen => glucose-6P	6	3	KEGGMODULE
+M00861	beta-Oxidation, peroxisome, VLCFA	6	10	KEGGMODULE
+M00862	beta-Oxidation, peroxisome, tri/dihydroxycholestanoyl-CoA => choloyl/chenodeoxycholoyl-CoA	3	10	KEGGMODULE
+M00867	KDO2-lipid A modification pathway	0	7	KEGGMODULE
+M00868	Heme biosynthesis, animals and fungi, glycine => heme	9	9	KEGGMODULE
+M00872	O-glycan biosynthesis, mannose type (core M3)	12	4	KEGGMODULE
+M00873	Fatty acid biosynthesis in mitochondria, animals	8	0	KEGGMODULE
+M00874	Fatty acid biosynthesis in mitochondria, fungi	5	0	KEGGMODULE
+M00875	Staphyloferrin B biosynthesis, L-serine => staphyloferrin B	0	8	KEGGMODULE
+M00876	Staphyloferrin A biosynthesis, L-ornithine => staphyloferrin A	0	4	KEGGMODULE
+M00877	Kanosamine biosynthesis, glucose 6-phosphate => kanosamine	0	4	KEGGMODULE
+M00878	Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA	0	11	KEGGMODULE
+M00879	Arginine succinyltransferase pathway, arginine => glutamate	0	6	KEGGMODULE
+M00880	Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor	3	6	KEGGMODULE
+PWY-4983	citrulline-nitric oxide cycle	7	13	BIOCYC
+MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS	dolichyl-diphosphooligosaccharide biosynthesis	10	23	BIOCYC
+PWY-5766	glutamate degradation X	2	6	BIOCYC
+DETOX1-PWY	superoxide radicals degradation	5	5	BIOCYC
+PWY66-301	catecholamine biosynthesis	6	15	BIOCYC
+PWY-5652	2-amino-3-carboxymuconate semialdehyde degradation to glutaryl-CoA	2	12	BIOCYC
+PWY-0	putrescine degradation III	7	15	BIOCYC
+PWY-5686	uridine-5'-phosphate biosynthesis	3	21	BIOCYC
+PWY-5067	glycogen biosynthesis II (from UDP-D-Glucose)	5	11	BIOCYC
+PWY-5657	GDP-mannose biosynthesis I	6	8	BIOCYC
+PWY-6576	dermatan sulfate degradation (metazoa)	1	11	BIOCYC
+PWY-5329	L-cysteine degradation III	1	8	BIOCYC
+HOMOCYSDEGR-PWY	cysteine biosynthesis/homocysteine degradation	2	8	BIOCYC
+NAD-BIOSYNTHESIS-II	NAD salvage pathway II	12	11	BIOCYC
+LIPAS-PWY	triacylglycerol degradation	15	8	BIOCYC
+PWY-4921	protein citrullination	5	4	BIOCYC
+PWY-5941	glycogen degradation II	8	9	BIOCYC
+PWY-6362	1D-<i>myo</i>-inositol hexakisphosphate biosynthesis II (mammalian)	6	11	BIOCYC
+PWY-5326	sulfite oxidation IV	1	5	BIOCYC
+PWY-6567	chondroitin sulfate biosynthesis (late stages)	8	13	BIOCYC
+PWY-5805	nonaprenyl diphosphate biosynthesis I	1	4	BIOCYC
+PWY-6292	cysteine biosynthesis III (mammalia)	8	17	BIOCYC
+PWY-5142	acyl-ACP thioesterase pathway	1	4	BIOCYC
+PWY-6132	lanosterol biosynthesis	1	2	BIOCYC
+PWY-6137	copper transport II	2	5	BIOCYC
+P1-PWY	purine and pyrimidine metabolism	26	32	BIOCYC
+PWY-5651	tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	6	13	BIOCYC
+TRYPTOPHAN-DEGRADATION-1	tryptophan degradation III (eukaryotic)	15	29	BIOCYC
+PWY-46	putrescine biosynthesis III	7	4	BIOCYC
+PWY-901	methylglyoxal degradation II	1	8	BIOCYC
+P341-PWY	glycolysis V (Pyrococcus)	12	17	BIOCYC
+PWY-6317	galactose degradation I (Leloir pathway)	5	11	BIOCYC
+PWY-5148	acyl-CoA hydrolysis	11	5	BIOCYC
+HYDROXYPRODEG-PWY	4-hydroxyproline degradation I	4	13	BIOCYC
+PWY-5669	phosphatidylethanolamine biosynthesis I	5	7	BIOCYC
+PWY3DJ-5	biosynthesis of serotonin and melatonin	5	14	BIOCYC
+BSUBPOLYAMSYN-PWY	spermidine biosynthesis I	3	7	BIOCYC
+PWY-3781	aerobic respiration -- electron donor II	72	12	BIOCYC
+PWY-5884	wax esters biosynthesis I	2	8	BIOCYC
+GLUTOXA-PWY	glutamate degradation VII	4	19	BIOCYC
+ARGASEDEG-PWY	arginine degradation I (arginase pathway)	4	11	BIOCYC
+THRDLCTCAT-PWY	threonine degradation III (to methylglyoxal)	3	12	BIOCYC
+PWY-6353	purine nucleotides degradation II (aerobic)	22	19	BIOCYC
+TYRFUMCAT-PWY	tyrosine degradation I	7	13	BIOCYC
+PWY3DJ-11470	sphingosine and sphingosine-1-phosphate metabolism	9	14	BIOCYC
+ALANINE-SYN2-PWY	alanine biosynthesis II	2	4	BIOCYC
+PWY66-373	sucrose degradation V (mammalian)	7	12	BIOCYC
+CITRULLINE-DEG-PWY	citrulline degradation	1	9	BIOCYC
+PWY-5870	ubiquinol-8 biosynthesis (eukaryotic)	1	23	BIOCYC
+PWY0-1182	trehalose degradation II (trehalase)	2	7	BIOCYC
+TRNA-CHARGING-PWY	tRNA charging pathway	63	64	BIOCYC
+PWY-1801	formaldehyde oxidation II (glutathione-dependent)	2	9	BIOCYC
+PWY-5874	heme degradation	4	11	BIOCYC
+PYRNUCYC-PWY	pyridine nucleotide cycling	7	17	BIOCYC
+RIBOKIN-PWY	ribose degradation	1	7	BIOCYC
+PWY-4061	glutathione-mediated detoxification	28	15	BIOCYC
+PWY-6260	thyroid hormone metabolism I (via deiodination)	3	13	BIOCYC
+GLYSYN-ALA-PWY	glycine biosynthesis III	2	4	BIOCYC
+PWY-5668	cardiolipin biosynthesis I	2	10	BIOCYC
+PWY-6364	D-<i>myo</i>-inositol (1,3,4)-trisphosphate biosynthesis	5	8	BIOCYC
+NADPHOS-DEPHOS-PWY	NAD phosphorylation and dephosphorylation	8	9	BIOCYC
+PWY-5138	fatty acid &beta;-oxidation IV (unsaturated, even number)	8	9	BIOCYC
+PWY3DJ-219	PIP metabolism	51	18	BIOCYC
+PWY-5123	<i>trans, trans</i>-farnesyl diphosphate biosynthesis	5	5	BIOCYC
+PWY-5695	urate biosynthesis/inosine 5'-phosphate degradation	17	11	BIOCYC
+PWY-5994	palmitate biosynthesis I (animals)	2	38	BIOCYC
+PWY-6138	CMP-<i>N</i>-acetylneuraminate biosynthesis I (eukaryotes)	1	15	BIOCYC
+PWY-5084	2-ketoglutarate dehydrogenase complex	4	10	BIOCYC
+GLUCONEO-PWY	gluconeogenesis I	21	23	BIOCYC
+PWY-5489	methyl parathion degradation	1	5	BIOCYC
+ACETOACETATE-DEG-PWY	acetoacetate degradation (to acetyl CoA)	3	5	BIOCYC
+PWY-2161B	glutamate removal from folates	2	3	BIOCYC
+TYRSYN2	tyrosine biosynthesis II	3	5	BIOCYC
+PWY4FS-7	phosphatidylglycerol biosynthesis I (plastidic)	13	17	BIOCYC
+PWY-5080	very long chain fatty acid biosynthesis	4	11	BIOCYC
+PWY-5965	fatty acid biosynthesis initiation III	2	6	BIOCYC
+ASPARAGINE-BIOSYNTHESIS	asparagine biosynthesis I	2	9	BIOCYC
+PWY-4041	&gamma;-glutamyl cycle	11	15	BIOCYC
+PWY6666-1	anandamide degradation	1	4	BIOCYC
+SAM-PWY	S-adenosyl-L-methionine biosynthesis	3	6	BIOCYC
+GLYCOLYSIS	glycolysis I	19	18	BIOCYC
+PWY-5041	<i>S</i>-adenosyl-L-methionine cycle II	6	13	BIOCYC
+PHENYLALANINE-DEG1-PWY	phenylalanine degradation I (aerobic)	4	10	BIOCYC
+PWY-5269	cardiolipin biosynthesis II	1	9	BIOCYC
+PWY-6367	D-<i>myo</i>-inositol-5-phosphate metabolism	19	10	BIOCYC
+PWY-6535	4-aminobutyrate degradation I	2	9	BIOCYC
+ARG-PRO-PWY	arginine degradation VI (arginase 2 pathway)	6	12	BIOCYC
+PWY3DJ-7	cyclic GMP biosynthesis	16	6	BIOCYC
+PWY-4984	urea cycle	6	17	BIOCYC
+PWY-922	mevalonate pathway I	11	17	BIOCYC
+PWY0-662	PRPP biosynthesis I	3	5	BIOCYC
+PYRUVDEHYD-PWY	acetyl-CoA biosynthesis (from pyruvate)	5	10	BIOCYC
+PHOSLIPSYN-PWY	phospholipid biosynthesis I	20	25	BIOCYC
+MANNCAT-PWY	D-mannose degradation	1	2	BIOCYC
+PWY-5328	superpathway of methionine degradation	19	36	BIOCYC
+PWY-6599	guanine and guanosine salvage II	1	7	BIOCYC
+RUMP-PWY	formaldehyde oxidation I	6	14	BIOCYC
+PWY-4561	proline degradation II	2	9	BIOCYC
+PWY-5004	superpathway of citrulline metabolism	17	30	BIOCYC
+PWY3O-19	ubiquinol-6 biosynthesis (eukaryotic)	1	21	BIOCYC
+PWY-5137	fatty acid &beta;-oxidation III (unsaturated, odd number)	3	2	BIOCYC
+PROPIONMET-PWY	methylmalonyl pathway	4	9	BIOCYC
+GLUCOSE1PMETAB-PWY	glucose and glucose-1-phosphate degradation	6	14	BIOCYC
+PWY0-162	pyrimidine ribonucleotides <i>de novo</i> biosynthesis	13	25	BIOCYC
+PWY66-366	flavin biosynthesis IV (mammalian)	2	7	BIOCYC
+PWY0-501	lipoate biosynthesis and incorporation I	1	9	BIOCYC
+PWY-6558	heparan sulfate biosynthesis (late stages)	21	22	BIOCYC
+PWY-5350	thiosulfate disproportionation III (rhodanese)	1	5	BIOCYC
+PWY-5667	CDP-diacylglycerol biosynthesis I	13	12	BIOCYC
+PWY-5659	GDP-mannose biosynthesis	6	8	BIOCYC
+PWY-5885	wax esters biosynthesis II	2	7	BIOCYC
+PWY-5481	pyruvate fermentation to lactate	4	5	BIOCYC
+GLUTAMINE-SYN2-PWY	glutamine biosynthesis II	5	10	BIOCYC
+SER-GLYSYN-PWY	superpathway of serine and glycine biosynthesis I	6	14	BIOCYC
+PWY-6121	5-aminoimidazole ribonucleotide biosynthesis I	3	17	BIOCYC
+PWY66-341	cholesterol biosynthesis I	12	35	BIOCYC
+PWY-5653	NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde	4	14	BIOCYC
+PWY-6609	adenine and adenosine salvage III	7	11	BIOCYC
+PWY-4261	glycerol degradation IV	6	9	BIOCYC
+PWY0-1334	NADH to cytochrome <i>bd</i> oxidase electron transfer I	51	8	BIOCYC
+PWY3DJ-12	ceramide biosynthesis	11	12	BIOCYC
+PWY-6568	dermatan sulfate biosynthesis (late stages)	1	9	BIOCYC
+PWY-5525	D-glucuronate degradation I	3	11	BIOCYC
+PWY-5934	Fe(III)-reduction and Fe(II) transport	1	5	BIOCYC
+ASPARAGINE-DEG1-PWY	asparagine degradation I	2	5	BIOCYC
+GLUTATHIONESYN-PWY	glutathione biosynthesis	3	9	BIOCYC
+GLUTAMINE-DEG1-PWY	glutamine degradation I	4	8	BIOCYC
+PWY0-823	arginine degradation III (arginine decarboxylase/agmatinase pathway)	1	7	BIOCYC
+PWY-6181	histamine degradation	2	18	BIOCYC
+PWY-3982	uracil degradation II (reductive)	3	10	BIOCYC
+GALACTMETAB-PWY	UDP-galactose biosynthesis (salvage pathway from galactose using UDP-glucose)	5	10	BIOCYC
+PWY-6124	inosine-5'-phosphate biosynthesis II	3	16	BIOCYC
+PWY-3561	choline biosynthesis III	9	11	BIOCYC
+PWY-5046	branched-chain &alpha;-keto acid dehydrogenase complex	4	10	BIOCYC
+PWY-6517	<i>N</i>-acetylglucosamine degradation II	4	10	BIOCYC
+PWY-6061	bile acid biosynthesis, neutral pathway	6	48	BIOCYC
+PWY-6571	dermatan sulfate biosynthesis	13	23	BIOCYC
+ORNSPNANA-PWY	spermine biosynthesis II	9	8	BIOCYC
+PENTOSE-P-PWY	pentose phosphate pathway	11	17	BIOCYC
+ASPBIO-PWY	aspartate biosynthesis	2	10	BIOCYC
+GLYCLEAV-PWY	glycine cleavage complex	3	11	BIOCYC
+PWY6666-2	dopamine degradation	8	17	BIOCYC
+COA-PWY	coenzyme A biosynthesis	5	13	BIOCYC
+PWY-6566	chondroitin and dermatan biosynthesis	5	8	BIOCYC
+GLYCGREAT-PWY	glycine degradation (creatine biosynthesis)	2	8	BIOCYC
+PWY-2361	3-oxoadipate degradation	2	6	BIOCYC
+PWY-6613	tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate	3	7	BIOCYC
+PWY-6144	CMP-<i>N</i>-glycoloylneuraminate biosynthesis	1	7	BIOCYC
+PWY3DJ-35778	Serine degradation II	5	13	BIOCYC
+PWY3DJ-35549	Biopterin recycling	3	7	BIOCYC
+PWY-6118	glycerol-3-phosphate shuttle	4	8	BIOCYC
+PWY0-1301	melibiose degradation	1	4	BIOCYC
+VALDEG-PWY	valine degradation I	8	20	BIOCYC
+CYSTEINE-SYN2-PWY	cysteine biosynthesis II	2	8	BIOCYC
+PWY-6173	histamine biosynthesis	1	4	BIOCYC
+PWY-2201	folate transformations I	11	26	BIOCYC
+PWY-2501	fatty acid &alpha;-oxidation	10	10	BIOCYC
+PWY3DJ-471	creatine-phosphate energy transfer	8	5	BIOCYC
+PWY-5664	tetrahydrobiopterin biosynthesis II	3	11	BIOCYC
+PWY-6076	1,25-dihydroxyvitamin D<sub>3</sub> biosynthesis	1	12	BIOCYC
+PWY0-1264	biotin-carboxyl carrier protein assembly	3	13	BIOCYC
+SALVPURINE2-PWY	xanthine and xanthosine salvage	2	7	BIOCYC
+TRPCAT-PWY	tryptophan degradation I (via anthranilate)	4	9	BIOCYC
+URSIN-PWY	ureide biosynthesis	19	17	BIOCYC
+PWY3DJ-81	riboflavin, FMN and FAD transformations	3	10	BIOCYC
+PWY-5173	superpathway of acetyl-CoA biosynthesis	6	15	BIOCYC
+CITRULBIO-PWY	citrulline biosynthesis	9	22	BIOCYC
+LIPASYN-PWY	phospholipases	34	12	BIOCYC
+PWY-3661	glycine betaine degradation	8	18	BIOCYC
+PWY-6473	4-aminobutyrate degradation IV	2	9	BIOCYC
+P61-PWY	UDP-glucose conversion	6	6	BIOCYC
+PWY3DJ-4	biosynthesis of corticosteroids	7	23	BIOCYC
+PWY3DJ-1	cyclic AMP biosynthesis	61	9	BIOCYC
+PWY3DJ-0	isoleucine degradation	15	28	BIOCYC
+PWY-6351	D-<i>myo</i>-inositol (1,4,5)-trisphosphate biosynthesis	23	12	BIOCYC
+PWY-6	GDP-L-fucose biosynthesis II (from L-fucose)	2	8	BIOCYC
+PWY-5189	tetrapyrrole biosynthesis II	5	11	BIOCYC
+GLYSYN-PWY	glycine biosynthesis I	2	5	BIOCYC
+PWY-2161	folate polyglutamylation	5	14	BIOCYC
+PWY-6352	3-phosphoinositide biosynthesis	23	15	BIOCYC
+PWY3DJ-35471	L-ascorbate biosynthesis VI	5	19	BIOCYC
+PWY-6405	Rapoport-Luebering glycolytic shunt	3	7	BIOCYC
+PWY-4821	UDP-D-xylose and UDP-D-glucuronate biosynthesis	2	8	BIOCYC
+PWY66-4	cholesterol biosynthesis III (via desmosterol)	11	35	BIOCYC
+PWY66-368	ketolysis	7	10	BIOCYC
+TRIGLSYN-PWY	triacylglycerol biosynthesis	19	12	BIOCYC
+GLYSYN-THR-PWY	glycine biosynthesis IV	1	3	BIOCYC
+PWY-5921	L-glutamine biosynthesis II (tRNA-dependent)	1	10	BIOCYC
+PWY-5697	allantoin degradation to ureidoglycolate I (urea producing)	1	6	BIOCYC
+ARGSPECAT-PWY	spermine biosynthesis	3	7	BIOCYC
+PWY-6365	D-<i>myo</i>-inositol (3,4,5,6)-tetrakisphosphate biosynthesis	1	9	BIOCYC
+PWY-6348	phosphate acquisition	7	4	BIOCYC
+ADENOSYLHOMOCYSCAT-PWY	methionine salvage II (mammalia)	3	6	BIOCYC
+PWY-5109	2-methylbutyrate biosynthesis	5	15	BIOCYC
+PWY-6619	adenine and adenosine salvage VI	1	5	BIOCYC
+GLUT-REDOX-PWY	glutathione redox reactions II	1	7	BIOCYC
+PWY-5687	pyrimidine ribonucleotides interconversion	10	12	BIOCYC
+PWY-842	starch degradation	19	15	BIOCYC
+PWY3DJ-11281	sphingomyelin metabolism	8	6	BIOCYC
+PWY-5663	tetrahydrobiopterin biosynthesis I	3	10	BIOCYC
+PWY0-1298	pyrimidine deoxyribonucleosides degradation	5	18	BIOCYC
+PWY-5340	sulfate activation for sulfonation	2	7	BIOCYC
+OXIDATIVEPENT-PWY	pentose phosphate pathway (oxidative branch)	5	11	BIOCYC
+SERSYN-PWY	serine biosynthesis	4	11	BIOCYC
+ARGININE-SYN4-PWY	arginine biosynthesis IV	6	22	BIOCYC
+PWY-6573	chondroitin sulfate degradation (metazoa)	3	10	BIOCYC
+PWY-5143	fatty acid activation	11	6	BIOCYC
+PWY66-201	nicotine degradation II	56	27	BIOCYC
+CYSTEINE-DEG-PWY	L-cysteine degradation I	3	10	BIOCYC
+PWY-5996	oleate biosynthesis II (animals)	18	9	BIOCYC
+PWY66-3	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	8	35	BIOCYC
+PWY-5920	heme biosynthesis II	9	18	BIOCYC
+PWY3DJ-35588	creatine biosynthesis	4	14	BIOCYC
+PWY-6557	glycoaminoglycan-protein linkage region biosynthesis	7	10	BIOCYC
+PWY3FA-941	ketogenesis	8	12	BIOCYC
+COLANSYN-PWY	colanic acid building blocks biosynthesis	14	24	BIOCYC
+PWY3DJ-35888	sulfur metabolism	3	11	BIOCYC
+PWY3DJ-35583	biosynthesis of prostaglandins	11	15	BIOCYC
+PWY-66	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	2	7	BIOCYC
+PWY3DJ-2	biosynthesis of estrogens	12	24	BIOCYC
+PWY-4981	proline biosynthesis II (from arginine)	5	16	BIOCYC
+PWY-6122	5-aminoimidazole ribonucleotide biosynthesis II	3	16	BIOCYC
+PWY0-522	lipoate salvage and modification	1	8	BIOCYC
+PWY-5490	paraoxon degradation	1	5	BIOCYC
+PWY-5670	epoxysqualene biosynthesis	2	11	BIOCYC
+PWY3O-4106	NAD salvage pathway III	4	7	BIOCYC
+PWY66-367	ketogenesis	8	12	BIOCYC
+GLUTFUMARATE-PWY	glutamine degradation II	3	8	BIOCYC
+PWY66-21	ethanol degradation II (cytosol)	14	12	BIOCYC
+PWY-5389	methylthiopropionate biosynthesis	1	6	BIOCYC
+PLPSAL-PWY	pyridoxal 5'-phosphate salvage pathway	2	13	BIOCYC
+MANGDPMET-PWY	GDP-mannose metabolism	9	12	BIOCYC
+PWY-5690-1	TCA cycle variation III (eukaryotic)	14	22	BIOCYC
+PWY0-181	salvage pathways of pyrimidine deoxyribonucleotides	6	14	BIOCYC
+PWY-5136	fatty acid &beta;-oxidation II (core pathway)	22	16	BIOCYC
+PWY-40	putrescine biosynthesis I	1	7	BIOCYC
+DRIBOPMET-PWY	(deoxy)ribose phosphate degradation	10	19	BIOCYC
+PWY-6355	phosphate acquisition II	20	7	BIOCYC
+PWY-5966	fatty acid biosynthesis initiation II	2	7	BIOCYC
+PWY-6481	L-dopachrome biosynthesis	2	8	BIOCYC
+PWY3DJ-6	Leucine Catabolism	12	25	BIOCYC
+PWY-6268	adenosylcobalamin salvage from cobalamin	1	4	BIOCYC
+PWY-6030	serotonin and melatonin biosynthesis	5	14	BIOCYC
+PWY3O-450	phosphatidylcholine biosynthesis I	6	11	BIOCYC
+PWY-6569	chondroitin sulfate biosynthesis	17	23	BIOCYC
+PWY-6689	tRNA splicing	3	17	BIOCYC
+PWY-5535	acetate formation from acetyl-CoA II	1	6	BIOCYC
+BETA-ALA-DEGRADATION-I-PWY	&beta;-alanine degradation I	2	9	BIOCYC
+PWY-3841	folate transformations II (plants)	13	25	BIOCYC
+LEU-DEG2-PWY	leucine degradation I	8	22	BIOCYC
+PWY-6281	selenocysteine biosynthesis II (archaea and eukaryotes)	4	14	BIOCYC
+PWY3FA-1022	ketone oxidation	7	10	BIOCYC
+PWY-6277	superpathway of 5-aminoimidazole ribonucleotide biosynthesis	3	18	BIOCYC
+PWY-6608	guanosine nucleotides degradation III	16	12	BIOCYC
+PWY0-1319	CDP-diacylglycerol biosynthesis II	12	12	BIOCYC
+PWY-4081	glutathione redox reactions I	9	9	BIOCYC
+PWY-5767	glycogen degradation III	9	9	BIOCYC
+CYSDEGRV-PWY	L-cysteine degradation VI	2	6	BIOCYC
+PARATHION-DEGRADATION-PWY	parathion degradation	2	7	BIOCYC
+BGALACT-PWY	lactose degradation III	6	4	BIOCYC
+PWY-6000	&gamma;-linolenate biosynthesis II (animals)	15	11	BIOCYC
+GLUTAMATE-SYN2-PWY	glutamate biosynthesis II	2	6	BIOCYC
+MALATE-ASPARTATE-SHUTTLE-PWY	aspartate degradation II	2	8	BIOCYC
+PWY-5963	molybdenum cofactor (sulfide) biosynthesis	1	6	BIOCYC
+PWY-2301	<i>myo</i>-inositol biosynthesis	4	5	BIOCYC
+PWY3DJ-8	biosynthesis of androgens	8	17	BIOCYC
+PWY-3981	&beta;-alanine biosynthesis I	12	10	BIOCYC
+PWY-5661	GDP-glucose biosynthesis	6	10	BIOCYC
+NAD-BIOSYNTHESIS-III	NAD biosynthesis III	4	7	BIOCYC
+PWY-6363	D-<i>myo</i>-inositol (1,4,5)-trisphosphate degradation	7	6	BIOCYC
+PWY-5386	methylglyoxal degradation I	3	10	BIOCYC
+HEME-BIOSYNTHESIS-II	heme biosynthesis from uroporphyrinogen-III I	4	11	BIOCYC
+PWY66-221	nicotine degradation III	48	26	BIOCYC
+SERDEG-PWY	L-serine degradation	2	4	BIOCYC
+GLUAMCAT-PWY	<i>N</i>-acetylglucosamine degradation I	3	7	BIOCYC
+FAO-PWY	fatty acid &beta;-oxidation I	32	18	BIOCYC
+PROLINE-SYN2-PWY	proline biosynthesis II	6	16	BIOCYC
+PWY-6358	superpathway of D-<i>myo</i>-inositol (1,4,5)-trisphosphate metabolism	11	11	BIOCYC
+THIOREDOX-PWY	thioredoxin pathway	3	6	BIOCYC
+PROLINE-DEG2-PWY	proline degradation III	3	9	BIOCYC
+LARABITOLUTIL-PWY	xylitol degradation	2	8	BIOCYC
+ANAGLYCOLYSIS-PWY	glycolysis III	17	18	BIOCYC
+PWY-6100	L-carnitine biosynthesis	4	14	BIOCYC
+PWY-5177	glutaryl-CoA degradation	7	14	BIOCYC
+PWY3DJ-213	Targeted protein degradation	29	8	BIOCYC
+LYSINE-DEG1-PWY	lysine degradation II	4	17	BIOCYC
+PWY-5079	phenylalanine degradation III	7	12	BIOCYC
+PWY-5514	UDP-<i>N</i>-acetyl-D-galactosamine biosynthesis II	7	13	BIOCYC
+PWY0-1313	acetate conversion to acetyl-CoA	3	6	BIOCYC
+AERESPDON-PWY	aerobic respiration -- electron donors reaction list	7	17	BIOCYC
+MGLDLCTANA-PWY	methylglyoxal degradation VI	1	11	BIOCYC
+PWY0-166	pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I	15	26	BIOCYC
+GLUDEG-I-PWY	glutamate degradation III (via 4-aminobutyrate)	4	10	BIOCYC
+ALANINE-DEG3-PWY	alanine degradation III	2	4	BIOCYC
+PWY4FS-8	phosphatidylglycerol biosynthesis II (non-plastidic)	14	17	BIOCYC
+METHIONINE-DEG1-PWY	methionine degradation I (to homocysteine)	6	11	BIOCYC
+TCA-1	TCA cycle	13	24	BIOCYC
+PWY-5172	acetyl-CoA biosynthesis (from citrate)	1	7	BIOCYC
+PWY0-1296	purine ribonucleosides degradation to ribose-1-phosphate	6	13	BIOCYC
+PWY0-163	salvage pathways of pyrimidine ribonucleotides	15	19	BIOCYC
+PWY-4321	glutamate degradation IV	4	15	BIOCYC
+PWY0-1324	<i>N</i>-acetylneuraminate and <i>N</i>-acetylmannosamine degradation	3	8	BIOCYC
+PWY-4202	arsenate detoxification I (glutaredoxin)	7	20	BIOCYC
+NONOXIPENT-PWY	pentose phosphate pathway (non-oxidative branch)	6	7	BIOCYC
+UDPNACETYLGALSYN-PWY	UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis II	6	12	BIOCYC
+PWY3DJ-5523	sucrose degradation	6	9	BIOCYC
+PWY-3861	mannitol degradation II	11	9	BIOCYC
+NADSYN-PWY	NAD biosynthesis II (from tryptophan)	10	24	BIOCYC
+PWY-6498	eumelanin biosynthesis	1	11	BIOCYC
+PWY4FS-6	phosphatidylethanolamine biosynthesis II	8	11	BIOCYC
+PWY0-1275	lipoate biosynthesis and incorporation II	1	11	BIOCYC
+PWY-5691	urate degradation to allantoin	2	9	BIOCYC
+PWY-5030	histidine degradation III	6	12	BIOCYC
+PWY-6564	heparan sulfate biosynthesis	28	28	BIOCYC
+PWY0-1335	NADH to cytochrome <i>bo</i> oxidase electron transfer I	51	8	BIOCYC
+PWY66-241	bupropion degradation	38	12	BIOCYC
+PWY3DJ-86	valine degradation	16	29	BIOCYC
+PWY-6556	pyrimidine ribonucleosides degradation II	4	6	BIOCYC
+PWY3DJ-193	Leloir pathway	4	8	BIOCYC
+PWY-5515	L-arabinose degradation II	3	9	BIOCYC
+SALVADEHYPOX-PWY	adenosine nucleotides degradation II	19	13	BIOCYC
+PWY66-5	superpathway of cholesterol biosynthesis	13	20	BIOCYC
+P121-PWY	adenine and adenosine salvage I	3	7	BIOCYC
+PWY-6126	adenosine nucleotides <i>de novo</i> biosynthesis	23	20	BIOCYC
+GLCMANNANAUT-PWY	superpathway of <i>N</i>-acetylglucosamine, <i>N</i>-acetylmannosamine and <i>N</i>-acetylneuraminate degradation	6	13	BIOCYC
+R-MMU-73843	5-Phosphoribose 1-diphosphate biosynthesis	4	8	REACTOME
+R-MMU-1971475	A tetrasaccharide linker sequence is required for GAG synthesis	24	5	REACTOME
+R-MMU-1369062	ABC transporters in lipid homeostasis	16	11	REACTOME
+R-MMU-382556	ABC-family proteins mediated transport	100	20	REACTOME
+R-MMU-9033807	ABO blood group biosynthesis	2	14	REACTOME
+R-MMU-418592	ADP signalling through P2Y purinoceptor 1	24	3	REACTOME
+R-MMU-392170	ADP signalling through P2Y purinoceptor 12	21	8	REACTOME
+R-MMU-198323	AKT phosphorylates targets in the cytosol	8	2	REACTOME
+R-MMU-198693	AKT phosphorylates targets in the nucleus	10	2	REACTOME
+R-MMU-211163	AKT-mediated inactivation of FOXO1A	4	2	REACTOME
+R-MMU-163680	AMPK inhibits chREBP transcriptional activation activity	6	1	REACTOME
+R-MMU-179409	APC-Cdc20 mediated degradation of Nek2A	25	0	REACTOME
+R-MMU-174143	APC/C-mediated degradation of cell cycle proteins	83	4	REACTOME
+R-MMU-174048	APC/C:Cdc20 mediated degradation of Cyclin B	23	0	REACTOME
+R-MMU-174154	APC/C:Cdc20 mediated degradation of Securin	67	0	REACTOME
+R-MMU-176409	APC/C:Cdc20 mediated degradation of mitotic proteins	75	0	REACTOME
+R-MMU-174178	APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	72	0	REACTOME
+R-MMU-179419	APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint	73	0	REACTOME
+R-MMU-5649702	APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway	5	5	REACTOME
+R-MMU-5624958	ARL13B-mediated ciliary trafficking of INPP5E	3	0	REACTOME
+R-MMU-170984	ARMS-mediated activation	5	4	REACTOME
+R-MMU-381033	ATF6 (ATF6-alpha) activates chaperones	3	0	REACTOME
+R-MMU-1296025	ATP sensitive Potassium channels	4	2	REACTOME
+R-MMU-450408	AUF1 (hnRNP D0) binds and destabilizes mRNA	56	1	REACTOME
+R-MMU-8854518	AURKA Activation by TPX2	72	2	REACTOME
+R-MMU-2161541	Abacavir metabolism	3	14	REACTOME
+R-MMU-2161517	Abacavir transmembrane transport	3	1	REACTOME
+R-MMU-2161522	Abacavir transport and metabolism	6	14	REACTOME
+R-MMU-73930	Abasic sugar-phosphate removal via the single-nucleotide replacement pathway	2	1	REACTOME
+R-MMU-156582	Acetylation	3	14	REACTOME
+R-MMU-264642	Acetylcholine Neurotransmitter Release Cycle	15	7	REACTOME
+R-MMU-181431	Acetylcholine binding and downstream events	13	3	REACTOME
+R-MMU-399997	Acetylcholine regulates insulin secretion	9	7	REACTOME
+R-MMU-1300645	Acrosome Reaction and Sperm:Oocyte Membrane Binding	6	0	REACTOME
+R-MMU-2122948	Activated NOTCH1 Transmits Signal to the Nucleus	10	0	REACTOME
+R-MMU-9028731	Activated NTRK2 signals through FRS2 and FRS3	6	0	REACTOME
+R-MMU-9032500	Activated NTRK2 signals through FYN	4	2	REACTOME
+R-MMU-9026527	Activated NTRK2 signals through PLCG1	4	0	REACTOME
+R-MMU-9603381	Activated NTRK3 signals through PI3K	3	2	REACTOME
+R-MMU-9034793	Activated NTRK3 signals through PLCG1	3	0	REACTOME
+R-MMU-5625886	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3	70	11	REACTOME
+R-MMU-111452	Activation and oligomerization of BAK protein	2	0	REACTOME
+R-MMU-165158	Activation of AKT2	4	3	REACTOME
+R-MMU-399710	Activation of AMPA receptors	3	3	REACTOME
+R-MMU-176814	Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins	76	0	REACTOME
+R-MMU-176187	Activation of ATR in response to replication stress	34	3	REACTOME
+R-MMU-111447	Activation of BAD and translocation to mitochondria 	12	2	REACTOME
+R-MMU-114452	Activation of BH3-only proteins	18	4	REACTOME
+R-MMU-111446	Activation of BIM and translocation to mitochondria 	3	2	REACTOME
+R-MMU-139910	Activation of BMF and translocation to mitochondria	3	2	REACTOME
+R-MMU-174577	Activation of C3 and C5	5	1	REACTOME
+R-MMU-451308	Activation of Ca-permeable Kainate Receptor	10	3	REACTOME
+R-MMU-1296041	Activation of G protein gated Potassium channels	23	2	REACTOME
+R-MMU-991365	Activation of GABAB receptors	36	6	REACTOME
+R-MMU-936964	Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon	17	3	REACTOME
+R-MMU-1592389	Activation of Matrix Metalloproteinases	49	2	REACTOME
+R-MMU-1169091	Activation of NF-kappaB in B cells	63	5	REACTOME
+R-MMU-2980767	Activation of NIMA Kinases NEK9, NEK6, NEK7	5	2	REACTOME
+R-MMU-442755	Activation of NMDA receptors and postsynaptic events	38	8	REACTOME
+R-MMU-111448	Activation of NOXA and translocation to mitochondria	1	0	REACTOME
+R-MMU-451307	Activation of Na-permeable kainate receptors	0	3	REACTOME
+R-MMU-9619229	Activation of RAC1 downstream of NMDARs	6	3	REACTOME
+R-MMU-1169092	Activation of RAS in B cells	4	3	REACTOME
+R-MMU-5635838	Activation of SMO	13	0	REACTOME
+R-MMU-187015	Activation of TRKA receptors	2	0	REACTOME
+R-MMU-451326	Activation of kainate receptors upon glutamate binding	29	4	REACTOME
+R-MMU-450341	Activation of the AP-1 family of transcription factors	10	2	REACTOME
+R-MMU-8866907	Activation of the TFAP2 (AP-2) family of transcription factors	11	0	REACTOME
+R-MMU-72662	Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S	59	6	REACTOME
+R-MMU-2485179	Activation of the phototransduction cascade	8	7	REACTOME
+R-MMU-68962	Activation of the pre-replicative complex	30	4	REACTOME
+R-MMU-75108	Activation, myristolyation of BID and translocation to mitochondria	11	0	REACTOME
+R-MMU-114294	Activation, translocation and oligomerization of BAX	2	0	REACTOME
+R-MMU-1482798	Acyl chain remodeling of CL	5	12	REACTOME
+R-MMU-1482883	Acyl chain remodeling of DAG and TAG	7	10	REACTOME
+R-MMU-1482788	Acyl chain remodelling of PC	27	13	REACTOME
+R-MMU-1482839	Acyl chain remodelling of PE	27	13	REACTOME
+R-MMU-1482925	Acyl chain remodelling of PG	18	8	REACTOME
+R-MMU-1482922	Acyl chain remodelling of PI	17	8	REACTOME
+R-MMU-1482801	Acyl chain remodelling of PS	22	9	REACTOME
+R-MMU-1280218	Adaptive Immune System	664	41	REACTOME
+R-MMU-417973	Adenosine P1 receptors	3	1	REACTOME
+R-MMU-170660	Adenylate cyclase activating pathway	9	7	REACTOME
+R-MMU-170670	Adenylate cyclase inhibitory pathway	13	4	REACTOME
+R-MMU-418990	Adherens junctions interactions	32	1	REACTOME
+R-MMU-392023	Adrenaline signalling through Alpha-2 adrenergic receptor	1	2	REACTOME
+R-MMU-400042	Adrenaline,noradrenaline inhibits insulin secretion	21	4	REACTOME
+R-MMU-390696	Adrenoceptors	5	37	REACTOME
+R-MMU-879415	Advanced glycosylation endproduct receptor signaling	6	3	REACTOME
+R-MMU-5423646	Aflatoxin activation and detoxification	22	26	REACTOME
+R-MMU-9646399	Aggrephagy	36	2	REACTOME
+R-MMU-351143	Agmatine biosynthesis	2	6	REACTOME
+R-MMU-8964540	Alanine metabolism	2	4	REACTOME
+R-MMU-1462054	Alpha-defensins	35	1	REACTOME
+R-MMU-389599	Alpha-oxidation of phytanate	6	24	REACTOME
+R-MMU-9645460	Alpha-protein kinase 1 signaling pathway	10	3	REACTOME
+R-MMU-173736	Alternative complement activation	4	2	REACTOME
+R-MMU-140179	Amine Oxidase reactions	4	18	REACTOME
+R-MMU-375280	Amine ligand-binding receptors	38	43	REACTOME
+R-MMU-156587	Amino Acid conjugation	6	13	REACTOME
+R-MMU-352230	Amino acid transport across the plasma membrane	30	34	REACTOME
+R-MMU-9639288	Amino acids regulate mTORC1	53	6	REACTOME
+R-MMU-141444	Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal	91	0	REACTOME
+R-MMU-141424	Amplification of signal from the kinetochores	91	0	REACTOME
+R-MMU-2214320	Anchoring fibril formation	14	0	REACTOME
+R-MMU-5620912	Anchoring of the basal body to the plasma membrane	96	3	REACTOME
+R-MMU-193048	Androgen biosynthesis	16	16	REACTOME
+R-MMU-2473224	Antagonism of Activin by Follistatin	4	0	REACTOME
+R-MMU-983170	Antigen Presentation: Folding, assembly and peptide loading of class I MHC	42	11	REACTOME
+R-MMU-983695	Antigen activates B Cell Receptor (BCR) leading to generation of second messengers	23	8	REACTOME
+R-MMU-1236975	Antigen processing-Cross presentation	93	11	REACTOME
+R-MMU-983168	Antigen processing: Ubiquitination & Proteasome degradation	283	7	REACTOME
+R-MMU-6803157	Antimicrobial peptides	91	28	REACTOME
+R-MMU-1169410	Antiviral mechanism by IFN-stimulated genes	32	7	REACTOME
+R-MMU-109581	Apoptosis	103	7	REACTOME
+R-MMU-140342	Apoptosis induced DNA fragmentation	13	2	REACTOME
+R-MMU-351906	Apoptotic cleavage of cell adhesion  proteins	11	0	REACTOME
+R-MMU-111465	Apoptotic cleavage of cellular proteins	36	0	REACTOME
+R-MMU-75153	Apoptotic execution phase	49	2	REACTOME
+R-MMU-111471	Apoptotic factor-mediated response	9	1	REACTOME
+R-MMU-445717	Aquaporin-mediated transport	36	8	REACTOME
+R-MMU-426048	Arachidonate production from DAG	5	8	REACTOME
+R-MMU-2142753	Arachidonic acid metabolism	57	77	REACTOME
+R-MMU-8937144	Aryl hydrocarbon receptor signalling	7	1	REACTOME
+R-MMU-446203	Asparagine N-linked glycosylation	257	110	REACTOME
+R-MMU-8963693	Aspartate and asparagine metabolism	11	25	REACTOME
+R-MMU-9609736	Assembly and cell surface presentation of NMDA receptors	6	0	REACTOME
+R-MMU-8963889	Assembly of active LPL and LIPC lipase complexes	11	6	REACTOME
+R-MMU-2022090	Assembly of collagen fibrils and other multimeric structures	57	6	REACTOME
+R-MMU-68616	Assembly of the ORC complex at the origin of replication	5	1	REACTOME
+R-MMU-68867	Assembly of the pre-replicative complex	67	1	REACTOME
+R-MMU-390471	Association of TriC/CCT with target proteins during biosynthesis	10	1	REACTOME
+R-MMU-210455	Astrocytic Glutamate-Glutamine Uptake And Metabolism	4	6	REACTOME
+R-MMU-4608870	Asymmetric localization of PCP proteins	62	0	REACTOME
+R-MMU-162791	Attachment of GPI anchor to uPAR	6	3	REACTOME
+R-MMU-3371568	Attenuation phase	13	2	REACTOME
+R-MMU-174084	Autodegradation of Cdh1 by Cdh1:APC/C	63	0	REACTOME
+R-MMU-349425	Autodegradation of the E3 ubiquitin ligase COP1	52	2	REACTOME
+R-MMU-9612973	Autophagy	116	11	REACTOME
+R-MMU-422475	Axon guidance	259	14	REACTOME
+R-MMU-193634	Axonal growth inhibition (RHOA activation)	8	2	REACTOME
+R-MMU-209563	Axonal growth stimulation	4	1	REACTOME
+R-MMU-5250924	B-WICH complex positively regulates rRNA expression	94	3	REACTOME
+R-MMU-5620922	BBSome-mediated cargo-targeting to cilium	23	1	REACTOME
+R-MMU-111453	BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members	7	0	REACTOME
+R-MMU-73884	Base Excision Repair	92	26	REACTOME
+R-MMU-73929	Base-Excision Repair, AP Site Formation	71	17	REACTOME
+R-MMU-210991	Basigin interactions	24	1	REACTOME
+R-MMU-1461957	Beta defensins	14	1	REACTOME
+R-MMU-77352	Beta oxidation of butanoyl-CoA to acetyl-CoA	3	10	REACTOME
+R-MMU-77346	Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA	6	15	REACTOME
+R-MMU-77350	Beta oxidation of hexanoyl-CoA to butanoyl-CoA	5	13	REACTOME
+R-MMU-77310	Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA	5	13	REACTOME
+R-MMU-77285	Beta oxidation of myristoyl-CoA to lauroyl-CoA	3	13	REACTOME
+R-MMU-77348	Beta oxidation of octanoyl-CoA to hexanoyl-CoA	5	13	REACTOME
+R-MMU-77305	Beta oxidation of palmitoyl-CoA to myristoyl-CoA	3	13	REACTOME
+R-MMU-3858494	Beta-catenin independent WNT signaling	124	16	REACTOME
+R-MMU-196299	Beta-catenin phosphorylation cascade	15	2	REACTOME
+R-MMU-389887	Beta-oxidation of pristanoyl-CoA	9	21	REACTOME
+R-MMU-390247	Beta-oxidation of very long chain fatty acids	11	26	REACTOME
+R-MMU-425381	Bicarbonate transporters	8	4	REACTOME
+R-MMU-194068	Bile acid and bile salt metabolism	44	78	REACTOME
+R-MMU-2173782	Binding and Uptake of Ligands by Scavenger Receptors	31	39	REACTOME
+R-MMU-141333	Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB	2	11	REACTOME
+R-MMU-211859	Biological oxidations	202	317	REACTOME
+R-MMU-9018676	Biosynthesis of D-series resolvins	4	21	REACTOME
+R-MMU-9018677	Biosynthesis of DHA-derived SPMs	16	54	REACTOME
+R-MMU-9026395	Biosynthesis of DHA-derived sulfido conjugates	2	5	REACTOME
+R-MMU-9018683	Biosynthesis of DPA-derived SPMs	4	23	REACTOME
+R-MMU-9025094	Biosynthesis of DPAn-3 SPMs	4	19	REACTOME
+R-MMU-9026403	Biosynthesis of DPAn-3-derived 13-series resolvins	1	6	REACTOME
+R-MMU-9026290	Biosynthesis of DPAn-3-derived maresins	2	9	REACTOME
+R-MMU-9026286	Biosynthesis of DPAn-3-derived protectins and resolvins	2	8	REACTOME
+R-MMU-9025106	Biosynthesis of DPAn-6 SPMs	2	6	REACTOME
+R-MMU-9023661	Biosynthesis of E-series 18(R)-resolvins	4	11	REACTOME
+R-MMU-9018896	Biosynthesis of E-series 18(S)-resolvins	5	14	REACTOME
+R-MMU-9018679	Biosynthesis of EPA-derived SPMs	6	22	REACTOME
+R-MMU-9020265	Biosynthesis of aspirin-triggered D-series resolvins	3	17	REACTOME
+R-MMU-9027604	Biosynthesis of electrophilic <U+03C9>-3 PUFA oxo-derivatives	2	12	REACTOME
+R-MMU-9026762	Biosynthesis of maresin conjugates in tissue regeneration (MCTR)	2	3	REACTOME
+R-MMU-9027307	Biosynthesis of maresin-like SPMs	5	12	REACTOME
+R-MMU-9018682	Biosynthesis of maresins	7	17	REACTOME
+R-MMU-9026766	Biosynthesis of protectin and resolvin conjugates in tissue regeneration (PCTR and RCTR)	1	3	REACTOME
+R-MMU-9018681	Biosynthesis of protectins	3	14	REACTOME
+R-MMU-9018678	Biosynthesis of specialized proresolving mediators (SPMs)	17	102	REACTOME
+R-MMU-446193	Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	71	79	REACTOME
+R-MMU-196780	Biotin transport and metabolism	10	8	REACTOME
+R-MMU-9033658	Blood group systems biosynthesis	16	26	REACTOME
+R-MMU-70895	Branched-chain amino acid catabolism	17	37	REACTOME
+R-MMU-352238	Breakdown of the nuclear lamina	3	0	REACTOME
+R-MMU-450385	Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA	16	3	REACTOME
+R-MMU-8851680	Butyrophilin (BTN) family interactions	7	1	REACTOME
+R-MMU-5621481	C-type lectin receptors (CLRs)	103	16	REACTOME
+R-MMU-75102	C6 deamination of adenosine	2	4	REACTOME
+R-MMU-5218900	CASP8 activity is inhibited	10	0	REACTOME
+R-MMU-5621575	CD209 (DC-SIGN) signaling	15	5	REACTOME
+R-MMU-5690714	CD22 mediated BCR regulation	5	3	REACTOME
+R-MMU-389356	CD28 co-stimulation	32	6	REACTOME
+R-MMU-389357	CD28 dependent PI3K/Akt signaling	22	4	REACTOME
+R-MMU-389359	CD28 dependent Vav1 pathway	11	5	REACTOME
+R-MMU-68689	CDC6 association with the ORC:origin complex	10	1	REACTOME
+R-MMU-69017	CDK-mediated phosphorylation and removal of Cdc6	72	2	REACTOME
+R-MMU-68827	CDT1 association with the CDC6:ORC:origin complex	58	1	REACTOME
+R-MMU-5607763	CLEC7A (Dectin-1) induces NFAT activation	7	5	REACTOME
+R-MMU-5607764	CLEC7A (Dectin-1) signaling	86	11	REACTOME
+R-MMU-5660668	CLEC7A/inflammasome pathway	4	0	REACTOME
+R-MMU-6811434	COPI-dependent Golgi-to-ER retrograde traffic	91	4	REACTOME
+R-MMU-6811436	COPI-independent Golgi-to-ER retrograde traffic	49	10	REACTOME
+R-MMU-6807878	COPI-mediated anterograde transport	93	5	REACTOME
+R-MMU-204005	COPII-mediated vesicle transport	67	7	REACTOME
+R-MMU-140180	COX reactions	1	8	REACTOME
+R-MMU-199920	CREB phosphorylation	7	2	REACTOME
+R-MMU-442742	CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling	5	2	REACTOME
+R-MMU-442720	CREB1 phosphorylation through the activation of Adenylate Cyclase	4	1	REACTOME
+R-MMU-442729	CREB1 phosphorylation through the activation of CaMKII/CaMKK/CaMKIV cascasde	5	3	REACTOME
+R-MMU-8874211	CREB3 factors activate genes	4	0	REACTOME
+R-MMU-399956	CRMPs in Sema3A signaling	15	2	REACTOME
+R-MMU-2024101	CS/DS degradation	12	15	REACTOME
+R-MMU-389513	CTLA4 inhibitory signaling	21	4	REACTOME
+R-MMU-211999	CYP2E1 reactions	10	20	REACTOME
+R-MMU-111996	Ca-dependent events	26	11	REACTOME
+R-MMU-1296052	Ca2+ activated K+ channels	9	1	REACTOME
+R-MMU-4086398	Ca2+ pathway	45	14	REACTOME
+R-MMU-111997	CaM pathway	24	8	REACTOME
+R-MMU-111932	CaMK IV-mediated phosphorylation of CREB	5	3	REACTOME
+R-MMU-2025928	Calcineurin activates NFAT	7	3	REACTOME
+R-MMU-419812	Calcitonin-like ligand receptors	9	0	REACTOME
+R-MMU-111933	Calmodulin induced events	24	8	REACTOME
+R-MMU-901042	Calnexin/calreticulin cycle	7	7	REACTOME
+R-MMU-111957	Cam-PDE 1 activation	6	4	REACTOME
+R-MMU-72737	Cap-dependent Translation Initiation	116	7	REACTOME
+R-MMU-8955332	Carboxyterminal post-translational modifications of tubulin	27	7	REACTOME
+R-MMU-5576891	Cardiac conduction	123	34	REACTOME
+R-MMU-5694530	Cargo concentration in the ER	32	2	REACTOME
+R-MMU-8856825	Cargo recognition for clathrin-mediated endocytosis	97	10	REACTOME
+R-MMU-5620920	Cargo trafficking to the periciliary membrane	49	4	REACTOME
+R-MMU-200425	Carnitine metabolism	14	14	REACTOME
+R-MMU-71262	Carnitine synthesis	3	16	REACTOME
+R-MMU-140534	Caspase activation via Death Receptors in the presence of ligand	15	1	REACTOME
+R-MMU-418889	Caspase activation via Dependence Receptors in the absence of ligand	4	2	REACTOME
+R-MMU-5357769	Caspase activation via extrinsic apoptotic signalling pathway	19	3	REACTOME
+R-MMU-264870	Caspase-mediated cleavage of cytoskeletal proteins	11	0	REACTOME
+R-MMU-209905	Catecholamine biosynthesis	4	18	REACTOME
+R-MMU-426117	Cation-coupled Chloride cotransporters	7	3	REACTOME
+R-MMU-174184	Cdc20:Phospho-APC/C mediated degradation of Cyclin A	72	0	REACTOME
+R-MMU-1640170	Cell Cycle	565	38	REACTOME
+R-MMU-69620	Cell Cycle Checkpoints	282	4	REACTOME
+R-MMU-69278	Cell Cycle, Mitotic	497	35	REACTOME
+R-MMU-204998	Cell death signalling via NRAGE, NRIF and NADE	66	4	REACTOME
+R-MMU-446728	Cell junction organization	65	2	REACTOME
+R-MMU-202733	Cell surface interactions at the vascular wall	110	12	REACTOME
+R-MMU-1500931	Cell-Cell communication	83	3	REACTOME
+R-MMU-421270	Cell-cell junction organization	40	1	REACTOME
+R-MMU-446353	Cell-extracellular matrix interactions	17	1	REACTOME
+R-MMU-2559583	Cellular Senescence	170	13	REACTOME
+R-MMU-189200	Cellular hexose transport	16	6	REACTOME
+R-MMU-3371556	Cellular response to heat stress	82	10	REACTOME
+R-MMU-1234174	Cellular response to hypoxia	70	7	REACTOME
+R-MMU-8953897	Cellular responses to external stimuli	434	53	REACTOME
+R-MMU-2262752	Cellular responses to stress	432	51	REACTOME
+R-MMU-380287	Centrosome maturation	78	2	REACTOME
+R-MMU-163765	ChREBP activates metabolic gene expression	6	0	REACTOME
+R-MMU-390466	Chaperonin-mediated protein folding	41	3	REACTOME
+R-MMU-380108	Chemokine receptors bind chemokines	60	0	REACTOME
+R-MMU-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	12	2	REACTOME
+R-MMU-191273	Cholesterol biosynthesis	26	46	REACTOME
+R-MMU-6807047	Cholesterol biosynthesis via desmosterol	4	10	REACTOME
+R-MMU-6807062	Cholesterol biosynthesis via lathosterol	4	10	REACTOME
+R-MMU-6798163	Choline catabolism	6	15	REACTOME
+R-MMU-2022870	Chondroitin sulfate biosynthesis	19	5	REACTOME
+R-MMU-1793185	Chondroitin sulfate/dermatan sulfate metabolism	47	23	REACTOME
+R-MMU-3247509	Chromatin modifying enzymes	177	13	REACTOME
+R-MMU-4839726	Chromatin organization	177	13	REACTOME
+R-MMU-73886	Chromosome Maintenance	109	18	REACTOME
+R-MMU-8963888	Chylomicron assembly	11	4	REACTOME
+R-MMU-8964026	Chylomicron clearance	5	4	REACTOME
+R-MMU-8963901	Chylomicron remodeling	11	7	REACTOME
+R-MMU-5617833	Cilium Assembly	198	7	REACTOME
+R-MMU-71403	Citric acid cycle (TCA cycle)	21	29	REACTOME
+R-MMU-373076	Class A/1 (Rhodopsin-like receptors)	304	111	REACTOME
+R-MMU-373080	Class B/2 (Secretin family receptors)	55	2	REACTOME
+R-MMU-420499	Class C/3 (Metabotropic glutamate/pheromone receptors)	31	53	REACTOME
+R-MMU-983169	Class I MHC mediated antigen processing & presentation	342	21	REACTOME
+R-MMU-9603798	Class I peroxisomal membrane protein import	19	0	REACTOME
+R-MMU-1296053	Classical Kir channels	3	1	REACTOME
+R-MMU-173623	Classical antibody-mediated complement activation	6	3	REACTOME
+R-MMU-8856828	Clathrin-mediated endocytosis	135	16	REACTOME
+R-MMU-110331	Cleavage of the damaged purine	64	8	REACTOME
+R-MMU-110329	Cleavage of the damaged pyrimidine 	8	9	REACTOME
+R-MMU-196741	Cobalamin (Cbl, vitamin B12) transport and metabolism	22	26	REACTOME
+R-MMU-196783	Coenzyme A biosynthesis	8	13	REACTOME
+R-MMU-2470946	Cohesin Loading onto Chromatin	9	1	REACTOME
+R-MMU-1650814	Collagen biosynthesis and modifying enzymes	59	9	REACTOME
+R-MMU-8948216	Collagen chain trimerization	39	0	REACTOME
+R-MMU-1442490	Collagen degradation	55	5	REACTOME
+R-MMU-1474290	Collagen formation	81	14	REACTOME
+R-MMU-140875	Common Pathway of Fibrin Clot Formation	21	17	REACTOME
+R-MMU-166658	Complement cascade	49	11	REACTOME
+R-MMU-6799198	Complex I biogenesis	55	3	REACTOME
+R-MMU-2514853	Condensation of Prometaphase Chromosomes	8	5	REACTOME
+R-MMU-2299718	Condensation of Prophase Chromosomes	78	10	REACTOME
+R-MMU-177135	Conjugation of benzoate with glycine	4	8	REACTOME
+R-MMU-159424	Conjugation of carboxylic acids	6	13	REACTOME
+R-MMU-177162	Conjugation of phenylacetate with glutamine	2	6	REACTOME
+R-MMU-177128	Conjugation of salicylate with glycine	5	8	REACTOME
+R-MMU-176407	Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase	19	2	REACTOME
+R-MMU-6814122	Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding	40	3	REACTOME
+R-MMU-388841	Costimulation by the CD28 family	58	10	REACTOME
+R-MMU-71288	Creatine metabolism	9	12	REACTOME
+R-MMU-166786	Creation of C4 and C2 activators	14	9	REACTOME
+R-MMU-8949613	Cristae formation	18	0	REACTOME
+R-MMU-1236973	Cross-presentation of particulate exogenous antigens (phagosomes)	8	6	REACTOME
+R-MMU-1236978	Cross-presentation of soluble exogenous antigens (endosomes)	49	3	REACTOME
+R-MMU-2243919	Crosslinking of collagen fibrils	18	6	REACTOME
+R-MMU-69273	Cyclin A/B1/B2 associated events during G2/M transition	22	7	REACTOME
+R-MMU-69656	Cyclin A:Cdk2-associated events at S phase entry	73	4	REACTOME
+R-MMU-69231	Cyclin D associated events in G1	38	4	REACTOME
+R-MMU-69202	Cyclin E associated events during G1/S transition 	71	4	REACTOME
+R-MMU-1614603	Cysteine formation from homocysteine	2	8	REACTOME
+R-MMU-211897	Cytochrome P450 - arranged by substrate type	71	115	REACTOME
+R-MMU-111461	Cytochrome c-mediated apoptotic response	2	1	REACTOME
+R-MMU-1280215	Cytokine Signaling in Immune system	531	35	REACTOME
+R-MMU-1834949	Cytosolic sensors of pathogen-associated DNA 	29	7	REACTOME
+R-MMU-156584	Cytosolic sulfonation of small molecules	15	47	REACTOME
+R-MMU-379716	Cytosolic tRNA aminoacylation	1	4	REACTOME
+R-MMU-1489509	DAG and IP3 signaling	25	9	REACTOME
+R-MMU-2172127	DAP12 interactions	59	6	REACTOME
+R-MMU-2424491	DAP12 signaling	51	6	REACTOME
+R-MMU-180024	DARPP-32 events	15	6	REACTOME
+R-MMU-418885	DCC mediated attractive signaling	11	5	REACTOME
+R-MMU-168928	DDX58/IFIH1-mediated induction of interferon-alpha/beta	30	5	REACTOME
+R-MMU-3134963	DEx/H-box helicases activate type I IFN and inflammatory cytokines production 	7	1	REACTOME
+R-MMU-73893	DNA Damage Bypass	46	9	REACTOME
+R-MMU-5696394	DNA Damage Recognition in GG-NER	34	3	REACTOME
+R-MMU-73942	DNA Damage Reversal	2	7	REACTOME
+R-MMU-2559586	DNA Damage/Telomere Stress Induced Senescence	89	7	REACTOME
+R-MMU-5693606	DNA Double Strand Break Response	76	10	REACTOME
+R-MMU-5693532	DNA Double-Strand Break Repair	156	16	REACTOME
+R-MMU-73894	DNA Repair	313	51	REACTOME
+R-MMU-69306	DNA Replication	122	16	REACTOME
+R-MMU-69002	DNA Replication Pre-Initiation	82	4	REACTOME
+R-MMU-68952	DNA replication initiation	8	10	REACTOME
+R-MMU-69190	DNA strand elongation	21	8	REACTOME
+R-MMU-376172	DSCAM interactions	8	4	REACTOME
+R-MMU-3769402	Deactivation of the beta-catenin transactivating complex	30	2	REACTOME
+R-MMU-429947	Deadenylation of mRNA	26	4	REACTOME
+R-MMU-429914	Deadenylation-dependent mRNA decay	55	11	REACTOME
+R-MMU-73887	Death Receptor Signalling	122	5	REACTOME
+R-MMU-5607761	Dectin-1 mediated noncanonical NF-kB signaling	57	2	REACTOME
+R-MMU-5621480	Dectin-2 family	8	4	REACTOME
+R-MMU-1461973	Defensins	49	1	REACTOME
+R-MMU-4641257	Degradation of AXIN	55	2	REACTOME
+R-MMU-4641258	Degradation of DVL	57	0	REACTOME
+R-MMU-916853	Degradation of GABA	2	10	REACTOME
+R-MMU-5610780	Degradation of GLI1 by the proteasome	56	0	REACTOME
+R-MMU-195253	Degradation of beta-catenin by the destruction complex	78	2	REACTOME
+R-MMU-1614558	Degradation of cysteine and homocysteine	12	30	REACTOME
+R-MMU-1474228	Degradation of the extracellular matrix	130	10	REACTOME
+R-MMU-4419969	Depolymerisation of the Nuclear Lamina	14	7	REACTOME
+R-MMU-606279	Deposition of new CENPA-containing nucleosomes at the centromere	77	1	REACTOME
+R-MMU-73927	Depurination	64	8	REACTOME
+R-MMU-73928	Depyrimidination	8	9	REACTOME
+R-MMU-2022923	Dermatan sulfate biosynthesis	10	2	REACTOME
+R-MMU-3299685	Detoxification of Reactive Oxygen Species	31	20	REACTOME
+R-MMU-5688426	Deubiquitination	245	6	REACTOME
+R-MMU-1266738	Developmental Biology	497	25	REACTOME
+R-MMU-8935690	Digestion	21	43	REACTOME
+R-MMU-8963743	Digestion and absorption	25	45	REACTOME
+R-MMU-189085	Digestion of dietary carbohydrate	10	18	REACTOME
+R-MMU-192456	Digestion of dietary lipid	6	17	REACTOME
+R-MMU-69416	Dimerization of procaspase-8	10	0	REACTOME
+R-MMU-4641262	Disassembly of the destruction complex and recruitment of AXIN to the membrane	27	2	REACTOME
+R-MMU-114516	Disinhibition of SNARE formation	5	5	REACTOME
+R-MMU-110357	Displacement of DNA glycosylase by APEX1	9	0	REACTOME
+R-MMU-75205	Dissolution of Fibrin Clot	12	2	REACTOME
+R-MMU-212676	Dopamine Neurotransmitter Release Cycle	23	1	REACTOME
+R-MMU-379401	Dopamine clearance from the synaptic cleft	4	13	REACTOME
+R-MMU-390651	Dopamine receptors	5	1	REACTOME
+R-MMU-8863795	Downregulation of ERBB2 signaling	28	4	REACTOME
+R-MMU-1358803	Downregulation of ERBB2:ERBB3 signaling	12	2	REACTOME
+R-MMU-1253288	Downregulation of ERBB4 signaling	9	0	REACTOME
+R-MMU-2173795	Downregulation of SMAD2/3:SMAD4 transcriptional activity	18	4	REACTOME
+R-MMU-2173788	Downregulation of TGF-beta receptor signaling	15	2	REACTOME
+R-MMU-202424	Downstream TCR signaling	83	9	REACTOME
+R-MMU-186763	Downstream signal transduction	27	6	REACTOME
+R-MMU-1168372	Downstream signaling events of B Cell Receptor (BCR)	74	9	REACTOME
+R-MMU-5654687	Downstream signaling of activated FGFR1	29	7	REACTOME
+R-MMU-5654696	Downstream signaling of activated FGFR2	28	7	REACTOME
+R-MMU-5654708	Downstream signaling of activated FGFR3	23	7	REACTOME
+R-MMU-5654716	Downstream signaling of activated FGFR4	26	7	REACTOME
+R-MMU-5696400	Dual Incision in GG-NER	38	1	REACTOME
+R-MMU-6782135	Dual incision in TC-NER	62	4	REACTOME
+R-MMU-113510	E2F mediated regulation of DNA replication	9	2	REACTOME
+R-MMU-8866654	E3 ubiquitin ligases ubiquitinate target proteins	51	1	REACTOME
+R-MMU-3000178	ECM proteoglycans	43	4	REACTOME
+R-MMU-2179392	EGFR Transactivation by Gastrin	9	3	REACTOME
+R-MMU-182971	EGFR downregulation	31	6	REACTOME
+R-MMU-212718	EGFR interacts with phospholipase C-gamma	9	2	REACTOME
+R-MMU-9648025	EML4 and NUDC in mitotic spindle formation	107	4	REACTOME
+R-MMU-2682334	EPH-Ephrin signaling	66	9	REACTOME
+R-MMU-3928665	EPH-ephrin mediated repulsion of cells	34	4	REACTOME
+R-MMU-3928663	EPHA-mediated growth cone collapse	18	2	REACTOME
+R-MMU-3928662	EPHB-mediated forward signaling	37	9	REACTOME
+R-MMU-901032	ER Quality Control Compartment (ERQC)	4	6	REACTOME
+R-MMU-199977	ER to Golgi Anterograde Transport	144	7	REACTOME
+R-MMU-1236974	ER-Phagosome pathway	35	2	REACTOME
+R-MMU-8847993	ERBB2 Activates PTK6 Signaling	12	2	REACTOME
+R-MMU-6785631	ERBB2 Regulates Cell Motility	14	1	REACTOME
+R-MMU-198753	ERK/MAPK targets	19	4	REACTOME
+R-MMU-202670	ERKs are inactivated	13	2	REACTOME
+R-MMU-8939211	ESR-mediated signaling	189	32	REACTOME
+R-MMU-114508	Effects of PIP2 hydrolysis	24	13	REACTOME
+R-MMU-391903	Eicosanoid ligand-binding receptors	13	9	REACTOME
+R-MMU-211979	Eicosanoids	16	13	REACTOME
+R-MMU-1566948	Elastic fibre formation	42	1	REACTOME
+R-MMU-112303	Electric Transmission Across Gap Junctions	5	1	REACTOME
+R-MMU-2395516	Electron transport from NADPH to Ferredoxin	3	7	REACTOME
+R-MMU-139853	Elevation of cytosolic Ca2+ levels	11	6	REACTOME
+R-MMU-211976	Endogenous sterols	27	43	REACTOME
+R-MMU-917729	Endosomal Sorting Complex Required For Transport (ESCRT)	30	4	REACTOME
+R-MMU-1236977	Endosomal/Vacuolar pathway	26	3	REACTOME
+R-MMU-380972	Energy dependent regulation of mTOR by LKB1-AMPK	27	7	REACTOME
+R-MMU-379398	Enzymatic degradation of Dopamine by monoamine oxidase	2	8	REACTOME
+R-MMU-379397	Enzymatic degradation of dopamine by COMT	3	11	REACTOME
+R-MMU-3928664	Ephrin signaling	18	4	REACTOME
+R-MMU-212165	Epigenetic regulation of gene expression	112	12	REACTOME
+R-MMU-1237044	Erythrocytes take up carbon dioxide and release oxygen	12	11	REACTOME
+R-MMU-1247673	Erythrocytes take up oxygen and release carbon dioxide	8	8	REACTOME
+R-MMU-9027276	Erythropoietin activates Phosphoinositide-3-kinase (PI3K)	12	4	REACTOME
+R-MMU-9027284	Erythropoietin activates RAS	10	0	REACTOME
+R-MMU-2468052	Establishment of Sister Chromatid Cohesion	10	3	REACTOME
+R-MMU-193144	Estrogen biosynthesis	8	10	REACTOME
+R-MMU-9018519	Estrogen-dependent gene expression	119	9	REACTOME
+R-MMU-9634638	Estrogen-dependent nuclear events downstream of ESR-membrane signaling	9	2	REACTOME
+R-MMU-9634635	Estrogen-stimulated signaling through PRKCZ	5	5	REACTOME
+R-MMU-71384	Ethanol oxidation	10	17	REACTOME
+R-MMU-156842	Eukaryotic Translation Elongation	5	2	REACTOME
+R-MMU-72613	Eukaryotic Translation Initiation	116	7	REACTOME
+R-MMU-72764	Eukaryotic Translation Termination	6	6	REACTOME
+R-MMU-8941413	Events associated with phagocytolytic activity of PMN cells	2	11	REACTOME
+R-MMU-9036866	Expression and Processing of Neurotrophins	4	1	REACTOME
+R-MMU-180786	Extension of Telomeres	23	17	REACTOME
+R-MMU-9009391	Extra-nuclear estrogen signaling	69	25	REACTOME
+R-MMU-1474244	Extracellular matrix organization	269	30	REACTOME
+R-MMU-140834	Extrinsic Pathway of Fibrin Clot Formation	5	1	REACTOME
+R-MMU-8854050	FBXL7 down-regulates AURKA during mitotic entry and in early mitosis	54	0	REACTOME
+R-MMU-2871809	FCERI mediated Ca+2 mobilization	27	12	REACTOME
+R-MMU-2871796	FCERI mediated MAPK activation	29	6	REACTOME
+R-MMU-2871837	FCERI mediated NF-kB activation	73	4	REACTOME
+R-MMU-2029481	FCGR activation	13	3	REACTOME
+R-MMU-190242	FGFR1 ligand binding and activation	14	3	REACTOME
+R-MMU-190370	FGFR1b ligand binding and activation	5	3	REACTOME
+R-MMU-190374	FGFR1c and Klotho ligand binding and activation	3	3	REACTOME
+R-MMU-190373	FGFR1c ligand binding and activation	11	3	REACTOME
+R-MMU-6803529	FGFR2 alternative splicing	24	0	REACTOME
+R-MMU-190241	FGFR2 ligand binding and activation	18	3	REACTOME
+R-MMU-190377	FGFR2b ligand binding and activation	8	3	REACTOME
+R-MMU-190375	FGFR2c ligand binding and activation	13	3	REACTOME
+R-MMU-190239	FGFR3 ligand binding and activation	12	5	REACTOME
+R-MMU-190371	FGFR3b ligand binding and activation	6	3	REACTOME
+R-MMU-190372	FGFR3c ligand binding and activation	12	5	REACTOME
+R-MMU-190322	FGFR4 ligand binding and activation	14	3	REACTOME
+R-MMU-5658623	FGFRL1 modulation of FGFR1 signaling	12	1	REACTOME
+R-MMU-9607240	FLT3 Signaling	247	25	REACTOME
+R-MMU-217271	FMO oxidises nucleophiles	3	13	REACTOME
+R-MMU-9614085	FOXO-mediated transcription	21	8	REACTOME
+R-MMU-9617828	FOXO-mediated transcription of cell cycle genes	8	0	REACTOME
+R-MMU-9615017	FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	2	0	REACTOME
+R-MMU-5654693	FRS-mediated FGFR1 signaling	21	5	REACTOME
+R-MMU-5654700	FRS-mediated FGFR2 signaling	23	5	REACTOME
+R-MMU-5654706	FRS-mediated FGFR3 signaling	18	5	REACTOME
+R-MMU-5654712	FRS-mediated FGFR4 signaling	21	5	REACTOME
+R-MMU-983231	Factors involved in megakaryocyte development and platelet production	121	12	REACTOME
+R-MMU-6783310	Fanconi Anemia Pathway	34	5	REACTOME
+R-MMU-75157	FasL/ CD95L signaling	4	0	REACTOME
+R-MMU-434316	Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion	8	11	REACTOME
+R-MMU-8978868	Fatty acid metabolism	169	219	REACTOME
+R-MMU-211935	Fatty acids	20	14	REACTOME
+R-MMU-75105	Fatty acyl-CoA biosynthesis	33	39	REACTOME
+R-MMU-2454202	Fc epsilon receptor (FCERI) signaling	115	15	REACTOME
+R-MMU-2029480	Fcgamma receptor (FCGR) dependent phagocytosis	78	16	REACTOME
+R-MMU-1187000	Fertilization	24	5	REACTOME
+R-MMU-1566977	Fibronectin matrix formation	10	1	REACTOME
+R-MMU-2855086	Ficolins bind to repetitive carbohydrate structures on the target cell surface	4	6	REACTOME
+R-MMU-163210	Formation of ATP by chemiosmotic coupling	18	5	REACTOME
+R-MMU-140877	Formation of Fibrin Clot (Clotting Cascade)	36	18	REACTOME
+R-MMU-5696395	Formation of Incision Complex in GG-NER	41	5	REACTOME
+R-MMU-112382	Formation of RNA Pol II elongation complex 	54	4	REACTOME
+R-MMU-2559584	Formation of Senescence-Associated Heterochromatin Foci (SAHF)	17	1	REACTOME
+R-MMU-6781823	Formation of TC-NER Pre-Incision Complex	51	4	REACTOME
+R-MMU-72689	Formation of a pool of free 40S subunits	98	0	REACTOME
+R-MMU-196025	Formation of annular gap junctions	9	0	REACTOME
+R-MMU-111458	Formation of apoptosome	2	1	REACTOME
+R-MMU-77042	Formation of editosomes by ADAR proteins	2	1	REACTOME
+R-MMU-113418	Formation of the Early Elongation Complex	32	5	REACTOME
+R-MMU-75094	Formation of the Editosome	4	1	REACTOME
+R-MMU-173599	Formation of the active cofactor, UDP-glucuronate	3	10	REACTOME
+R-MMU-201722	Formation of the beta-catenin:TCF transactivating complex	89	2	REACTOME
+R-MMU-6809371	Formation of the cornified envelope	116	10	REACTOME
+R-MMU-72695	Formation of the ternary complex, and subsequently, the 43S complex	51	2	REACTOME
+R-MMU-5661270	Formation of xylulose-5-phosphate	5	15	REACTOME
+R-MMU-444473	Formyl peptide receptors bind formyl peptides and many other ligands	13	2	REACTOME
+R-MMU-444209	Free fatty acid receptors	4	12	REACTOME
+R-MMU-400451	Free fatty acids regulate insulin secretion	11	16	REACTOME
+R-MMU-170968	Frs2-mediated activation	12	4	REACTOME
+R-MMU-5652227	Fructose biosynthesis	2	9	REACTOME
+R-MMU-70350	Fructose catabolism	5	15	REACTOME
+R-MMU-5652084	Fructose metabolism	7	20	REACTOME
+R-MMU-416482	G alpha (12/13) signalling events	70	5	REACTOME
+R-MMU-418594	G alpha (i) signalling events	359	147	REACTOME
+R-MMU-416476	G alpha (q) signalling events	201	64	REACTOME
+R-MMU-418555	G alpha (s) signalling events	481	25	REACTOME
+R-MMU-418597	G alpha (z) signalling events	29	6	REACTOME
+R-MMU-8964315	G beta:gamma signalling through BTK	17	1	REACTOME
+R-MMU-8964616	G beta:gamma signalling through CDC42	18	1	REACTOME
+R-MMU-392451	G beta:gamma signalling through PI3Kgamma	24	4	REACTOME
+R-MMU-418217	G beta:gamma signalling through PLC beta	19	3	REACTOME
+R-MMU-1296059	G protein gated Potassium channels	23	2	REACTOME
+R-MMU-202040	G-protein activation	26	2	REACTOME
+R-MMU-397795	G-protein beta:gamma signalling	30	7	REACTOME
+R-MMU-112040	G-protein mediated events	39	17	REACTOME
+R-MMU-1538133	G0 and Early G1	16	2	REACTOME
+R-MMU-69236	G1 Phase	38	4	REACTOME
+R-MMU-69615	G1/S DNA Damage Checkpoints	67	2	REACTOME
+R-MMU-69206	G1/S Transition	104	6	REACTOME
+R-MMU-68911	G2 Phase	5	2	REACTOME
+R-MMU-69481	G2/M Checkpoints	163	4	REACTOME
+R-MMU-69473	G2/M DNA damage checkpoint	91	4	REACTOME
+R-MMU-69478	G2/M DNA replication checkpoint	5	2	REACTOME
+R-MMU-69275	G2/M Transition	177	9	REACTOME
+R-MMU-180292	GAB1 signalosome	17	6	REACTOME
+R-MMU-977444	GABA B receptor activation	36	6	REACTOME
+R-MMU-977443	GABA receptor activation	52	7	REACTOME
+R-MMU-888568	GABA synthesis	2	4	REACTOME
+R-MMU-888590	GABA synthesis, release, reuptake and degradation	18	16	REACTOME
+R-MMU-6787639	GDP-fucose biosynthesis	6	15	REACTOME
+R-MMU-5610785	GLI3 is processed to GLI3R by the proteasome	56	2	REACTOME
+R-MMU-430116	GP1b-IX-V activation signalling	11	0	REACTOME
+R-MMU-388396	GPCR downstream signalling	1012	192	REACTOME
+R-MMU-500792	GPCR ligand binding	389	165	REACTOME
+R-MMU-114604	GPVI-mediated activation cascade	34	8	REACTOME
+R-MMU-179812	GRB2 events in EGFR signaling	12	2	REACTOME
+R-MMU-1963640	GRB2 events in ERBB2 signaling	12	2	REACTOME
+R-MMU-354194	GRB2:SOS provides linkage to MAPK signaling for Integrins 	15	5	REACTOME
+R-MMU-1306955	GRB7 events in ERBB2 signaling	4	0	REACTOME
+R-MMU-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	109	5	REACTOME
+R-MMU-70370	Galactose catabolism	5	10	REACTOME
+R-MMU-163841	Gamma carboxylation, hypusine formation and arylsulfatase activation	33	30	REACTOME
+R-MMU-159740	Gamma-carboxylation of protein precursors	9	5	REACTOME
+R-MMU-159854	Gamma-carboxylation, transport, and amino-terminal cleavage of proteins	11	5	REACTOME
+R-MMU-190861	Gap junction assembly	32	2	REACTOME
+R-MMU-190873	Gap junction degradation	9	0	REACTOME
+R-MMU-190828	Gap junction trafficking	40	2	REACTOME
+R-MMU-157858	Gap junction trafficking and regulation	42	4	REACTOME
+R-MMU-5696397	Gap-filling DNA repair synthesis and ligation in GG-NER	20	3	REACTOME
+R-MMU-6782210	Gap-filling DNA repair synthesis and ligation in TC-NER	60	3	REACTOME
+R-MMU-881907	Gastrin-CREB signalling pathway via PKC and MAPK	18	5	REACTOME
+R-MMU-211000	Gene Silencing by RNA	117	4	REACTOME
+R-MMU-74160	Gene expression (Transcription)	1013	55	REACTOME
+R-MMU-202433	Generation of second messenger molecules	20	7	REACTOME
+R-MMU-212436	Generic Transcription Pathway	795	43	REACTOME
+R-MMU-5696399	Global Genome Nucleotide Excision Repair (GG-NER)	75	9	REACTOME
+R-MMU-163359	Glucagon signaling in metabolic regulation	6	1	REACTOME
+R-MMU-381676	Glucagon-like Peptide-1 (GLP1) regulates insulin secretion	30	4	REACTOME
+R-MMU-420092	Glucagon-type ligand receptors	32	1	REACTOME
+R-MMU-194002	Glucocorticoid biosynthesis	16	17	REACTOME
+R-MMU-70263	Gluconeogenesis	34	32	REACTOME
+R-MMU-70326	Glucose metabolism	80	41	REACTOME
+R-MMU-156588	Glucuronidation	20	31	REACTOME
+R-MMU-210500	Glutamate Neurotransmitter Release Cycle	24	8	REACTOME
+R-MMU-8964539	Glutamate and glutamine metabolism	13	25	REACTOME
+R-MMU-399721	Glutamate binding, activation of AMPA receptors and synaptic plasticity	26	8	REACTOME
+R-MMU-156590	Glutathione conjugation	31	30	REACTOME
+R-MMU-174403	Glutathione synthesis and recycling	12	13	REACTOME
+R-MMU-1483206	Glycerophospholipid biosynthesis	115	88	REACTOME
+R-MMU-6814848	Glycerophospholipid catabolism	3	10	REACTOME
+R-MMU-6783984	Glycine degradation	4	11	REACTOME
+R-MMU-70221	Glycogen breakdown (glycogenolysis)	15	10	REACTOME
+R-MMU-8982491	Glycogen metabolism	20	16	REACTOME
+R-MMU-3322077	Glycogen synthesis	8	10	REACTOME
+R-MMU-70171	Glycolysis	61	31	REACTOME
+R-MMU-209822	Glycoprotein hormones	7	0	REACTOME
+R-MMU-1630316	Glycosaminoglycan metabolism	118	59	REACTOME
+R-MMU-1660662	Glycosphingolipid metabolism	38	40	REACTOME
+R-MMU-389661	Glyoxylate metabolism and glycine degradation	29	41	REACTOME
+R-MMU-432722	Golgi Associated Vesicle Biogenesis	52	5	REACTOME
+R-MMU-162658	Golgi Cisternae Pericentriolar Stack Reorganization	10	3	REACTOME
+R-MMU-8856688	Golgi-to-ER retrograde transport	125	11	REACTOME
+R-MMU-982772	Growth hormone receptor signaling	11	5	REACTOME
+R-MMU-3214847	HATs acetylate histones	70	2	REACTOME
+R-MMU-1296061	HCN channels	3	2	REACTOME
+R-MMU-8963896	HDL assembly	6	10	REACTOME
+R-MMU-8964011	HDL clearance	3	4	REACTOME
+R-MMU-8964058	HDL remodeling	10	12	REACTOME
+R-MMU-3214842	HDMs demethylate histones	46	5	REACTOME
+R-MMU-5685942	HDR through Homologous Recombination (HRR)	61	8	REACTOME
+R-MMU-5693567	HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)	126	12	REACTOME
+R-MMU-5685939	HDR through MMEJ (alt-NHEJ)	6	6	REACTOME
+R-MMU-5685938	HDR through Single Strand Annealing (SSA)	33	3	REACTOME
+R-MMU-2022928	HS-GAG biosynthesis	29	9	REACTOME
+R-MMU-2024096	HS-GAG degradation	20	22	REACTOME
+R-MMU-3371511	HSF1 activation	8	1	REACTOME
+R-MMU-3371571	HSF1-dependent transactivation	22	4	REACTOME
+R-MMU-3371497	HSP90 chaperone cycle for steroid hormone receptors (SHR)	51	14	REACTOME
+R-MMU-5610787	Hedgehog 'off' state	103	7	REACTOME
+R-MMU-5632684	Hedgehog 'on' state	81	2	REACTOME
+R-MMU-5358346	Hedgehog ligand biogenesis	62	7	REACTOME
+R-MMU-189451	Heme biosynthesis	13	32	REACTOME
+R-MMU-189483	Heme degradation	13	17	REACTOME
+R-MMU-109582	Hemostasis	507	74	REACTOME
+R-MMU-1638091	Heparan sulfate/heparin (HS-GAG) metabolism	51	33	REACTOME
+R-MMU-629597	Highly calcium permeable nicotinic acetylcholine receptors	9	2	REACTOME
+R-MMU-629594	Highly calcium permeable postsynaptic nicotinic acetylcholine receptors	11	2	REACTOME
+R-MMU-629587	Highly sodium permeable acetylcholine nicotinic receptors	6	2	REACTOME
+R-MMU-390650	Histamine receptors	4	1	REACTOME
+R-MMU-70921	Histidine catabolism	6	21	REACTOME
+R-MMU-5693579	Homologous DNA Pairing and Strand Exchange	38	4	REACTOME
+R-MMU-5693538	Homology Directed Repair	129	12	REACTOME
+R-MMU-375281	Hormone ligand-binding receptors	9	0	REACTOME
+R-MMU-450520	HuR (ELAVL1) binds and stabilizes mRNA	9	3	REACTOME
+R-MMU-2142850	Hyaluronan biosynthesis and export	5	2	REACTOME
+R-MMU-2142845	Hyaluronan metabolism	17	7	REACTOME
+R-MMU-2160916	Hyaluronan uptake and degradation	12	7	REACTOME
+R-MMU-1483115	Hydrolysis of LPC	8	7	REACTOME
+R-MMU-1483152	Hydrolysis of LPE	1	5	REACTOME
+R-MMU-3296197	Hydroxycarboxylic acid-binding receptors	1	4	REACTOME
+R-MMU-204626	Hypusine synthesis from eIF5A-lysine	4	8	REACTOME
+R-MMU-2428924	IGF1R signaling cascade	47	9	REACTOME
+R-MMU-937041	IKK complex recruitment mediated by RIP1	19	1	REACTOME
+R-MMU-6788467	IL-6-type cytokine receptor ligand interactions	16	0	REACTOME
+R-MMU-937039	IRAK1 recruits IKK complex	7	2	REACTOME
+R-MMU-975144	IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation	7	2	REACTOME
+R-MMU-937042	IRAK2 mediated activation of TAK1 complex	10	2	REACTOME
+R-MMU-975163	IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation	15	3	REACTOME
+R-MMU-381070	IRE1alpha activates chaperones	1	2	REACTOME
+R-MMU-1606341	IRF3 mediated activation of type 1 IFN	1	0	REACTOME
+R-MMU-3270619	IRF3-mediated induction of type I IFN	5	2	REACTOME
+R-MMU-74713	IRS activation	6	2	REACTOME
+R-MMU-112399	IRS-mediated signalling	42	9	REACTOME
+R-MMU-2428928	IRS-related events triggered by IGF1R	46	9	REACTOME
+R-MMU-1169408	ISG15 antiviral mechanism	28	4	REACTOME
+R-MMU-168256	Immune System	1692	122	REACTOME
+R-MMU-198933	Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	103	11	REACTOME
+R-MMU-141430	Inactivation of APC/C via direct inhibition of the APC/C complex	20	0	REACTOME
+R-MMU-2514859	Inactivation, recovery and regulation of the phototransduction cascade	28	18	REACTOME
+R-MMU-400508	Incretin synthesis, secretion, and inactivation	11	21	REACTOME
+R-MMU-622312	Inflammasomes	14	8	REACTOME
+R-MMU-997272	Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits	23	2	REACTOME
+R-MMU-165181	Inhibition of TSC complex formation by PKB	2	3	REACTOME
+R-MMU-113501	Inhibition of replication initiation of damaged DNA by RB1/E2F1	9	2	REACTOME
+R-MMU-141405	Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components	20	0	REACTOME
+R-MMU-166663	Initial triggering of complement	20	10	REACTOME
+R-MMU-2995383	Initiation of Nuclear Envelope Reformation	12	3	REACTOME
+R-MMU-168249	Innate Immune System	925	93	REACTOME
+R-MMU-1483249	Inositol phosphate metabolism	46	42	REACTOME
+R-MMU-429593	Inositol transporters	3	4	REACTOME
+R-MMU-9609523	Insertion of tail-anchored proteins into the endoplasmic reticulum membrane	16	0	REACTOME
+R-MMU-163754	Insulin effects increased synthesis of Xylulose-5-Phosphate	2	8	REACTOME
+R-MMU-264876	Insulin processing	14	2	REACTOME
+R-MMU-77387	Insulin receptor recycling	27	1	REACTOME
+R-MMU-74751	Insulin receptor signalling cascade	49	9	REACTOME
+R-MMU-163685	Integration of energy metabolism	76	31	REACTOME
+R-MMU-216083	Integrin cell surface interactions	70	1	REACTOME
+R-MMU-354192	Integrin signaling	27	11	REACTOME
+R-MMU-2534343	Interaction With Cumulus Cells And The Zona Pellucida	10	1	REACTOME
+R-MMU-445095	Interaction between L1 and Ankyrins	7	1	REACTOME
+R-MMU-8854521	Interaction between PHLDA1 and AURKA	2	2	REACTOME
+R-MMU-880009	Interconversion of 2-oxoglutarate and 2-hydroxyglutarate	3	10	REACTOME
+R-MMU-499943	Interconversion of nucleotide di- and triphosphates	27	49	REACTOME
+R-MMU-351200	Interconversion of polyamines	3	13	REACTOME
+R-MMU-913531	Interferon Signaling	64	9	REACTOME
+R-MMU-909733	Interferon alpha/beta signaling	23	4	REACTOME
+R-MMU-877300	Interferon gamma signaling	15	4	REACTOME
+R-MMU-912526	Interleukin receptor SHC signaling	20	2	REACTOME
+R-MMU-446652	Interleukin-1 family signaling	107	7	REACTOME
+R-MMU-448706	Interleukin-1 processing	7	0	REACTOME
+R-MMU-9020702	Interleukin-1 signaling	95	7	REACTOME
+R-MMU-6783783	Interleukin-10 signaling	3	2	REACTOME
+R-MMU-447115	Interleukin-12 family signaling	16	2	REACTOME
+R-MMU-9020591	Interleukin-12 signaling	7	2	REACTOME
+R-MMU-8983432	Interleukin-15 signaling	11	2	REACTOME
+R-MMU-448424	Interleukin-17 signaling	55	6	REACTOME
+R-MMU-451927	Interleukin-2 family signaling	34	2	REACTOME
+R-MMU-9020558	Interleukin-2 signaling	9	2	REACTOME
+R-MMU-8854691	Interleukin-20 family signaling	14	2	REACTOME
+R-MMU-9020958	Interleukin-21 signaling	7	2	REACTOME
+R-MMU-9020933	Interleukin-23 signaling	9	2	REACTOME
+R-MMU-9020956	Interleukin-27 signaling	9	2	REACTOME
+R-MMU-512988	Interleukin-3, Interleukin-5 and GM-CSF signaling	40	2	REACTOME
+R-MMU-9014843	Interleukin-33 signaling	3	0	REACTOME
+R-MMU-8984722	Interleukin-35 Signalling	8	2	REACTOME
+R-MMU-9014826	Interleukin-36 pathway	6	0	REACTOME
+R-MMU-9008059	Interleukin-37 signaling	2	2	REACTOME
+R-MMU-9007892	Interleukin-38 signaling	3	2	REACTOME
+R-MMU-6785807	Interleukin-4 and Interleukin-13 signaling	11	2	REACTOME
+R-MMU-6783589	Interleukin-6 family signaling	22	2	REACTOME
+R-MMU-1059683	Interleukin-6 signaling	9	2	REACTOME
+R-MMU-1266695	Interleukin-7 signaling	26	2	REACTOME
+R-MMU-8985947	Interleukin-9 signaling	6	2	REACTOME
+R-MMU-8963676	Intestinal absorption	4	5	REACTOME
+R-MMU-8981373	Intestinal hexose absorption	4	4	REACTOME
+R-MMU-8963678	Intestinal lipid absorption	0	1	REACTOME
+R-MMU-6811442	Intra-Golgi and retrograde Golgi-to-ER traffic	179	11	REACTOME
+R-MMU-6811438	Intra-Golgi traffic	34	4	REACTOME
+R-MMU-434313	Intracellular metabolism of fatty acids regulates insulin secretion	3	6	REACTOME
+R-MMU-8981607	Intracellular oxygen transport	3	2	REACTOME
+R-MMU-9006925	Intracellular signaling by second messengers	254	21	REACTOME
+R-MMU-5620924	Intraflagellar transport	55	2	REACTOME
+R-MMU-109606	Intrinsic Pathway for Apoptosis	38	4	REACTOME
+R-MMU-140837	Intrinsic Pathway of Fibrin Clot Formation	20	10	REACTOME
+R-MMU-8941237	Invadopodia formation	4	1	REACTOME
+R-MMU-1296065	Inwardly rectifying K+ channels	29	3	REACTOME
+R-MMU-983712	Ion channel transport	172	22	REACTOME
+R-MMU-5578775	Ion homeostasis	52	10	REACTOME
+R-MMU-6803544	Ion influx/efflux at host-pathogen interface	4	9	REACTOME
+R-MMU-936837	Ion transport by P-type ATPases	53	15	REACTOME
+R-MMU-451306	Ionotropic activity of kainate receptors	10	4	REACTOME
+R-MMU-917937	Iron uptake and transport	56	22	REACTOME
+R-MMU-450321	JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1	20	4	REACTOME
+R-MMU-5689877	Josephin domain DUBs	11	1	REACTOME
+R-MMU-450604	KSRP (KHSRP) binds and destabilizes mRNA	15	3	REACTOME
+R-MMU-2022854	Keratan sulfate biosynthesis	27	9	REACTOME
+R-MMU-2022857	Keratan sulfate degradation	13	9	REACTOME
+R-MMU-1638074	Keratan sulfate/keratin metabolism	33	18	REACTOME
+R-MMU-6805567	Keratinization	189	10	REACTOME
+R-MMU-74182	Ketone body metabolism	11	18	REACTOME
+R-MMU-983189	Kinesins	52	4	REACTOME
+R-MMU-156827	L13a-mediated translational silencing of Ceruloplasmin expression	108	2	REACTOME
+R-MMU-373760	L1CAM interactions	62	8	REACTOME
+R-MMU-8964038	LDL clearance	16	9	REACTOME
+R-MMU-8964041	LDL remodeling	2	4	REACTOME
+R-MMU-5682910	LGI-ADAM interactions	13	0	REACTOME
+R-MMU-3134973	LRR FLII-interacting protein 1 (LRRFIP1) activates type I IFN production	3	1	REACTOME
+R-MMU-5653890	Lactose synthesis	3	5	REACTOME
+R-MMU-69186	Lagging Strand Synthesis	17	8	REACTOME
+R-MMU-3000157	Laminin interactions	26	0	REACTOME
+R-MMU-69109	Leading Strand Synthesis	13	4	REACTOME
+R-MMU-166662	Lectin pathway of complement activation	8	7	REACTOME
+R-MMU-391906	Leukotriene receptors	5	4	REACTOME
+R-MMU-9037629	Lewis blood group biosynthesis	15	19	REACTOME
+R-MMU-5632681	Ligand-receptor interactions	7	0	REACTOME
+R-MMU-2046105	Linoleic acid (LA) metabolism	8	23	REACTOME
+R-MMU-8964572	Lipid particle organization	6	3	REACTOME
+R-MMU-446343	Localization of the PINCH-ILK-PARVIN complex to focal adhesions	4	0	REACTOME
+R-MMU-9620244	Long-term potentiation	4	0	REACTOME
+R-MMU-380259	Loss of Nlp from mitotic centrosomes	69	2	REACTOME
+R-MMU-380284	Loss of proteins required for interphase microtubule organization from the centrosome	69	2	REACTOME
+R-MMU-71064	Lysine catabolism	12	32	REACTOME
+R-MMU-8853383	Lysosomal oligosaccharide catabolism	4	8	REACTOME
+R-MMU-432720	Lysosome Vesicle Biogenesis	33	6	REACTOME
+R-MMU-419408	Lysosphingolipid and LPA receptors	8	2	REACTOME
+R-MMU-68886	M Phase	382	21	REACTOME
+R-MMU-450294	MAP kinase activation	55	6	REACTOME
+R-MMU-5674135	MAP2K and MAPK activation	39	13	REACTOME
+R-MMU-5684264	MAP3K8 (TPL2)-dependent MAPK1/3 activation	12	2	REACTOME
+R-MMU-5683057	MAPK family signaling cascades	261	21	REACTOME
+R-MMU-450282	MAPK targets/ Nuclear events mediated by MAP kinases	28	4	REACTOME
+R-MMU-112411	MAPK1 (ERK2) activation	8	2	REACTOME
+R-MMU-5684996	MAPK1/MAPK3 signaling	239	21	REACTOME
+R-MMU-110056	MAPK3 (ERK1) activation	9	2	REACTOME
+R-MMU-5687128	MAPK6/MAPK4 signaling	72	5	REACTOME
+R-MMU-2465910	MASTL Facilitates Mitotic Progression	2	2	REACTOME
+R-MMU-6806942	MET Receptor Activation	5	3	REACTOME
+R-MMU-8851907	MET activates PI3K/AKT signaling	5	4	REACTOME
+R-MMU-8874081	MET activates PTK2 signaling	26	2	REACTOME
+R-MMU-8865999	MET activates PTPN11	4	0	REACTOME
+R-MMU-8875555	MET activates RAP1 and RAC1	9	2	REACTOME
+R-MMU-8851805	MET activates RAS signaling	9	4	REACTOME
+R-MMU-8875791	MET activates STAT3	2	2	REACTOME
+R-MMU-8875513	MET interacts with TNS proteins	4	0	REACTOME
+R-MMU-8875878	MET promotes cell motility	36	4	REACTOME
+R-MMU-8875656	MET receptor recycling	9	1	REACTOME
+R-MMU-2132295	MHC class II antigen presentation	121	9	REACTOME
+R-MMU-1632852	Macroautophagy	116	11	REACTOME
+R-MMU-6791226	Major pathway of rRNA processing in the nucleolus and cytosol	173	0	REACTOME
+R-MMU-5662702	Melanin biosynthesis	5	13	REACTOME
+R-MMU-199991	Membrane Trafficking	536	24	REACTOME
+R-MMU-1430728	Metabolism	1724	1302	REACTOME
+R-MMU-2022377	Metabolism of Angiotensinogen to Angiotensins	16	30	REACTOME
+R-MMU-8953854	Metabolism of RNA	549	25	REACTOME
+R-MMU-209776	Metabolism of amine-derived hormones	15	38	REACTOME
+R-MMU-71291	Metabolism of amino acids and derivatives	248	244	REACTOME
+R-MMU-71387	Metabolism of carbohydrates	263	153	REACTOME
+R-MMU-8978934	Metabolism of cofactors	14	36	REACTOME
+R-MMU-6806667	Metabolism of fat-soluble vitamins	49	40	REACTOME
+R-MMU-196757	Metabolism of folate and pterines	17	26	REACTOME
+R-MMU-5263617	Metabolism of ingested MeSeO2H into MeSeH	1	8	REACTOME
+R-MMU-2408508	Metabolism of ingested SeMet, Sec, MeSec into H2Se	2	12	REACTOME
+R-MMU-556833	Metabolism of lipids	599	553	REACTOME
+R-MMU-202131	Metabolism of nitric oxide: eNOS activation and regulation	16	25	REACTOME
+R-MMU-194441	Metabolism of non-coding RNA	47	3	REACTOME
+R-MMU-15869	Metabolism of nucleotides	97	146	REACTOME
+R-MMU-351202	Metabolism of polyamines	59	21	REACTOME
+R-MMU-189445	Metabolism of porphyrins	24	41	REACTOME
+R-MMU-392499	Metabolism of proteins	1593	238	REACTOME
+R-MMU-380612	Metabolism of serotonin	2	11	REACTOME
+R-MMU-196071	Metabolism of steroid hormones	42	35	REACTOME
+R-MMU-8957322	Metabolism of steroids	127	141	REACTOME
+R-MMU-6806664	Metabolism of vitamin K	3	11	REACTOME
+R-MMU-196854	Metabolism of vitamins and cofactors	180	175	REACTOME
+R-MMU-196849	Metabolism of water-soluble vitamins and cofactors	117	123	REACTOME
+R-MMU-425410	Metal ion SLC transporters	21	7	REACTOME
+R-MMU-6799990	Metal sequestration by antimicrobial proteins	4	7	REACTOME
+R-MMU-5689901	Metalloprotease DUBs	39	1	REACTOME
+R-MMU-5661231	Metallothioneins bind metals	2	5	REACTOME
+R-MMU-1237112	Methionine salvage pathway	4	14	REACTOME
+R-MMU-156581	Methylation	14	32	REACTOME
+R-MMU-203927	MicroRNA (miRNA) biogenesis	6	0	REACTOME
+R-MMU-190840	Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane	16	2	REACTOME
+R-MMU-193993	Mineralocorticoid biosynthesis	11	14	REACTOME
+R-MMU-211958	Miscellaneous substrates	26	15	REACTOME
+R-MMU-5223345	Miscellaneous transport and binding events	25	10	REACTOME
+R-MMU-5358508	Mismatch Repair	12	9	REACTOME
+R-MMU-5358606	Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)	8	9	REACTOME
+R-MMU-5358565	Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)	11	9	REACTOME
+R-MMU-1369007	Mitochondrial ABC transporters	4	6	REACTOME
+R-MMU-77289	Mitochondrial Fatty Acid Beta-Oxidation	36	65	REACTOME
+R-MMU-166187	Mitochondrial Uncoupling Proteins	5	7	REACTOME
+R-MMU-1592230	Mitochondrial biogenesis	26	4	REACTOME
+R-MMU-8949215	Mitochondrial calcium ion transport	17	3	REACTOME
+R-MMU-1362409	Mitochondrial iron-sulfur cluster biogenesis	11	12	REACTOME
+R-MMU-1268020	Mitochondrial protein import	10	0	REACTOME
+R-MMU-379726	Mitochondrial tRNA aminoacylation	1	4	REACTOME
+R-MMU-163282	Mitochondrial transcription initiation	3	1	REACTOME
+R-MMU-163316	Mitochondrial transcription termination	1	1	REACTOME
+R-MMU-5368287	Mitochondrial translation	86	6	REACTOME
+R-MMU-5389840	Mitochondrial translation elongation	83	3	REACTOME
+R-MMU-5419276	Mitochondrial translation termination	85	6	REACTOME
+R-MMU-5205647	Mitophagy	29	2	REACTOME
+R-MMU-68882	Mitotic Anaphase	192	7	REACTOME
+R-MMU-453279	Mitotic G1 phase and G1/S transition	126	6	REACTOME
+R-MMU-453274	Mitotic G2-G2/M phases	179	9	REACTOME
+R-MMU-2555396	Mitotic Metaphase and Anaphase	193	9	REACTOME
+R-MMU-68881	Mitotic Metaphase/Anaphase Transition	2	2	REACTOME
+R-MMU-68877	Mitotic Prometaphase	190	10	REACTOME
+R-MMU-68875	Mitotic Prophase	135	17	REACTOME
+R-MMU-69618	Mitotic Spindle Checkpoint	107	0	REACTOME
+R-MMU-68884	Mitotic Telophase/Cytokinesis	12	3	REACTOME
+R-MMU-2129379	Molecules associated with elastic fibres	35	0	REACTOME
+R-MMU-947581	Molybdenum cofactor biosynthesis	5	18	REACTOME
+R-MMU-427601	Multifunctional anion exchangers	9	10	REACTOME
+R-MMU-390648	Muscarinic acetylcholine receptors	5	1	REACTOME
+R-MMU-397014	Muscle contraction	177	35	REACTOME
+R-MMU-975871	MyD88 cascade initiated on plasma membrane	70	9	REACTOME
+R-MMU-975155	MyD88 dependent cascade initiated on endosome	81	14	REACTOME
+R-MMU-166166	MyD88-independent TLR4 cascade 	88	10	REACTOME
+R-MMU-166058	MyD88:MAL(TIRAP) cascade initiated on plasma membrane	71	10	REACTOME
+R-MMU-525793	Myogenesis	24	3	REACTOME
+R-MMU-975577	N-Glycan antennae elongation	15	5	REACTOME
+R-MMU-975576	N-glycan antennae elongation in the medial/trans-Golgi	23	19	REACTOME
+R-MMU-964739	N-glycan trimming and elongation in the cis-Golgi	5	13	REACTOME
+R-MMU-532668	N-glycan trimming in the ER and Calnexin/Calreticulin cycle	15	14	REACTOME
+R-MMU-205025	NADE modulates death signalling	6	0	REACTOME
+R-MMU-389542	NADPH regeneration	1	6	REACTOME
+R-MMU-375165	NCAM signaling for neurite out-growth	35	5	REACTOME
+R-MMU-419037	NCAM1 interactions	20	2	REACTOME
+R-MMU-209560	NF-kB is activated and signals survival	13	2	REACTOME
+R-MMU-205017	NFG and proNGF binds to p75NTR	2	0	REACTOME
+R-MMU-167060	NGF processing	4	1	REACTOME
+R-MMU-5676590	NIK-->noncanonical NF-kB signaling	57	2	REACTOME
+R-MMU-168638	NOD1/2 Signaling Pathway	31	4	REACTOME
+R-MMU-203754	NOSIP mediated eNOS trafficking	2	5	REACTOME
+R-MMU-203641	NOSTRIN mediated eNOS trafficking	5	5	REACTOME
+R-MMU-2122947	NOTCH1 Intracellular Domain Regulates Transcription	10	0	REACTOME
+R-MMU-9013507	NOTCH3 Activation and Transmission of Signal to the Nucleus	19	3	REACTOME
+R-MMU-9013700	NOTCH4 Activation and Transmission of Signal to the Nucleus	2	0	REACTOME
+R-MMU-9623433	NR1H2 & NR1H3 regulate gene expression to control bile acid homeostasis	6	4	REACTOME
+R-MMU-9024446	NR1H2 and NR1H3-mediated signaling	11	4	REACTOME
+R-MMU-9029569	NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux	11	4	REACTOME
+R-MMU-193648	NRAGE signals death through JNK	48	4	REACTOME
+R-MMU-205043	NRIF signals cell death from the nucleus	14	0	REACTOME
+R-MMU-9034013	NTF3 activates NTRK3 signaling	2	2	REACTOME
+R-MMU-9032759	NTRK2 activates RAC1	4	2	REACTOME
+R-MMU-442660	Na+/Cl- dependent neurotransmitter transporters	17	31	REACTOME
+R-MMU-420597	Nectin/Necl  trans heterodimerization	7	0	REACTOME
+R-MMU-8951664	Neddylation	217	4	REACTOME
+R-MMU-5250941	Negative epigenetic regulation of rRNA expression	69	7	REACTOME
+R-MMU-5674499	Negative feedback regulation of MAPK pathway	6	2	REACTOME
+R-MMU-5654726	Negative regulation of FGFR1 signaling	31	4	REACTOME
+R-MMU-5654727	Negative regulation of FGFR2 signaling	33	4	REACTOME
+R-MMU-5654732	Negative regulation of FGFR3 signaling	28	4	REACTOME
+R-MMU-5654733	Negative regulation of FGFR4 signaling	31	4	REACTOME
+R-MMU-5675221	Negative regulation of MAPK pathway	39	5	REACTOME
+R-MMU-6807004	Negative regulation of MET activity	20	4	REACTOME
+R-MMU-9604323	Negative regulation of NOTCH4 signaling	2	2	REACTOME
+R-MMU-3772470	Negative regulation of TCF-dependent signaling by WNT ligand antagonists	8	0	REACTOME
+R-MMU-8866904	Negative regulation of activity of TFAP2 (AP-2) family transcription factors	9	0	REACTOME
+R-MMU-199418	Negative regulation of the PI3K/AKT network	106	12	REACTOME
+R-MMU-936440	Negative regulators of DDX58/IFIH1 signaling	14	0	REACTOME
+R-MMU-373753	Nephrin family interactions	10	2	REACTOME
+R-MMU-373752	Netrin-1 signaling	24	6	REACTOME
+R-MMU-6794361	Neurexins and neuroligins	33	0	REACTOME
+R-MMU-447043	Neurofascin interactions	3	0	REACTOME
+R-MMU-112316	Neuronal System	324	64	REACTOME
+R-MMU-194306	Neurophilin interactions with VEGF and VEGFR	3	0	REACTOME
+R-MMU-112311	Neurotransmitter clearance	8	21	REACTOME
+R-MMU-112314	Neurotransmitter receptors and postsynaptic signal transmission	138	19	REACTOME
+R-MMU-112310	Neurotransmitter release cycle	48	45	REACTOME
+R-MMU-112313	Neurotransmitter uptake and metabolism In glial cells	4	6	REACTOME
+R-MMU-6798695	Neutrophil degranulation	521	0	REACTOME
+R-MMU-197264	Nicotinamide salvaging	18	40	REACTOME
+R-MMU-196807	Nicotinate metabolism	30	52	REACTOME
+R-MMU-392154	Nitric oxide stimulates guanylate cyclase	13	8	REACTOME
+R-MMU-427413	NoRC negatively regulates rRNA expression	66	2	REACTOME
+R-MMU-3000171	Non-integrin membrane-ECM interactions	39	2	REACTOME
+R-MMU-9017802	Noncanonical activation of NOTCH3	7	0	REACTOME
+R-MMU-5693571	Nonhomologous End-Joining (NHEJ)	67	6	REACTOME
+R-MMU-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	111	4	REACTOME
+R-MMU-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	91	2	REACTOME
+R-MMU-927802	Nonsense-Mediated Decay (NMD)	111	4	REACTOME
+R-MMU-181430	Norepinephrine Neurotransmitter Release Cycle	18	8	REACTOME
+R-MMU-350054	Notch-HLH transcription pathway	22	0	REACTOME
+R-MMU-2980766	Nuclear Envelope Breakdown	48	8	REACTOME
+R-MMU-2995410	Nuclear Envelope Reassembly	12	3	REACTOME
+R-MMU-198725	Nuclear Events (kinase and transcription factor activation)	22	4	REACTOME
+R-MMU-3301854	Nuclear Pore Complex (NPC) Disassembly	31	2	REACTOME
+R-MMU-383280	Nuclear Receptor transcription pathway	50	0	REACTOME
+R-MMU-1251985	Nuclear signaling by ERBB4	11	1	REACTOME
+R-MMU-8956320	Nucleobase biosynthesis	15	47	REACTOME
+R-MMU-8956319	Nucleobase catabolism	36	97	REACTOME
+R-MMU-774815	Nucleosome assembly	77	1	REACTOME
+R-MMU-5696398	Nucleotide Excision Repair	101	10	REACTOME
+R-MMU-8956321	Nucleotide salvage	24	45	REACTOME
+R-MMU-168643	Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways	45	10	REACTOME
+R-MMU-418038	Nucleotide-like (purinergic) receptors	14	12	REACTOME
+R-MMU-5173214	O-glycosylation of TSR domain-containing proteins	33	2	REACTOME
+R-MMU-5173105	O-linked glycosylation	95	18	REACTOME
+R-MMU-913709	O-linked glycosylation of mucins	52	8	REACTOME
+R-MMU-1480926	O2/CO2 exchange in erythrocytes	12	11	REACTOME
+R-MMU-8983711	OAS antiviral response	5	5	REACTOME
+R-MMU-381753	Olfactory Signaling Pathway	364	0	REACTOME
+R-MMU-190704	Oligomerization of connexins into connexons	1	0	REACTOME
+R-MMU-2559585	Oncogene Induced Senescence	12	2	REACTOME
+R-MMU-111885	Opioid Signalling	68	17	REACTOME
+R-MMU-419771	Opsins	8	1	REACTOME
+R-MMU-68949	Orc1 removal from chromatin	70	3	REACTOME
+R-MMU-389397	Orexin and neuropeptides FF and QRFP bind to their respective receptors	8	0	REACTOME
+R-MMU-1852241	Organelle biogenesis and maintenance	224	11	REACTOME
+R-MMU-561048	Organic anion transport	4	8	REACTOME
+R-MMU-428643	Organic anion transporters	9	15	REACTOME
+R-MMU-549127	Organic cation transport	9	29	REACTOME
+R-MMU-549132	Organic cation/anion/zwitterion transport	13	36	REACTOME
+R-MMU-449836	Other interleukin signaling	17	0	REACTOME
+R-MMU-416700	Other semaphorin interactions	13	0	REACTOME
+R-MMU-5689896	Ovarian tumor domain proteases	29	5	REACTOME
+R-MMU-2559580	Oxidative Stress Induced Senescence	110	8	REACTOME
+R-MMU-1234176	Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha	66	6	REACTOME
+R-MMU-417957	P2Y receptors	11	11	REACTOME
+R-MMU-141334	PAOs oxidise polyamines to amines	2	11	REACTOME
+R-MMU-5651801	PCNA-Dependent Long Patch Base Excision Repair	18	2	REACTOME
+R-MMU-4086400	PCP/CE pathway	86	7	REACTOME
+R-MMU-389948	PD-1 signaling	13	4	REACTOME
+R-MMU-165160	PDE3B signalling	1	3	REACTOME
+R-MMU-210990	PECAM1 interactions	12	2	REACTOME
+R-MMU-381042	PERK regulates gene expression	4	2	REACTOME
+R-MMU-1483255	PI Metabolism	74	27	REACTOME
+R-MMU-1483196	PI and PC transport between ER and Golgi membranes	1	2	REACTOME
+R-MMU-5654689	PI-3K cascade:FGFR1	20	5	REACTOME
+R-MMU-5654695	PI-3K cascade:FGFR2	22	5	REACTOME
+R-MMU-5654710	PI-3K cascade:FGFR3	17	5	REACTOME
+R-MMU-5654720	PI-3K cascade:FGFR4	20	5	REACTOME
+R-MMU-109704	PI3K Cascade	41	9	REACTOME
+R-MMU-1963642	PI3K events in ERBB2 signaling	15	4	REACTOME
+R-MMU-1250342	PI3K events in ERBB4 signaling	9	4	REACTOME
+R-MMU-198203	PI3K/AKT activation	9	4	REACTOME
+R-MMU-6811555	PI5P Regulates TP53 Acetylation	9	8	REACTOME
+R-MMU-6811558	PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	99	11	REACTOME
+R-MMU-1257604	PIP3 activates AKT signaling	229	15	REACTOME
+R-MMU-163615	PKA activation	15	5	REACTOME
+R-MMU-164378	PKA activation in glucagon signalling	4	1	REACTOME
+R-MMU-111931	PKA-mediated phosphorylation of CREB	15	5	REACTOME
+R-MMU-163358	PKA-mediated phosphorylation of key metabolic factors	1	0	REACTOME
+R-MMU-109703	PKB-mediated events	1	3	REACTOME
+R-MMU-3214841	PKMTs methylate histone lysines	62	2	REACTOME
+R-MMU-112043	PLC beta mediated events	38	17	REACTOME
+R-MMU-110362	POLB-Dependent Long Patch Base Excision Repair	5	7	REACTOME
+R-MMU-212300	PRC2 methylates histones and DNA	78	4	REACTOME
+R-MMU-6807070	PTEN Regulation	111	7	REACTOME
+R-MMU-8849474	PTK6 Activates STAT3	4	2	REACTOME
+R-MMU-8849472	PTK6 Down-Regulation	2	4	REACTOME
+R-MMU-8849470	PTK6 Regulates Cell Cycle	6	2	REACTOME
+R-MMU-8849468	PTK6 Regulates Proteins Involved in RNA Processing	5	2	REACTOME
+R-MMU-8849471	PTK6 Regulates RHO GTPases, RAS GTPase and MAP kinases	13	5	REACTOME
+R-MMU-8849469	PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1	9	2	REACTOME
+R-MMU-8857538	PTK6 promotes HIF1A stabilization	6	2	REACTOME
+R-MMU-171306	Packaging Of Telomere Ends	60	2	REACTOME
+R-MMU-432047	Passive transport by Aquaporins	11	3	REACTOME
+R-MMU-71336	Pentose phosphate pathway	15	31	REACTOME
+R-MMU-156902	Peptide chain elongation	1	1	REACTOME
+R-MMU-209952	Peptide hormone biosynthesis	9	1	REACTOME
+R-MMU-2980736	Peptide hormone metabolism	61	55	REACTOME
+R-MMU-375276	Peptide ligand-binding receptors	194	13	REACTOME
+R-MMU-390918	Peroxisomal lipid metabolism	28	60	REACTOME
+R-MMU-9033241	Peroxisomal protein import	64	3	REACTOME
+R-MMU-5576892	Phase 0 - rapid depolarisation	42	23	REACTOME
+R-MMU-5576894	Phase 1 - inactivation of fast Na+ channels	7	1	REACTOME
+R-MMU-5576893	Phase 2 - plateau phase	22	14	REACTOME
+R-MMU-5576890	Phase 3 - rapid repolarisation	7	4	REACTOME
+R-MMU-5576886	Phase 4 - resting membrane potential	17	1	REACTOME
+R-MMU-211945	Phase I - Functionalization of compounds	108	190	REACTOME
+R-MMU-156580	Phase II - Conjugation of compounds	88	142	REACTOME
+R-MMU-8963691	Phenylalanine and tyrosine metabolism	12	32	REACTOME
+R-MMU-8964208	Phenylalanine metabolism	7	21	REACTOME
+R-MMU-8850843	Phosphate bond hydrolysis by NTPDase proteins	8	25	REACTOME
+R-MMU-2393930	Phosphate bond hydrolysis by NUDT proteins	7	24	REACTOME
+R-MMU-5654219	Phospholipase C-mediated cascade: FGFR1	15	4	REACTOME
+R-MMU-5654221	Phospholipase C-mediated cascade; FGFR2	17	4	REACTOME
+R-MMU-5654227	Phospholipase C-mediated cascade; FGFR3	12	4	REACTOME
+R-MMU-5654228	Phospholipase C-mediated cascade; FGFR4	15	4	REACTOME
+R-MMU-1483257	Phospholipid metabolism	188	98	REACTOME
+R-MMU-202427	Phosphorylation of CD3 and TCR zeta chains	12	5	REACTOME
+R-MMU-176417	Phosphorylation of Emi1	6	2	REACTOME
+R-MMU-69200	Phosphorylation of proteins involved in G1/S transition by active Cyclin E:Cdk2 complexes	4	2	REACTOME
+R-MMU-176412	Phosphorylation of the APC/C	19	0	REACTOME
+R-MMU-5578768	Physiological factors	5	0	REACTOME
+R-MMU-5205685	Pink/Parkin Mediated Mitophagy	22	0	REACTOME
+R-MMU-8963898	Plasma lipoprotein assembly	18	11	REACTOME
+R-MMU-174824	Plasma lipoprotein assembly, remodeling, and clearance	58	20	REACTOME
+R-MMU-8964043	Plasma lipoprotein clearance	28	9	REACTOME
+R-MMU-8963899	Plasma lipoprotein remodeling	26	15	REACTOME
+R-MMU-75896	Plasmalogen biosynthesis	3	12	REACTOME
+R-MMU-75892	Platelet Adhesion to exposed collagen	10	0	REACTOME
+R-MMU-76009	Platelet Aggregation (Plug Formation)	34	13	REACTOME
+R-MMU-76002	Platelet activation, signaling and aggregation	240	31	REACTOME
+R-MMU-418360	Platelet calcium homeostasis	25	7	REACTOME
+R-MMU-114608	Platelet degranulation 	115	9	REACTOME
+R-MMU-418346	Platelet homeostasis	72	27	REACTOME
+R-MMU-432142	Platelet sensitization by LDL	16	6	REACTOME
+R-MMU-156711	Polo-like kinase mediated events	4	2	REACTOME
+R-MMU-69091	Polymerase switching	13	4	REACTOME
+R-MMU-174411	Polymerase switching on the C-strand of the telomere	13	5	REACTOME
+R-MMU-5250913	Positive epigenetic regulation of rRNA expression	94	3	REACTOME
+R-MMU-438064	Post NMDA receptor activation events	16	4	REACTOME
+R-MMU-426496	Post-transcriptional silencing by small RNAs	7	1	REACTOME
+R-MMU-163125	Post-translational modification: synthesis of GPI-anchored proteins	81	22	REACTOME
+R-MMU-597592	Post-translational protein modification	1247	169	REACTOME
+R-MMU-8957275	Post-translational protein phosphorylation	110	2	REACTOME
+R-MMU-622327	Postsynaptic nicotinic acetylcholine receptors	13	3	REACTOME
+R-MMU-1296071	Potassium Channels	93	4	REACTOME
+R-MMU-1296067	Potassium transport channels	3	1	REACTOME
+R-MMU-1912422	Pre-NOTCH Expression and Processing	7	2	REACTOME
+R-MMU-1912420	Pre-NOTCH Processing in Golgi	5	0	REACTOME
+R-MMU-1912408	Pre-NOTCH Transcription and Translation	2	2	REACTOME
+R-MMU-196108	Pregnenolone biosynthesis	12	13	REACTOME
+R-MMU-112308	Presynaptic depolarization and calcium channel opening	10	2	REACTOME
+R-MMU-500657	Presynaptic function of Kainate receptors	20	2	REACTOME
+R-MMU-622323	Presynaptic nicotinic acetylcholine receptors	11	3	REACTOME
+R-MMU-5693616	Presynaptic phase of homologous DNA pairing and strand exchange	35	3	REACTOME
+R-MMU-3215018	Processing and activation of SUMO	9	3	REACTOME
+R-MMU-72203	Processing of Capped Intron-Containing Pre-mRNA	228	6	REACTOME
+R-MMU-75067	Processing of Capped Intronless Pre-mRNA	27	4	REACTOME
+R-MMU-5693607	Processing of DNA double-strand break ends	94	10	REACTOME
+R-MMU-77595	Processing of Intronless Pre-mRNAs	18	2	REACTOME
+R-MMU-8949664	Processing of SMDT1	16	1	REACTOME
+R-MMU-174414	Processive synthesis on the C-strand of the telomere	8	12	REACTOME
+R-MMU-69183	Processive synthesis on the lagging strand	12	6	REACTOME
+R-MMU-5357801	Programmed Cell Death	110	10	REACTOME
+R-MMU-964827	Progressive trimming of alpha-1,2-linked mannose residues from Man9/8/7GlcNAc2 to produce Man5GlcNAc2	3	7	REACTOME
+R-MMU-1170546	Prolactin receptor signaling	8	3	REACTOME
+R-MMU-70688	Proline catabolism	3	11	REACTOME
+R-MMU-169893	Prolonged ERK activation events	14	5	REACTOME
+R-MMU-71032	Propionyl-CoA catabolism	5	9	REACTOME
+R-MMU-392851	Prostacyclin signalling through prostacyclin receptor	18	3	REACTOME
+R-MMU-391908	Prostanoid ligand receptors	8	5	REACTOME
+R-MMU-391251	Protein folding	41	3	REACTOME
+R-MMU-9609507	Protein localization	104	3	REACTOME
+R-MMU-8876725	Protein methylation	19	2	REACTOME
+R-MMU-5676934	Protein repair	5	7	REACTOME
+R-MMU-8852135	Protein ubiquitination	71	4	REACTOME
+R-MMU-6794362	Protein-protein interactions at synapses	68	2	REACTOME
+R-MMU-433692	Proton-coupled monocarboxylate transport	6	6	REACTOME
+R-MMU-428559	Proton-coupled neutral amino acid transporters	2	4	REACTOME
+R-MMU-427975	Proton/oligopeptide cotransporters	3	5	REACTOME
+R-MMU-74259	Purine catabolism	19	54	REACTOME
+R-MMU-73817	Purine ribonucleoside monophosphate biosynthesis	12	37	REACTOME
+R-MMU-74217	Purine salvage	14	31	REACTOME
+R-MMU-500753	Pyrimidine biosynthesis	3	21	REACTOME
+R-MMU-73621	Pyrimidine catabolism	11	36	REACTOME
+R-MMU-73614	Pyrimidine salvage	11	23	REACTOME
+R-MMU-71737	Pyrophosphate hydrolysis	2	4	REACTOME
+R-MMU-70268	Pyruvate metabolism	28	26	REACTOME
+R-MMU-71406	Pyruvate metabolism and Citric Acid (TCA) cycle	51	44	REACTOME
+R-MMU-5365859	RA biosynthesis pathway	21	17	REACTOME
+R-MMU-8876198	RAB GEFs exchange GTP for GDP on RABs	85	4	REACTOME
+R-MMU-8873719	RAB geranylgeranylation	57	3	REACTOME
+R-MMU-5673000	RAF activation	31	6	REACTOME
+R-MMU-112409	RAF-independent MAPK1/3 activation	21	4	REACTOME
+R-MMU-5673001	RAF/MAP kinase cascade	233	21	REACTOME
+R-MMU-8853659	RET signaling	37	2	REACTOME
+R-MMU-195258	RHO GTPase Effectors	309	28	REACTOME
+R-MMU-5663220	RHO GTPases Activate Formins	132	7	REACTOME
+R-MMU-5668599	RHO GTPases Activate NADPH Oxidases	24	14	REACTOME
+R-MMU-5627117	RHO GTPases Activate ROCKs	5	1	REACTOME
+R-MMU-5666185	RHO GTPases Activate Rhotekin and Rhophilins	6	1	REACTOME
+R-MMU-5663213	RHO GTPases Activate WASPs and WAVEs	35	5	REACTOME
+R-MMU-5625900	RHO GTPases activate CIT	8	1	REACTOME
+R-MMU-5626467	RHO GTPases activate IQGAPs	30	4	REACTOME
+R-MMU-5625970	RHO GTPases activate KTN1	9	1	REACTOME
+R-MMU-5627123	RHO GTPases activate PAKs	18	4	REACTOME
+R-MMU-5625740	RHO GTPases activate PKNs	88	13	REACTOME
+R-MMU-5627083	RHO GTPases regulate CFTR trafficking	3	1	REACTOME
+R-MMU-1810476	RIP-mediated NFkB activation via ZBP1	11	3	REACTOME
+R-MMU-5213460	RIPK1-mediated regulated necrosis	19	5	REACTOME
+R-MMU-3214858	RMTs methylate histone arginines	72	2	REACTOME
+R-MMU-77075	RNA Pol II CTD phosphorylation and interaction with CE	26	3	REACTOME
+R-MMU-73854	RNA Polymerase I Promoter Clearance	109	9	REACTOME
+R-MMU-73772	RNA Polymerase I Promoter Escape	93	7	REACTOME
+R-MMU-73728	RNA Polymerase I Promoter Opening	67	5	REACTOME
+R-MMU-73864	RNA Polymerase I Transcription	110	9	REACTOME
+R-MMU-73762	RNA Polymerase I Transcription Initiation	42	1	REACTOME
+R-MMU-73863	RNA Polymerase I Transcription Termination	29	0	REACTOME
+R-MMU-674695	RNA Polymerase II Pre-transcription Events	75	6	REACTOME
+R-MMU-73776	RNA Polymerase II Promoter Escape	44	7	REACTOME
+R-MMU-73857	RNA Polymerase II Transcription	912	50	REACTOME
+R-MMU-75955	RNA Polymerase II Transcription Elongation	54	7	REACTOME
+R-MMU-75953	RNA Polymerase II Transcription Initiation	44	6	REACTOME
+R-MMU-76042	RNA Polymerase II Transcription Initiation And Promoter Clearance	44	9	REACTOME
+R-MMU-73779	RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	44	1	REACTOME
+R-MMU-73856	RNA Polymerase II Transcription Termination	63	5	REACTOME
+R-MMU-74158	RNA Polymerase III Transcription	33	1	REACTOME
+R-MMU-76046	RNA Polymerase III Transcription Initiation	33	1	REACTOME
+R-MMU-76061	RNA Polymerase III Transcription Initiation From Type 1 Promoter	26	1	REACTOME
+R-MMU-76066	RNA Polymerase III Transcription Initiation From Type 2 Promoter	25	1	REACTOME
+R-MMU-76071	RNA Polymerase III Transcription Initiation From Type 3 Promoter	26	1	REACTOME
+R-MMU-6807505	RNA polymerase II transcribes snRNA genes	71	6	REACTOME
+R-MMU-1222556	ROS and RNS production in phagocytes	36	22	REACTOME
+R-MMU-444257	RSK activation	4	0	REACTOME
+R-MMU-8877330	RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)	2	0	REACTOME
+R-MMU-8939243	RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known	34	2	REACTOME
+R-MMU-8931987	RUNX1 regulates estrogen receptor mediated transcription	2	1	REACTOME
+R-MMU-8936459	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function	83	2	REACTOME
+R-MMU-8939245	RUNX1 regulates transcription of genes involved in BCR signaling	3	0	REACTOME
+R-MMU-8939236	RUNX1 regulates transcription of genes involved in differentiation of HSCs	66	2	REACTOME
+R-MMU-8939242	RUNX1 regulates transcription of genes involved in differentiation of keratinocytes	4	0	REACTOME
+R-MMU-8939246	RUNX1 regulates transcription of genes involved in differentiation of myeloid cells	1	0	REACTOME
+R-MMU-8939247	RUNX1 regulates transcription of genes involved in interleukin signaling	2	0	REACTOME
+R-MMU-8941326	RUNX2 regulates bone development	6	4	REACTOME
+R-MMU-8940973	RUNX2 regulates osteoblast differentiation	2	4	REACTOME
+R-MMU-8941855	RUNX3 regulates CDKN1A transcription	4	0	REACTOME
+R-MMU-8941856	RUNX3 regulates NOTCH signaling	10	0	REACTOME
+R-MMU-8951430	RUNX3 regulates WNT signaling	5	0	REACTOME
+R-MMU-8951671	RUNX3 regulates YAP1-mediated transcription	4	0	REACTOME
+R-MMU-8951936	RUNX3 regulates p14-ARF	7	5	REACTOME
+R-MMU-9007101	Rab regulation of trafficking	109	6	REACTOME
+R-MMU-392517	Rap1 signalling	13	8	REACTOME
+R-MMU-975578	Reactions specific to the complex N-glycan synthesis pathway	8	17	REACTOME
+R-MMU-975574	Reactions specific to the hybrid N-glycan synthesis pathway	0	3	REACTOME
+R-MMU-8934903	Receptor Mediated Mitophagy	11	2	REACTOME
+R-MMU-388844	Receptor-type tyrosine-protein phosphatases	19	0	REACTOME
+R-MMU-110330	Recognition and association of DNA glycosylase with site containing an affected purine	62	1	REACTOME
+R-MMU-110328	Recognition and association of DNA glycosylase with site containing an affected pyrimidine	1	0	REACTOME
+R-MMU-110314	Recognition of DNA damage by PCNA-containing replication complex	28	0	REACTOME
+R-MMU-5693565	Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks	75	8	REACTOME
+R-MMU-380320	Recruitment of NuMA to mitotic centrosomes	89	2	REACTOME
+R-MMU-380270	Recruitment of mitotic centrosome proteins and complexes	78	0	REACTOME
+R-MMU-159418	Recycling of bile acids and salts	15	21	REACTOME
+R-MMU-72731	Recycling of eIF2:GDP	8	2	REACTOME
+R-MMU-437239	Recycling pathway of L1	34	6	REACTOME
+R-MMU-418359	Reduction of cytosolic Ca++ levels	14	3	REACTOME
+R-MMU-8866376	Reelin signalling pathway	5	2	REACTOME
+R-MMU-5218859	Regulated Necrosis	19	5	REACTOME
+R-MMU-193692	Regulated proteolysis of p75NTR	10	1	REACTOME
+R-MMU-3371378	Regulation by c-FLIP	10	0	REACTOME
+R-MMU-176408	Regulation of APC/C activators between G1/S and early anaphase	28	2	REACTOME
+R-MMU-169911	Regulation of Apoptosis	2	1	REACTOME
+R-MMU-977606	Regulation of Complement cascade	38	6	REACTOME
+R-MMU-9617629	Regulation of FOXO transcriptional activity by acetylation	6	6	REACTOME
+R-MMU-4641263	Regulation of FZD by ubiquitination	20	1	REACTOME
+R-MMU-170822	Regulation of Glucokinase by Glucokinase Regulatory Protein	30	4	REACTOME
+R-MMU-3371453	Regulation of HSF1-mediated heat shock response	64	7	REACTOME
+R-MMU-912694	Regulation of IFNA signaling	18	2	REACTOME
+R-MMU-877312	Regulation of IFNG signaling	9	2	REACTOME
+R-MMU-381426	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	116	2	REACTOME
+R-MMU-1433559	Regulation of KIT signaling	14	2	REACTOME
+R-MMU-9022692	Regulation of MECP2 expression and activity	6	2	REACTOME
+R-MMU-2565942	Regulation of PLK1 Activity at G2/M Transition	85	5	REACTOME
+R-MMU-8943724	Regulation of PTEN gene transcription	41	4	REACTOME
+R-MMU-8948747	Regulation of PTEN localization	9	1	REACTOME
+R-MMU-8948751	Regulation of PTEN stability and activity	68	5	REACTOME
+R-MMU-5658442	Regulation of RAS by GAPs	67	2	REACTOME
+R-MMU-8934593	Regulation of RUNX1 Expression and Activity	7	2	REACTOME
+R-MMU-8939902	Regulation of RUNX2 expression and activity	52	0	REACTOME
+R-MMU-8941858	Regulation of RUNX3 expression and activity	53	2	REACTOME
+R-MMU-5686938	Regulation of TLR by endogenous ligand	17	12	REACTOME
+R-MMU-5357905	Regulation of TNFR1 signaling	32	2	REACTOME
+R-MMU-5633007	Regulation of TP53 Activity	147	14	REACTOME
+R-MMU-6804758	Regulation of TP53 Activity through Acetylation	29	9	REACTOME
+R-MMU-6804759	Regulation of TP53 Activity through Association with Co-factors	14	2	REACTOME
+R-MMU-6804760	Regulation of TP53 Activity through Methylation	18	4	REACTOME
+R-MMU-6804756	Regulation of TP53 Activity through Phosphorylation	83	4	REACTOME
+R-MMU-6804757	Regulation of TP53 Degradation	35	5	REACTOME
+R-MMU-6804754	Regulation of TP53 Expression	1	0	REACTOME
+R-MMU-6806003	Regulation of TP53 Expression and Degradation	35	5	REACTOME
+R-MMU-2029482	Regulation of actin dynamics for phagocytic cup formation	58	9	REACTOME
+R-MMU-186712	Regulation of beta-cell development	4	2	REACTOME
+R-MMU-1655829	Regulation of cholesterol biosynthesis by SREBP (SREBF)	7	1	REACTOME
+R-MMU-446388	Regulation of cytoskeletal remodeling and cell spreading by IPP complex components	7	0	REACTOME
+R-MMU-9010553	Regulation of expression of SLITs and ROBOs	8	1	REACTOME
+R-MMU-191650	Regulation of gap junction activity	3	2	REACTOME
+R-MMU-1234158	Regulation of gene expression by Hypoxia-inducible Factor	6	1	REACTOME
+R-MMU-210745	Regulation of gene expression in beta cells	4	2	REACTOME
+R-MMU-9634600	Regulation of glycolysis by fructose 2,6-bisphosphate metabolism	4	6	REACTOME
+R-MMU-3134975	Regulation of innate immune responses to cytosolic DNA	12	0	REACTOME
+R-MMU-422356	Regulation of insulin secretion	58	24	REACTOME
+R-MMU-400206	Regulation of lipid metabolism by PPARalpha	16	6	REACTOME
+R-MMU-9614399	Regulation of localization of FOXO transcription factors	12	2	REACTOME
+R-MMU-450531	Regulation of mRNA stability by proteins that bind AU-rich elements	86	3	REACTOME
+R-MMU-453276	Regulation of mitotic cell cycle	83	4	REACTOME
+R-MMU-5675482	Regulation of necroptotic cell death	17	0	REACTOME
+R-MMU-350562	Regulation of ornithine decarboxylase (ODC)	51	0	REACTOME
+R-MMU-204174	Regulation of pyruvate dehydrogenase (PDH) complex	16	15	REACTOME
+R-MMU-912631	Regulation of signaling by CBL	21	0	REACTOME
+R-MMU-9627069	Regulation of the apoptosome activity	2	1	REACTOME
+R-MMU-350864	Regulation of thyroid hormone activity	3	6	REACTOME
+R-MMU-444821	Relaxin receptors	6	0	REACTOME
+R-MMU-5362798	Release of Hh-Np from the secreting cell	6	0	REACTOME
+R-MMU-111457	Release of apoptotic factors from the mitochondria	4	0	REACTOME
+R-MMU-159782	Removal of aminoterminal propeptides from gamma-carboxylated proteins	10	0	REACTOME
+R-MMU-69166	Removal of the Flap Intermediate	11	6	REACTOME
+R-MMU-174437	Removal of the Flap Intermediate from the C-strand	7	6	REACTOME
+R-MMU-4641265	Repression of WNT target genes	10	0	REACTOME
+R-MMU-1474165	Reproduction	24	5	REACTOME
+R-MMU-110373	Resolution of AP sites via the multiple-nucleotide patch replacement pathway	20	7	REACTOME
+R-MMU-110381	Resolution of AP sites via the single-nucleotide replacement pathway	3	3	REACTOME
+R-MMU-73933	Resolution of Abasic Sites (AP sites)	31	9	REACTOME
+R-MMU-5693537	Resolution of D-Loop Structures	32	6	REACTOME
+R-MMU-5693568	Resolution of D-loop Structures through Holliday Junction Intermediates	31	2	REACTOME
+R-MMU-5693554	Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)	25	6	REACTOME
+R-MMU-2500257	Resolution of Sister Chromatid Cohesion	118	9	REACTOME
+R-MMU-611105	Respiratory electron transport	60	10	REACTOME
+R-MMU-163200	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	83	18	REACTOME
+R-MMU-76005	Response to elevated platelet cytosolic Ca2+	120	11	REACTOME
+R-MMU-5660526	Response to metal ions	2	5	REACTOME
+R-MMU-975634	Retinoid metabolism and transport	45	29	REACTOME
+R-MMU-177504	Retrograde neurotrophin signalling	9	0	REACTOME
+R-MMU-6811440	Retrograde transport at the Trans-Golgi-Network	42	4	REACTOME
+R-MMU-888593	Reuptake of GABA	3	6	REACTOME
+R-MMU-73943	Reversal of alkylation damage by DNA dioxygenases	2	7	REACTOME
+R-MMU-1475029	Reversible hydration of carbon dioxide	12	5	REACTOME
+R-MMU-444411	Rhesus glycoproteins mediate ammonium transport.	3	2	REACTOME
+R-MMU-194840	Rho GTPase cycle	127	3	REACTOME
+R-MMU-72702	Ribosomal scanning and start codon recognition	58	6	REACTOME
+R-MMU-428890	Role of ABL in ROBO-SLIT signaling	3	2	REACTOME
+R-MMU-2730905	Role of LAT2/NTAL/LAB on calcium mobilization	14	6	REACTOME
+R-MMU-2029485	Role of phospholipids in phagocytosis	21	13	REACTOME
+R-MMU-69242	S Phase	142	20	REACTOME
+R-MMU-187577	SCF(Skp2)-mediated degradation of p27/p21	61	2	REACTOME
+R-MMU-373756	SDK interactions	2	0	REACTOME
+R-MMU-399955	SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion	10	0	REACTOME
+R-MMU-5654688	SHC-mediated cascade:FGFR1	19	5	REACTOME
+R-MMU-5654699	SHC-mediated cascade:FGFR2	21	5	REACTOME
+R-MMU-5654704	SHC-mediated cascade:FGFR3	16	5	REACTOME
+R-MMU-5654719	SHC-mediated cascade:FGFR4	19	5	REACTOME
+R-MMU-2428933	SHC-related events triggered by IGF1R	6	2	REACTOME
+R-MMU-180336	SHC1 events in EGFR signaling	13	4	REACTOME
+R-MMU-1250196	SHC1 events in ERBB2 signaling	16	6	REACTOME
+R-MMU-1250347	SHC1 events in ERBB4 signaling	12	4	REACTOME
+R-MMU-427359	SIRT1 negatively regulates rRNA expression	68	6	REACTOME
+R-MMU-77588	SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs	11	2	REACTOME
+R-MMU-111367	SLBP independent Processing of Histone Pre-mRNAs	10	2	REACTOME
+R-MMU-425407	SLC-mediated transmembrane transport	225	167	REACTOME
+R-MMU-8985586	SLIT2:ROBO1 increases RHOA activity	3	4	REACTOME
+R-MMU-111463	SMAC (DIABLO) binds to IAPs 	3	0	REACTOME
+R-MMU-111464	SMAC(DIABLO)-mediated dissociation of IAP:caspase complexes 	3	0	REACTOME
+R-MMU-111469	SMAC, XIAP-regulated apoptotic response	5	0	REACTOME
+R-MMU-2173796	SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription	23	2	REACTOME
+R-MMU-112412	SOS-mediated signalling	4	0	REACTOME
+R-MMU-1799339	SRP-dependent cotranslational protein targeting to membrane	89	1	REACTOME
+R-MMU-3249367	STAT6-mediated induction of chemokines	3	2	REACTOME
+R-MMU-1834941	STING mediated induction of host immune responses	7	5	REACTOME
+R-MMU-3108232	SUMO E3 ligases SUMOylate target proteins	155	10	REACTOME
+R-MMU-3065676	SUMO is conjugated to E1 (UBA2:SAE1)	3	3	REACTOME
+R-MMU-3065679	SUMO is proteolytically processed	6	0	REACTOME
+R-MMU-3065678	SUMO is transferred from E1 to E2 (UBE2I, UBC9)	4	0	REACTOME
+R-MMU-2990846	SUMOylation	160	13	REACTOME
+R-MMU-3108214	SUMOylation of DNA damage response and repair proteins	72	0	REACTOME
+R-MMU-4655427	SUMOylation of DNA methylation proteins	4	0	REACTOME
+R-MMU-4615885	SUMOylation of DNA replication proteins	42	0	REACTOME
+R-MMU-4570464	SUMOylation of RNA binding proteins	45	0	REACTOME
+R-MMU-4085377	SUMOylation of SUMOylation proteins	33	0	REACTOME
+R-MMU-4551638	SUMOylation of chromatin organization proteins	65	0	REACTOME
+R-MMU-4755510	SUMOylation of immune response proteins	11	1	REACTOME
+R-MMU-4090294	SUMOylation of intracellular receptors	25	9	REACTOME
+R-MMU-3899300	SUMOylation of transcription cofactors	37	0	REACTOME
+R-MMU-3232118	SUMOylation of transcription factors	14	0	REACTOME
+R-MMU-3232142	SUMOylation of ubiquitinylation proteins	37	0	REACTOME
+R-MMU-3000480	Scavenging by Class A Receptors	10	29	REACTOME
+R-MMU-3000471	Scavenging by Class B Receptors	5	15	REACTOME
+R-MMU-3000497	Scavenging by Class H Receptors	3	11	REACTOME
+R-MMU-2168880	Scavenging of heme from plasma	17	7	REACTOME
+R-MMU-9663891	Selective autophagy	60	4	REACTOME
+R-MMU-2408522	Selenoamino acid metabolism	4	21	REACTOME
+R-MMU-2408557	Selenocysteine synthesis	1	7	REACTOME
+R-MMU-399954	Sema3A PAK dependent Axon repulsion	14	3	REACTOME
+R-MMU-400685	Sema4D in semaphorin signaling	13	6	REACTOME
+R-MMU-416572	Sema4D induced cell migration and growth-cone collapse	10	4	REACTOME
+R-MMU-416550	Sema4D mediated inhibition of cell attachment and migration	7	6	REACTOME
+R-MMU-373755	Semaphorin interactions	47	6	REACTOME
+R-MMU-2559582	Senescence-Associated Secretory Phenotype (SASP)	101	4	REACTOME
+R-MMU-5693548	Sensing of DNA Double Strand Breaks	5	5	REACTOME
+R-MMU-2467813	Separation of Sister Chromatids	182	5	REACTOME
+R-MMU-977347	Serine biosynthesis	9	16	REACTOME
+R-MMU-181429	Serotonin Neurotransmitter Release Cycle	18	1	REACTOME
+R-MMU-209931	Serotonin and melatonin biosynthesis	5	15	REACTOME
+R-MMU-380615	Serotonin clearance from the synaptic cleft	3	13	REACTOME
+R-MMU-390666	Serotonin receptors	11	1	REACTOME
+R-MMU-4085001	Sialic acid metabolism	33	27	REACTOME
+R-MMU-162582	Signal Transduction	2390	302	REACTOME
+R-MMU-392518	Signal amplification	31	10	REACTOME
+R-MMU-74749	Signal attenuation	11	2	REACTOME
+R-MMU-391160	Signal regulatory protein family interactions	8	0	REACTOME
+R-MMU-445144	Signal transduction by L1	19	4	REACTOME
+R-MMU-1502540	Signaling by Activin	13	3	REACTOME
+R-MMU-201451	Signaling by BMP	26	2	REACTOME
+R-MMU-177929	Signaling by EGFR	45	8	REACTOME
+R-MMU-1227986	Signaling by ERBB2	47	15	REACTOME
+R-MMU-1236394	Signaling by ERBB4	34	7	REACTOME
+R-MMU-9006335	Signaling by Erythropoietin	17	4	REACTOME
+R-MMU-190236	Signaling by FGFR	80	10	REACTOME
+R-MMU-5654736	Signaling by FGFR1	47	8	REACTOME
+R-MMU-5654738	Signaling by FGFR2	68	8	REACTOME
+R-MMU-5654741	Signaling by FGFR3	38	10	REACTOME
+R-MMU-5654743	Signaling by FGFR4	40	8	REACTOME
+R-MMU-372790	Signaling by GPCR	1038	244	REACTOME
+R-MMU-5358351	Signaling by Hedgehog	134	12	REACTOME
+R-MMU-2028269	Signaling by Hippo	20	2	REACTOME
+R-MMU-74752	Signaling by Insulin receptor	73	10	REACTOME
+R-MMU-449147	Signaling by Interleukins	262	9	REACTOME
+R-MMU-2586552	Signaling by Leptin	2	0	REACTOME
+R-MMU-6806834	Signaling by MET	73	8	REACTOME
+R-MMU-8852405	Signaling by MST1	5	3	REACTOME
+R-MMU-1181150	Signaling by NODAL	6	1	REACTOME
+R-MMU-157118	Signaling by NOTCH	40	3	REACTOME
+R-MMU-1980143	Signaling by NOTCH1	19	0	REACTOME
+R-MMU-9012852	Signaling by NOTCH3	19	3	REACTOME
+R-MMU-9013694	Signaling by NOTCH4	3	2	REACTOME
+R-MMU-187037	Signaling by NTRK1 (TRKA)	57	10	REACTOME
+R-MMU-9006115	Signaling by NTRK2 (TRKB)	9	2	REACTOME
+R-MMU-9034015	Signaling by NTRK3 (TRKC)	4	2	REACTOME
+R-MMU-166520	Signaling by NTRKs	69	11	REACTOME
+R-MMU-9006927	Signaling by Non-Receptor Tyrosine Kinases	48	6	REACTOME
+R-MMU-9006931	Signaling by Nuclear Receptors	238	55	REACTOME
+R-MMU-186797	Signaling by PDGF	54	10	REACTOME
+R-MMU-8848021	Signaling by PTK6	48	6	REACTOME
+R-MMU-376176	Signaling by ROBO receptors	20	8	REACTOME
+R-MMU-9006934	Signaling by Receptor Tyrosine Kinases	398	41	REACTOME
+R-MMU-5362517	Signaling by Retinoic Acid	42	29	REACTOME
+R-MMU-194315	Signaling by Rho GTPases	426	28	REACTOME
+R-MMU-1433557	Signaling by SCF-KIT	38	6	REACTOME
+R-MMU-170834	Signaling by TGF-beta Receptor Complex	54	6	REACTOME
+R-MMU-9006936	Signaling by TGF-beta family members	82	7	REACTOME
+R-MMU-2404192	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	48	9	REACTOME
+R-MMU-194138	Signaling by VEGF	98	25	REACTOME
+R-MMU-195721	Signaling by WNT	294	21	REACTOME
+R-MMU-983705	Signaling by the B Cell Receptor (BCR)	98	13	REACTOME
+R-MMU-198765	Signalling to ERK5	1	0	REACTOME
+R-MMU-187687	Signalling to ERKs	26	6	REACTOME
+R-MMU-167044	Signalling to RAS	12	4	REACTOME
+R-MMU-426486	Small interfering RNA (siRNA) biogenesis	8	2	REACTOME
+R-MMU-445355	Smooth Muscle Contraction	29	5	REACTOME
+R-MMU-427652	Sodium-coupled phosphate cotransporters	4	3	REACTOME
+R-MMU-433137	Sodium-coupled sulphate, di- and tri-carboxylate transporters	5	4	REACTOME
+R-MMU-425561	Sodium/Calcium exchangers	12	4	REACTOME
+R-MMU-425986	Sodium/Proton exchangers	9	2	REACTOME
+R-MMU-1300642	Sperm Motility And Taxes	8	4	REACTOME
+R-MMU-1660661	Sphingolipid de novo biosynthesis	42	35	REACTOME
+R-MMU-428157	Sphingolipid metabolism	80	67	REACTOME
+R-MMU-1295596	Spry regulation of FGF signaling	16	3	REACTOME
+R-MMU-69541	Stabilization of p53	56	2	REACTOME
+R-MMU-211994	Sterols are 12-hydroxylated by CYP8B1	2	11	REACTOME
+R-MMU-2672351	Stimuli-sensing channels	99	13	REACTOME
+R-MMU-390522	Striated Muscle Contraction	33	4	REACTOME
+R-MMU-1614517	Sulfide oxidation to sulfate	5	13	REACTOME
+R-MMU-1614635	Sulfur amino acid metabolism	24	57	REACTOME
+R-MMU-5683826	Surfactant metabolism	20	14	REACTOME
+R-MMU-69052	Switching of origins to a post-replicative state	89	3	REACTOME
+R-MMU-8849932	Synaptic adhesion-like molecules	21	2	REACTOME
+R-MMU-3000170	Syndecan interactions	16	2	REACTOME
+R-MMU-2142816	Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE)	7	11	REACTOME
+R-MMU-2142712	Synthesis of 12-eicosatetraenoic acid derivatives	7	12	REACTOME
+R-MMU-2142770	Synthesis of 15-eicosatetraenoic acid derivatives	6	13	REACTOME
+R-MMU-2142688	Synthesis of 5-eicosatetraenoic acids	6	8	REACTOME
+R-MMU-1483076	Synthesis of CL	1	4	REACTOME
+R-MMU-69239	Synthesis of DNA	114	15	REACTOME
+R-MMU-446199	Synthesis of Dolichyl-phosphate	6	17	REACTOME
+R-MMU-446205	Synthesis of GDP-mannose	3	3	REACTOME
+R-MMU-2142696	Synthesis of Hepoxilins (HX) and Trioxilins (TrX)	1	5	REACTOME
+R-MMU-1855183	Synthesis of IP2, IP, and Ins in the cytosol	10	18	REACTOME
+R-MMU-1855204	Synthesis of IP3 and IP4 in the cytosol	27	13	REACTOME
+R-MMU-1855231	Synthesis of IPs in the ER lumen	1	8	REACTOME
+R-MMU-1855191	Synthesis of IPs in the nucleus	4	14	REACTOME
+R-MMU-77111	Synthesis of Ketone Bodies	8	16	REACTOME
+R-MMU-2142691	Synthesis of Leukotrienes (LT) and Eoxins (EX)	25	25	REACTOME
+R-MMU-2142700	Synthesis of Lipoxins (LX)	5	16	REACTOME
+R-MMU-1483166	Synthesis of PA	38	26	REACTOME
+R-MMU-1483191	Synthesis of PC	24	26	REACTOME
+R-MMU-1483213	Synthesis of PE	12	17	REACTOME
+R-MMU-1483148	Synthesis of PG	1	4	REACTOME
+R-MMU-1483226	Synthesis of PI	5	9	REACTOME
+R-MMU-1483248	Synthesis of PIPs at the ER membrane	5	9	REACTOME
+R-MMU-1660514	Synthesis of PIPs at the Golgi membrane	17	14	REACTOME
+R-MMU-1660516	Synthesis of PIPs at the early endosome membrane	15	15	REACTOME
+R-MMU-1660517	Synthesis of PIPs at the late endosome membrane	10	11	REACTOME
+R-MMU-1660499	Synthesis of PIPs at the plasma membrane	48	16	REACTOME
+R-MMU-8847453	Synthesis of PIPs in the nucleus	4	6	REACTOME
+R-MMU-1483101	Synthesis of PS	2	6	REACTOME
+R-MMU-2162123	Synthesis of Prostaglandins (PG) and Thromboxanes (TX)	12	23	REACTOME
+R-MMU-446210	Synthesis of UDP-N-acetyl-glucosamine	8	21	REACTOME
+R-MMU-8866652	Synthesis of active ubiquitin: roles of E1 and E2 enzymes	30	3	REACTOME
+R-MMU-192105	Synthesis of bile acids and bile salts	36	77	REACTOME
+R-MMU-193775	Synthesis of bile acids and bile salts via 24-hydroxycholesterol	16	28	REACTOME
+R-MMU-193807	Synthesis of bile acids and bile salts via 27-hydroxycholesterol	18	19	REACTOME
+R-MMU-193368	Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol	27	52	REACTOME
+R-MMU-5358493	Synthesis of diphthamide-EEF2	7	7	REACTOME
+R-MMU-162699	Synthesis of dolichyl-phosphate mannose	3	4	REACTOME
+R-MMU-480985	Synthesis of dolichyl-phosphate-glucose	2	7	REACTOME
+R-MMU-2142670	Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)	6	15	REACTOME
+R-MMU-162710	Synthesis of glycosylphosphatidylinositol (GPI)	16	19	REACTOME
+R-MMU-1855167	Synthesis of pyrophosphates in the cytosol	10	19	REACTOME
+R-MMU-446219	Synthesis of substrates in N-glycan biosythesis	61	68	REACTOME
+R-MMU-75876	Synthesis of very long-chain fatty acyl-CoAs	22	25	REACTOME
+R-MMU-422085	Synthesis, secretion, and deacylation of Ghrelin	16	5	REACTOME
+R-MMU-381771	Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)	10	21	REACTOME
+R-MMU-400511	Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)	4	7	REACTOME
+R-MMU-445989	TAK1 activates NFkB by phosphorylation and activation of IKKs complex	28	7	REACTOME
+R-MMU-8854214	TBC/RABGAPs	32	4	REACTOME
+R-MMU-201681	TCF dependent signaling in response to WNT	217	9	REACTOME
+R-MMU-202403	TCR signaling	101	10	REACTOME
+R-MMU-5221030	TET1,2,3 and TDG demethylate DNA	1	3	REACTOME
+R-MMU-8866911	TFAP2 (AP-2) family regulates transcription of cell cycle factors	3	0	REACTOME
+R-MMU-8866910	TFAP2 (AP-2) family regulates transcription of growth factors and their receptors	3	0	REACTOME
+R-MMU-8869496	TFAP2A acts as a transcriptional repressor during retinoic acid induced cell differentiation	2	1	REACTOME
+R-MMU-2173789	TGF-beta receptor signaling activates SMADs	22	4	REACTOME
+R-MMU-2173791	TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)	14	0	REACTOME
+R-MMU-9013973	TICAM1-dependent activation of IRF3/IRF7	2	0	REACTOME
+R-MMU-5676594	TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway	18	0	REACTOME
+R-MMU-75893	TNF signaling	42	3	REACTOME
+R-MMU-5357956	TNFR1-induced NFkappaB signaling pathway	28	0	REACTOME
+R-MMU-5357786	TNFR1-induced proapoptotic signaling	12	0	REACTOME
+R-MMU-5626978	TNFR1-mediated ceramide production	6	0	REACTOME
+R-MMU-5668541	TNFR2 non-canonical NF-kB pathway	98	2	REACTOME
+R-MMU-5669034	TNFs bind their physiological receptors	26	0	REACTOME
+R-MMU-5628897	TP53 Regulates Metabolic Genes	47	21	REACTOME
+R-MMU-6803207	TP53 Regulates Transcription of Caspase Activators and Caspases	4	2	REACTOME
+R-MMU-6791312	TP53 Regulates Transcription of Cell Cycle Genes	34	2	REACTOME
+R-MMU-5633008	TP53 Regulates Transcription of Cell Death Genes	14	3	REACTOME
+R-MMU-6796648	TP53 Regulates Transcription of DNA Repair Genes	42	2	REACTOME
+R-MMU-6803211	TP53 Regulates Transcription of Death Receptors and Ligands	2	0	REACTOME
+R-MMU-6803204	TP53 Regulates Transcription of Genes Involved in Cytochrome C Release	7	3	REACTOME
+R-MMU-6804116	TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest	10	0	REACTOME
+R-MMU-6804114	TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest	7	0	REACTOME
+R-MMU-6804115	TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain	17	2	REACTOME
+R-MMU-6803205	TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain	2	0	REACTOME
+R-MMU-918233	TRAF3-dependent IRF activation pathway	3	0	REACTOME
+R-MMU-933541	TRAF6 mediated IRF7 activation	3	0	REACTOME
+R-MMU-975110	TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling	8	6	REACTOME
+R-MMU-933542	TRAF6 mediated NF-kB activation	14	5	REACTOME
+R-MMU-975138	TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	80	14	REACTOME
+R-MMU-937072	TRAF6-mediated induction of TAK1 complex within TLR4 complex	16	3	REACTOME
+R-MMU-75158	TRAIL  signaling	5	0	REACTOME
+R-MMU-937061	TRIF(TICAM1)-mediated TLR4 signaling 	88	10	REACTOME
+R-MMU-2562578	TRIF-mediated programmed cell death	9	1	REACTOME
+R-MMU-187042	TRKA activation by NGF	2	0	REACTOME
+R-MMU-3295583	TRP channels	27	2	REACTOME
+R-MMU-1299503	TWIK related potassium channel (TREK)	3	1	REACTOME
+R-MMU-1299361	TWIK-related alkaline pH activated K+ channel (TALK)	1	1	REACTOME
+R-MMU-1299344	TWIK-related spinal cord K+ channel (TRESK)	1	1	REACTOME
+R-MMU-1299316	TWIK-releated acid-sensitive K+ channel (TASK)	2	1	REACTOME
+R-MMU-9033500	TYSND1 cleaves peroxisomal proteins	1	1	REACTOME
+R-MMU-380095	Tachykinin receptors bind tachykinins	5	0	REACTOME
+R-MMU-1299308	Tandem of pore domain in a weak inwardly rectifying K+ channels (TWIK)	3	1	REACTOME
+R-MMU-1299287	Tandem pore domain halothane-inhibited K+ channel (THIK)	1	1	REACTOME
+R-MMU-1296346	Tandem pore domain potassium channels	11	1	REACTOME
+R-MMU-174417	Telomere C-strand (Lagging Strand) Synthesis	21	17	REACTOME
+R-MMU-174430	Telomere C-strand synthesis initiation	8	11	REACTOME
+R-MMU-171319	Telomere Extension By Telomerase	2	5	REACTOME
+R-MMU-157579	Telomere Maintenance	83	17	REACTOME
+R-MMU-166665	Terminal pathway of complement	7	0	REACTOME
+R-MMU-977068	Termination of O-glycan biosynthesis	14	2	REACTOME
+R-MMU-5656169	Termination of translesion DNA synthesis	30	1	REACTOME
+R-MMU-1474151	Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation	9	20	REACTOME
+R-MMU-844615	The AIM2 inflammasome	1	1	REACTOME
+R-MMU-844455	The NLRP1 inflammasome	3	2	REACTOME
+R-MMU-844456	The NLRP3 inflammasome	10	6	REACTOME
+R-MMU-1663150	The activation of arylsulfatases	8	4	REACTOME
+R-MMU-2453902	The canonical retinoid cycle in rods (twilight vision)	20	29	REACTOME
+R-MMU-1428517	The citric acid (TCA) cycle and respiratory electron transport	134	50	REACTOME
+R-MMU-167826	The fatty acid cycling model	5	1	REACTOME
+R-MMU-2514856	The phototransduction cascade	29	21	REACTOME
+R-MMU-167827	The proton buffering model	5	6	REACTOME
+R-MMU-2187335	The retinoid cycle in cones (daylight vision)	6	12	REACTOME
+R-MMU-8852276	The role of GTSE1 in G2/M progression after G2 checkpoint	75	4	REACTOME
+R-MMU-8849175	Threonine catabolism	5	14	REACTOME
+R-MMU-456926	Thrombin signalling through proteinase activated receptors (PARs)	31	3	REACTOME
+R-MMU-428930	Thromboxane signalling through TP receptor	22	3	REACTOME
+R-MMU-209968	Thyroxine biosynthesis	7	17	REACTOME
+R-MMU-210993	Tie2 Signaling	17	2	REACTOME
+R-MMU-420029	Tight junction interactions	6	0	REACTOME
+R-MMU-168142	Toll Like Receptor 10 (TLR10) Cascade	70	9	REACTOME
+R-MMU-181438	Toll Like Receptor 2 (TLR2) Cascade	71	10	REACTOME
+R-MMU-168164	Toll Like Receptor 3 (TLR3) Cascade	68	9	REACTOME
+R-MMU-166016	Toll Like Receptor 4 (TLR4) Cascade	104	11	REACTOME
+R-MMU-168176	Toll Like Receptor 5 (TLR5) Cascade	70	9	REACTOME
+R-MMU-168181	Toll Like Receptor 7/8 (TLR7/8) Cascade	81	14	REACTOME
+R-MMU-168138	Toll Like Receptor 9 (TLR9) Cascade	85	14	REACTOME
+R-MMU-168179	Toll Like Receptor TLR1:TLR2 Cascade	71	10	REACTOME
+R-MMU-168188	Toll Like Receptor TLR6:TLR2 Cascade	71	10	REACTOME
+R-MMU-168898	Toll-like Receptor Cascades	133	27	REACTOME
+R-MMU-1679131	Trafficking and processing of endosomal TLR	12	3	REACTOME
+R-MMU-399719	Trafficking of AMPA receptors	26	6	REACTOME
+R-MMU-416993	Trafficking of GluR2-containing AMPA receptors	14	6	REACTOME
+R-MMU-5624138	Trafficking of myristoylated proteins to the cilium	4	2	REACTOME
+R-MMU-75944	Transcription from mitochondrial promoters	4	1	REACTOME
+R-MMU-6781827	Transcription-Coupled Nucleotide Excision Repair (TC-NER)	72	8	REACTOME
+R-MMU-69895	Transcriptional  activation of  cell cycle inhibitor p21 	2	0	REACTOME
+R-MMU-8953750	Transcriptional Regulation by E2F6	23	2	REACTOME
+R-MMU-8986944	Transcriptional Regulation by MECP2	6	2	REACTOME
+R-MMU-3700989	Transcriptional Regulation by TP53	263	31	REACTOME
+R-MMU-8853884	Transcriptional Regulation by VENTX	7	0	REACTOME
+R-MMU-2151201	Transcriptional activation of mitochondrial biogenesis	8	4	REACTOME
+R-MMU-69560	Transcriptional activation of p53 responsive genes  	2	0	REACTOME
+R-MMU-2173793	Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer	34	6	REACTOME
+R-MMU-8878171	Transcriptional regulation by RUNX1	194	7	REACTOME
+R-MMU-8878166	Transcriptional regulation by RUNX2	63	8	REACTOME
+R-MMU-8878159	Transcriptional regulation by RUNX3	78	7	REACTOME
+R-MMU-5578749	Transcriptional regulation by small RNAs	109	2	REACTOME
+R-MMU-8864260	Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors	21	1	REACTOME
+R-MMU-9616222	Transcriptional regulation of granulopoiesis	6	1	REACTOME
+R-MMU-381340	Transcriptional regulation of white adipocyte differentiation	2	0	REACTOME
+R-MMU-166020	Transfer of LPS from LBP carrier to CD14	2	1	REACTOME
+R-MMU-917977	Transferrin endocytosis and recycling	31	8	REACTOME
+R-MMU-72766	Translation	221	17	REACTOME
+R-MMU-72649	Translation initiation complex formation	58	2	REACTOME
+R-MMU-110320	Translesion Synthesis by POLH	18	5	REACTOME
+R-MMU-5656121	Translesion synthesis by POLI	16	3	REACTOME
+R-MMU-5655862	Translesion synthesis by POLK	16	4	REACTOME
+R-MMU-110312	Translesion synthesis by REV1	15	3	REACTOME
+R-MMU-110313	Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template	37	9	REACTOME
+R-MMU-202430	Translocation of ZAP-70 to Immunological synapse	9	5	REACTOME
+R-MMU-112315	Transmission across Chemical Synapses	201	64	REACTOME
+R-MMU-112307	Transmission across Electrical Synapses 	5	1	REACTOME
+R-MMU-174362	Transport and synthesis of PAPS	5	7	REACTOME
+R-MMU-72202	Transport of Mature Transcript to Cytoplasm	78	5	REACTOME
+R-MMU-159231	Transport of Mature mRNA Derived from an Intronless Transcript	39	1	REACTOME
+R-MMU-159236	Transport of Mature mRNA derived from an Intron-Containing Transcript	70	4	REACTOME
+R-MMU-159234	Transport of Mature mRNAs Derived from Intronless Transcripts	40	2	REACTOME
+R-MMU-425366	Transport of bile salts and organic acids, metal ions and amine compounds	76	79	REACTOME
+R-MMU-190872	Transport of connexons to the plasma membrane	17	2	REACTOME
+R-MMU-804914	Transport of fatty acids	7	10	REACTOME
+R-MMU-159763	Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi apparatus	9	0	REACTOME
+R-MMU-432030	Transport of glycerol from adipocytes to the liver by Aquaporins	2	1	REACTOME
+R-MMU-425393	Transport of inorganic cations/anions and amino acids/oligopeptides	99	58	REACTOME
+R-MMU-83936	Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane	11	21	REACTOME
+R-MMU-727802	Transport of nucleotide sugars	8	13	REACTOME
+R-MMU-879518	Transport of organic anions	11	16	REACTOME
+R-MMU-382551	Transport of small molecules	652	219	REACTOME
+R-MMU-159230	Transport of the SLBP Dependant Mature mRNA	34	2	REACTOME
+R-MMU-159227	Transport of the SLBP independent Mature mRNA	33	2	REACTOME
+R-MMU-425397	Transport of vitamins, nucleosides, and related molecules	40	64	REACTOME
+R-MMU-948021	Transport to the Golgi and subsequent modification	172	33	REACTOME
+R-MMU-75109	Triglyceride biosynthesis	12	19	REACTOME
+R-MMU-163560	Triglyceride catabolism	11	8	REACTOME
+R-MMU-8979227	Triglyceride metabolism	23	23	REACTOME
+R-MMU-450513	Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA	16	3	REACTOME
+R-MMU-71240	Tryptophan catabolism	11	27	REACTOME
+R-MMU-446107	Type I hemidesmosome assembly	10	0	REACTOME
+R-MMU-427589	Type II Na+/Pi cotransporters	2	3	REACTOME
+R-MMU-8963684	Tyrosine catabolism	5	15	REACTOME
+R-MMU-5689603	UCH proteinases	96	2	REACTOME
+R-MMU-5689880	Ub-specific processing proteases	181	1	REACTOME
+R-MMU-2142789	Ubiquinol biosynthesis	4	14	REACTOME
+R-MMU-69601	Ubiquitin Mediated Degradation of Phosphorylated Cdc25A	52	2	REACTOME
+R-MMU-75815	Ubiquitin-dependent degradation of Cyclin D	51	0	REACTOME
+R-MMU-438066	Unblocking of NMDA receptors, glutamate binding and activation	24	5	REACTOME
+R-MMU-381119	Unfolded Protein Response (UPR)	10	2	REACTOME
+R-MMU-176974	Unwinding of DNA	4	0	REACTOME
+R-MMU-70635	Urea cycle	10	22	REACTOME
+R-MMU-77108	Utilization of Ketone Bodies	5	10	REACTOME
+R-MMU-195399	VEGF binds to VEGFR leading to receptor dimerization	7	0	REACTOME
+R-MMU-194313	VEGF ligand-receptor interactions	7	0	REACTOME
+R-MMU-4420097	VEGFA-VEGFR2 Pathway	90	25	REACTOME
+R-MMU-5218921	VEGFR2 mediated cell proliferation	12	7	REACTOME
+R-MMU-5218920	VEGFR2 mediated vascular permeability	28	17	REACTOME
+R-MMU-8866423	VLDL assembly	5	4	REACTOME
+R-MMU-8964046	VLDL clearance	5	4	REACTOME
+R-MMU-8866427	VLDLR internalisation and degradation	10	0	REACTOME
+R-MMU-432040	Vasopressin regulates renal water homeostasis via Aquaporins	29	6	REACTOME
+R-MMU-388479	Vasopressin-like receptors	6	0	REACTOME
+R-MMU-5653656	Vesicle-mediated transport	566	59	REACTOME
+R-MMU-2187338	Visual phototransduction	92	59	REACTOME
+R-MMU-196819	Vitamin B1 (thiamin) metabolism	5	8	REACTOME
+R-MMU-196843	Vitamin B2 (riboflavin) metabolism	6	10	REACTOME
+R-MMU-199220	Vitamin B5 (pantothenate) metabolism	13	17	REACTOME
+R-MMU-196836	Vitamin C (ascorbate) metabolism	8	12	REACTOME
+R-MMU-196791	Vitamin D (calciferol) metabolism	8	9	REACTOME
+R-MMU-8877627	Vitamin E	1	1	REACTOME
+R-MMU-211916	Vitamins	6	13	REACTOME
+R-MMU-964975	Vitamins B6 activation to pyridoxal phosphate	3	18	REACTOME
+R-MMU-1296072	Voltage gated Potassium channels	41	1	REACTOME
+R-MMU-5620916	VxPx cargo-targeting to cilium	20	4	REACTOME
+R-MMU-3238698	WNT ligand biogenesis and trafficking	23	0	REACTOME
+R-MMU-201688	WNT mediated activation of DVL	8	4	REACTOME
+R-MMU-5140745	WNT5A-dependent internalization of FZD2, FZD5 and ROR2	10	0	REACTOME
+R-MMU-5099900	WNT5A-dependent internalization of FZD4	13	5	REACTOME
+R-MMU-8848584	Wax and plasmalogen biosynthesis	7	19	REACTOME
+R-MMU-9640463	Wax biosynthesis	4	13	REACTOME
+R-MMU-211981	Xenobiotics	27	48	REACTOME
+R-MMU-2032785	YAP1- and WWTR1 (TAZ)-stimulated gene expression	7	0	REACTOME
+R-MMU-1606322	ZBP1(DAI) mediated induction of type I IFNs	12	3	REACTOME
+R-MMU-435368	Zinc efflux and compartmentalization by the SLC30 family	4	1	REACTOME
+R-MMU-442380	Zinc influx into cells by the SLC39 gene family	8	1	REACTOME
+R-MMU-435354	Zinc transporters	12	1	REACTOME
+R-MMU-450302	activated TAK1 mediates p38 MAPK activation	21	4	REACTOME
+R-MMU-2046104	alpha-linolenic (omega3) and linoleic (omega6) acid metabolism	14	41	REACTOME
+R-MMU-2046106	alpha-linolenic acid (ALA) metabolism	14	32	REACTOME
+R-MMU-1307965	betaKlotho-mediated ligand binding	3	3	REACTOME
+R-MMU-418457	cGMP effects	10	2	REACTOME
+R-MMU-203615	eNOS activation	12	25	REACTOME
+R-MMU-72187	mRNA 3'-end processing	54	2	REACTOME
+R-MMU-72086	mRNA Capping	28	9	REACTOME
+R-MMU-75072	mRNA Editing	6	4	REACTOME
+R-MMU-75064	mRNA Editing: A to I Conversion	2	4	REACTOME
+R-MMU-72200	mRNA Editing: C to U Conversion	4	3	REACTOME
+R-MMU-72172	mRNA Splicing	178	2	REACTOME
+R-MMU-72163	mRNA Splicing - Major Pathway	172	1	REACTOME
+R-MMU-72165	mRNA Splicing - Minor Pathway	48	2	REACTOME
+R-MMU-429958	mRNA decay by 3' to 5' exoribonuclease	16	10	REACTOME
+R-MMU-430039	mRNA decay by 5' to 3' exoribonuclease	13	3	REACTOME
+R-MMU-165159	mTOR signalling	39	9	REACTOME
+R-MMU-166208	mTORC1-mediated signalling	23	4	REACTOME
+R-MMU-77286	mitochondrial fatty acid beta-oxidation of saturated fatty acids	9	38	REACTOME
+R-MMU-77288	mitochondrial fatty acid beta-oxidation of unsaturated fatty acids	3	11	REACTOME
+R-MMU-372708	p130Cas linkage to MAPK signaling for integrins	15	7	REACTOME
+R-MMU-171007	p38MAPK events	7	4	REACTOME
+R-MMU-69563	p53-Dependent G1 DNA Damage Response	65	2	REACTOME
+R-MMU-69580	p53-Dependent G1/S DNA damage checkpoint	65	2	REACTOME
+R-MMU-69610	p53-Independent DNA Damage Response	52	2	REACTOME
+R-MMU-69613	p53-Independent G1/S DNA damage checkpoint	52	2	REACTOME
+R-MMU-193704	p75 NTR receptor-mediated signalling	81	5	REACTOME
+R-MMU-209543	p75NTR recruits signalling complexes	13	0	REACTOME
+R-MMU-193697	p75NTR regulates axonogenesis	9	2	REACTOME
+R-MMU-193639	p75NTR signals via NF-kB	16	2	REACTOME
+R-MMU-111995	phospho-PLA2 pathway	2	7	REACTOME
+R-MMU-72312	rRNA processing	173	0	REACTOME
+R-MMU-8868773	rRNA processing in the nucleus and cytosol	173	0	REACTOME
+R-MMU-191859	snRNP Assembly	47	3	REACTOME
+R-MMU-379724	tRNA Aminoacylation	2	4	REACTOME
+R-MMU-199992	trans-Golgi Network Vesicle Budding	68	6	REACTOME
+WP1	Statin Pathway	19	3	WIKIPATHWAYS
+WP10	IL-9 Signaling Pathway	24	0	WIKIPATHWAYS
+WP103	Cholesterol Biosynthesis	15	10	WIKIPATHWAYS
+WP108	Selenium metabolism/Selenoproteins	52	2	WIKIPATHWAYS
+WP113	TGF Beta Signaling Pathway	52	0	WIKIPATHWAYS
+WP116	Hedgehog Signaling Pathway	22	0	WIKIPATHWAYS
+WP1241	Glucuronidation	16	14	WIKIPATHWAYS
+WP1242	Non-homologous end joining	6	0	WIKIPATHWAYS
+WP1243	EBV LMP1 signaling	22	0	WIKIPATHWAYS
+WP1244	Estrogen signaling	77	2	WIKIPATHWAYS
+WP1245	Keap1-Nrf2	14	1	WIKIPATHWAYS
+WP1246	Hypothetical Network for Drug Addiction	31	3	WIKIPATHWAYS
+WP1247	Methylation	9	5	WIKIPATHWAYS
+WP1248	Oxidative phosphorylation	62	5	WIKIPATHWAYS
+WP1249	EPO Receptor Signaling	26	0	WIKIPATHWAYS
+WP1250	Arachidonate Epoxygenase   Epoxide Hydrolase	3	8	WIKIPATHWAYS
+WP1251	Metapathway biotransformation	141	0	WIKIPATHWAYS
+WP1252	Amino acid conjugation of benzoic acid	2	9	WIKIPATHWAYS
+WP1253	Type II interferon signaling (IFNG)	34	0	WIKIPATHWAYS
+WP1254	Apoptosis	81	0	WIKIPATHWAYS
+WP1256	NLR Proteins	9	0	WIKIPATHWAYS
+WP1257	Mismatch repair	9	0	WIKIPATHWAYS
+WP1258	Homologous recombination	13	0	WIKIPATHWAYS
+WP1259	Retinol metabolism	39	9	WIKIPATHWAYS
+WP1261	ErbB signaling pathway	46	0	WIKIPATHWAYS
+WP1262	Aflatoxin B1 metabolism	5	5	WIKIPATHWAYS
+WP1263	Mitochondrial Gene Expression	19	3	WIKIPATHWAYS
+WP1264	Estrogen metabolism	14	12	WIKIPATHWAYS
+WP1265	Polyol pathway	4	7	WIKIPATHWAYS
+WP1266	SIDS Susceptibility Pathways	61	4	WIKIPATHWAYS
+WP1269	Fatty Acid Beta Oxidation	34	9	WIKIPATHWAYS
+WP1270	Endochondral Ossification	62	2	WIKIPATHWAYS
+WP1272	Selenium Micronutrient Network	23	53	WIKIPATHWAYS
+WP1273	Folic Acid Network	23	68	WIKIPATHWAYS
+WP1274	Oxidation by Cytochrome P450	40	8	WIKIPATHWAYS
+WP1396	Non-odorant GPCRs	267	0	WIKIPATHWAYS
+WP1397	Odorant GPCRs	189	0	WIKIPATHWAYS
+WP1398	Orphan GPCRs	19	0	WIKIPATHWAYS
+WP1496	Oxidative Damage	42	0	WIKIPATHWAYS
+WP1498	Dopaminergic Neurogenesis	30	1	WIKIPATHWAYS
+WP150	DNA Replication	41	5	WIKIPATHWAYS
+WP151	IL-5 Signaling Pathway	69	0	WIKIPATHWAYS
+WP1526	Regulation of Cardiac Hypertrophy by miR-208	6	0	WIKIPATHWAYS
+WP1560	MicroRNAs in Cardiomyocyte Hypertrophy	82	3	WIKIPATHWAYS
+WP157	Glycolysis and Gluconeogenesis	51	14	WIKIPATHWAYS
+WP1596	Iron Homeostasis	15	1	WIKIPATHWAYS
+WP163	Cytoplasmic Ribosomal Proteins	103	0	WIKIPATHWAYS
+WP164	Glutathione metabolism	20	18	WIKIPATHWAYS
+WP166	Apoptosis Modulation by HSP70	17	0	WIKIPATHWAYS
+WP175	Acetylcholine Synthesis	7	9	WIKIPATHWAYS
+WP1763	PluriNetWork	294	0	WIKIPATHWAYS
+WP1770	One carbon metabolism and related pathways	52	37	WIKIPATHWAYS
+WP1771	Kennedy pathway	14	17	WIKIPATHWAYS
+WP18	Heme Biosynthesis	9	12	WIKIPATHWAYS
+WP189	GPCRs, Class A Rhodopsin-like	228	3	WIKIPATHWAYS
+WP193	Signaling of Hepatocyte Growth Factor Receptor	34	0	WIKIPATHWAYS
+WP1983	Splicing factor NOVA regulated synaptic proteins	42	1	WIKIPATHWAYS
+WP200	Complement Activation, Classical Pathway	17	1	WIKIPATHWAYS
+WP201	Ptf1a related regulatory pathway	11	0	WIKIPATHWAYS
+WP202	Hypertrophy Model	20	0	WIKIPATHWAYS
+WP2067	Heart Development	44	0	WIKIPATHWAYS
+WP207	Nucleotide GPCRs	12	2	WIKIPATHWAYS
+WP2074	Neural Crest Differentiation	101	0	WIKIPATHWAYS
+WP2075	Alzheimers Disease	75	7	WIKIPATHWAYS
+WP2079	Serotonin Receptor 2 and STAT3 Signaling	4	1	WIKIPATHWAYS
+WP2083	Nicotine Activity on Dopaminergic Neurons	0	9	WIKIPATHWAYS
+WP2084	SREBF and miR33 in cholesterol and lipid homeostasis	11	0	WIKIPATHWAYS
+WP2140	Serotonin and anxiety-related events	13	1	WIKIPATHWAYS
+WP2141	Serotonin and anxiety	18	3	WIKIPATHWAYS
+WP216	Striated Muscle Contraction	45	0	WIKIPATHWAYS
+WP2185	Purine metabolism	171	68	WIKIPATHWAYS
+WP222	Cytokines and Inflammatory Response	27	0	WIKIPATHWAYS
+WP2271	Macrophage markers	10	0	WIKIPATHWAYS
+WP2292	Chemokine signaling pathway	191	5	WIKIPATHWAYS
+WP2316	PPAR signaling pathway	81	1	WIKIPATHWAYS
+WP2318	Fatty acid oxidation	10	9	WIKIPATHWAYS
+WP232	G Protein Signaling Pathways	93	4	WIKIPATHWAYS
+WP234	Peptide GPCRs	71	0	WIKIPATHWAYS
+WP2375	miRNAs and TFs in iPS Cell Generation	7	0	WIKIPATHWAYS
+WP238	Osteoblast	10	2	WIKIPATHWAYS
+WP240	Alanine and aspartate metabolism	15	0	WIKIPATHWAYS
+WP2432	Spinal Cord Injury	99	4	WIKIPATHWAYS
+WP246	TNF-alpha NF-kB Signaling Pathway	189	0	WIKIPATHWAYS
+WP251	MAPK Cascade	28	2	WIKIPATHWAYS
+WP2573	Primary Focal Segmental Glomerulosclerosis FSGS	72	1	WIKIPATHWAYS
+WP265	Delta-Notch Signaling Pathway	84	0	WIKIPATHWAYS
+WP273	Ovarian Infertility Genes	31	0	WIKIPATHWAYS
+WP2841	Focal Adhesion-PI3K-Akt-mTOR-signaling pathway	325	0	WIKIPATHWAYS
+WP2852	Gene regulatory network modelling somitogenesis 	11	0	WIKIPATHWAYS
+WP2872	White fat cell differentiation	32	1	WIKIPATHWAYS
+WP29	Notch Signaling Pathway	46	0	WIKIPATHWAYS
+WP2902	p53 signaling	67	0	WIKIPATHWAYS
+WP2904	Mir302-367 Promoting Cardiomyocyte Proliferation	4	0	WIKIPATHWAYS
+WP2910	Mecp2 and Associated Rett Syndrome	47	1	WIKIPATHWAYS
+WP2928	miR-222 in Exercise-Induced Cardiac Growth	4	0	WIKIPATHWAYS
+WP295	Electron Transport Chain	103	12	WIKIPATHWAYS
+WP297	IL-7 Signaling Pathway	44	0	WIKIPATHWAYS
+WP298	G13 Signaling Pathway	39	0	WIKIPATHWAYS
+WP300	Histone modifications	5	0	WIKIPATHWAYS
+WP307	Translation Factors	50	0	WIKIPATHWAYS
+WP310	mRNA processing	460	0	WIKIPATHWAYS
+WP317	Glycogen Metabolism	34	6	WIKIPATHWAYS
+WP318	Eicosanoid Synthesis	18	14	WIKIPATHWAYS
+WP327	GPCRs, Class C Metabotropic glutamate, pheromone	15	0	WIKIPATHWAYS
+WP33	Fatty Acid Omega Oxidation	7	0	WIKIPATHWAYS
+WP336	Fatty Acid Biosynthesis	22	2	WIKIPATHWAYS
+WP339	ESC Pluripotency Pathways	118	4	WIKIPATHWAYS
+WP350	p38 MAPK Signaling Pathway	36	0	WIKIPATHWAYS
+WP353	Small Ligand GPCRs	18	1	WIKIPATHWAYS
+WP3586	Glycolysis	0	11	WIKIPATHWAYS
+WP3587	TCA Cycle (streamlined)	0	8	WIKIPATHWAYS
+WP3588	Fatty Acid Beta Oxidation (streamlined)	0	2	WIKIPATHWAYS
+WP3592	ApoE and miR-146 in inflammation and atherosclerosis	8	1	WIKIPATHWAYS
+WP3625	TYROBP Causal Network	58	0	WIKIPATHWAYS
+WP3626	Microglia Pathogen Phagocytosis Pathway	41	2	WIKIPATHWAYS
+WP3632	Lung fibrosis	61	0	WIKIPATHWAYS
+WP3638	Parkinsons Disease Pathway	39	0	WIKIPATHWAYS
+WP3652	EDA Signalling in Hair Follicle Development	18	0	WIKIPATHWAYS
+WP3654	Novel Jun-Dmp1 Pathway	26	0	WIKIPATHWAYS
+WP3663	BMP Signaling Pathway in Eyelid Development	20	0	WIKIPATHWAYS
+WP3673	 Hfe effect on hepcidin production	7	0	WIKIPATHWAYS
+WP3675	Factors and pathways affecting insulin-like growth factor (IGF1)-Akt signaling	31	0	WIKIPATHWAYS
+WP37	IL-1 Signaling Pathway	37	0	WIKIPATHWAYS
+WP373	IL-3 Signaling Pathway	100	0	WIKIPATHWAYS
+WP374	Prostaglandin Synthesis and Regulation	31	9	WIKIPATHWAYS
+WP385	Myometrial Relaxation and Contraction Pathways	154	4	WIKIPATHWAYS
+WP3855	Dysregulated miRNA Targeting in Insulin/PI3K-AKT Signaling	26	0	WIKIPATHWAYS
+WP3857	Wnt Signaling in Kidney Disease	43	1	WIKIPATHWAYS
+WP386	Triacylglyceride Synthesis	23	0	WIKIPATHWAYS
+WP3864	Robo4 and VEGF Signaling Pathways Crosstalk	6	0	WIKIPATHWAYS
+WP387	IL-6 signaling Pathway	99	0	WIKIPATHWAYS
+WP396	ACE Inhibitor Pathway	10	4	WIKIPATHWAYS
+WP3979	mir-193a and MVP in colon cancer metastasis	6	0	WIKIPATHWAYS
+WP3991	miR-127 in mesendoderm differentiation	9	0	WIKIPATHWAYS
+WP401	Mitochondrial LC-Fatty Acid Beta-Oxidation	16	2	WIKIPATHWAYS
+WP403	Wnt Signaling Pathway	60	0	WIKIPATHWAYS
+WP407	Kit Receptor Signaling Pathway	67	0	WIKIPATHWAYS
+WP41	GPCRs, Other	155	0	WIKIPATHWAYS
+WP412	Oxidative Stress	28	0	WIKIPATHWAYS
+WP413	G1 to S cell cycle control	61	0	WIKIPATHWAYS
+WP4183	Distal Convoluted Tubule 1 (DCT1) Cell	7	2	WIKIPATHWAYS
+WP426	Urea cycle and metabolism of amino groups	0	11	WIKIPATHWAYS
+WP4265	Ethanol metabolism resulting in production of ROS by CYP2E1	10	8	WIKIPATHWAYS
+WP431	Nuclear receptors in lipid metabolism and toxicity	30	5	WIKIPATHWAYS
+WP4335	Eicosanoid Lipid Synthesis Map	9	7	WIKIPATHWAYS
+WP434	TCA Cycle	31	9	WIKIPATHWAYS
+WP4344	Sphingolipid Metabolism (general overview)	25	16	WIKIPATHWAYS
+WP4345	Glycerolipids and Glycerophospholipids	23	26	WIKIPATHWAYS
+WP4346	Cholesterol metabolism (includes both Bloch and Kandutsch-Russell pathways)	49	0	WIKIPATHWAYS
+WP4347	Eicosanoid metabolism via Cyclo Oxygenases (COX)	31	19	WIKIPATHWAYS
+WP4348	Eicosanoid metabolism via Lipo Oxygenases (LOX)	32	22	WIKIPATHWAYS
+WP4349	Eicosanoid metabolism via Cytochrome P450 Mono-Oxygenases (CYP) pathway	16	9	WIKIPATHWAYS
+WP435	One Carbon Metabolism	29	21	WIKIPATHWAYS
+WP4350	Omega-3/Omega-6 FA synthesis	15	12	WIKIPATHWAYS
+WP4351	Omega-9 FA synthesis	14	11	WIKIPATHWAYS
+WP4398	PDGFR&alpha; and STMN1 cooperate to exacerbate the cytotoxic effects of vinblastine	2	0	WIKIPATHWAYS
+WP441	Matrix Metalloproteinases	29	0	WIKIPATHWAYS
+WP447	Adipogenesis genes	134	0	WIKIPATHWAYS
+WP4474	Circulating monocytes and cardiac macrophages in diastolic dysfunction	4	0	WIKIPATHWAYS
+WP449	Complement and Coagulation Cascades	62	1	WIKIPATHWAYS
+WP450	IL-2 Signaling Pathway	76	0	WIKIPATHWAYS
+WP454	Osteoclast	14	3	WIKIPATHWAYS
+WP456	GPCRs, Class B Secretin-like	22	0	WIKIPATHWAYS
+WP458	Inflammatory Response Pathway	30	0	WIKIPATHWAYS
+WP460	Blood Clotting Cascade	20	0	WIKIPATHWAYS
+WP4627	 Lipids measured in liver metastasis from breast cancer	1	0	WIKIPATHWAYS
+WP4690	Sphingolipid Metabolism (integrated pathway)	26	11	WIKIPATHWAYS
+WP475	Irinotecan Pathway	10	1	WIKIPATHWAYS
+WP488	Alpha6-Beta4 Integrin Signaling Pathway	67	0	WIKIPATHWAYS
+WP493	MAPK signaling pathway	159	1	WIKIPATHWAYS
+WP495	Glucocorticoid &amp; Mineralcorticoid Metabolism	14	13	WIKIPATHWAYS
+WP509	Nuclear Receptors	38	0	WIKIPATHWAYS
+WP512	Id Signaling Pathway	51	0	WIKIPATHWAYS
+WP519	Proteasome Degradation	52	1	WIKIPATHWAYS
+WP522	Biogenic Amine Synthesis	15	17	WIKIPATHWAYS
+WP523	Regulation of Actin Cytoskeleton	152	5	WIKIPATHWAYS
+WP539	Wnt Signaling Pathway NetPath	108	0	WIKIPATHWAYS
+WP543	Synthesis and Degradation of Ketone Bodies	5	4	WIKIPATHWAYS
+WP544	Exercise-induced Circadian Regulation	49	0	WIKIPATHWAYS
+WP55	Steroid Biosynthesis	14	11	WIKIPATHWAYS
+WP553	Calcium Regulation in the Cardiac Cell	148	11	WIKIPATHWAYS
+WP567	Eukaryotic Transcription Initiation	43	0	WIKIPATHWAYS
+WP57	Signal Transduction of S1P Receptor	22	0	WIKIPATHWAYS
+WP570	Monoamine GPCRs	33	7	WIKIPATHWAYS
+WP571	FAS pathway and Stress induction of HSP regulation	37	2	WIKIPATHWAYS
+WP572	EGFR1 Signaling Pathway	178	0	WIKIPATHWAYS
+WP578	Leptin Insulin Overlap	18	1	WIKIPATHWAYS
+WP6	Integrin-mediated Cell Adhesion	100	0	WIKIPATHWAYS
+WP608	miR-1 in cardiac development	3	0	WIKIPATHWAYS
+WP63	Pentose Phosphate Pathway	7	6	WIKIPATHWAYS
+WP65	Insulin Signaling	159	0	WIKIPATHWAYS
+WP662	Amino Acid metabolism	96	87	WIKIPATHWAYS
+WP683	Leptin and adiponectin	10	2	WIKIPATHWAYS
+WP723	Wnt Signaling Pathway and Pluripotency	97	0	WIKIPATHWAYS
+WP730	Glutathione and one carbon metabolism	31	19	WIKIPATHWAYS
+WP79	Tryptophan metabolism	44	0	WIKIPATHWAYS
+WP85	Focal Adhesion	185	0	WIKIPATHWAYS
+WP87	Nucleotide Metabolism	19	16	WIKIPATHWAYS
+WP88	Toll Like Receptor signaling	33	0	WIKIPATHWAYS
