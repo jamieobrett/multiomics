@@ -21,7 +21,7 @@ It comes bundled with GSEA_4.0.3 and JDK11 for running GSEA.
 
 To install:
 
-git clone https://github.com/teplotaxl5/multiomics.git
+git clone https://github.com/jamieobrett/multiomics.git
 
 Then open R
 
